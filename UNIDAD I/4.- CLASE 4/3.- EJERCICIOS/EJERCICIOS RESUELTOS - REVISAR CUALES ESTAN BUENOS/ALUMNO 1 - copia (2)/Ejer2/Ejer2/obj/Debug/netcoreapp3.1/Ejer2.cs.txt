@@ -1,0 +1,13 @@
+C:\Users\junan\source\repos\Ejer2\Ejer2\bin\Debug\netcoreapp3.1\Ejer2.exe
+C:\Users\junan\source\repos\Ejer2\Ejer2\bin\Debug\netcoreapp3.1\Ejer2.deps.json
+C:\Users\junan\source\repos\Ejer2\Ejer2\bin\Debug\netcoreapp3.1\Ejer2.runtimeconfig.json
+C:\Users\junan\source\repos\Ejer2\Ejer2\bin\Debug\netcoreapp3.1\Ejer2.runtimeconfig.dev.json
+C:\Users\junan\source\repos\Ejer2\Ejer2\bin\Debug\netcoreapp3.1\Ejer2.dll
+C:\Users\junan\source\repos\Ejer2\Ejer2\bin\Debug\netcoreapp3.1\Ejer2.pdb
+C:\Users\junan\source\repos\Ejer2\Ejer2\obj\Debug\netcoreapp3.1\Ejer2.csprojAssemblyReference.cache
+C:\Users\junan\source\repos\Ejer2\Ejer2\obj\Debug\netcoreapp3.1\Ejer2.AssemblyInfoInputs.cache
+C:\Users\junan\source\repos\Ejer2\Ejer2\obj\Debug\netcoreapp3.1\Ejer2.AssemblyInfo.cs
+C:\Users\junan\source\repos\Ejer2\Ejer2\obj\Debug\netcoreapp3.1\Ejer2.csproj.CoreCompileInputs.cache
+C:\Users\junan\source\repos\Ejer2\Ejer2\obj\Debug\netcoreapp3.1\Ejer2.dll
+C:\Users\junan\source\repos\Ejer2\Ejer2\obj\Debug\netcoreapp3.1\Ejer2.pdb
+C:\Users\junan\source\repos\Ejer2\Ejer2\obj\Debug\netcoreapp3.1\Ejer2.genruntimeconfig.cache

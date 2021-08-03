@@ -1,0 +1,13 @@
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 1\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.exe
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 1\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.deps.json
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 1\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.runtimeconfig.json
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 1\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.runtimeconfig.dev.json
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 1\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.dll
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 1\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.pdb
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 1\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 1\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 1\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 1\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 1\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.dll
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 1\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.pdb
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 1\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.genruntimeconfig.cache

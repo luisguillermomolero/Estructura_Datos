@@ -1,0 +1,13 @@
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\7.- Switch1\bin\Debug\netcoreapp3.1\Switch1.exe
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\7.- Switch1\bin\Debug\netcoreapp3.1\Switch1.deps.json
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\7.- Switch1\bin\Debug\netcoreapp3.1\Switch1.runtimeconfig.json
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\7.- Switch1\bin\Debug\netcoreapp3.1\Switch1.runtimeconfig.dev.json
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\7.- Switch1\bin\Debug\netcoreapp3.1\Switch1.dll
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\7.- Switch1\bin\Debug\netcoreapp3.1\Switch1.pdb
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\7.- Switch1\obj\Debug\netcoreapp3.1\Switch1.csprojAssemblyReference.cache
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\7.- Switch1\obj\Debug\netcoreapp3.1\Switch1.AssemblyInfoInputs.cache
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\7.- Switch1\obj\Debug\netcoreapp3.1\Switch1.AssemblyInfo.cs
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\7.- Switch1\obj\Debug\netcoreapp3.1\Switch1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\7.- Switch1\obj\Debug\netcoreapp3.1\Switch1.dll
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\7.- Switch1\obj\Debug\netcoreapp3.1\Switch1.pdb
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\7.- Switch1\obj\Debug\netcoreapp3.1\Switch1.genruntimeconfig.cache

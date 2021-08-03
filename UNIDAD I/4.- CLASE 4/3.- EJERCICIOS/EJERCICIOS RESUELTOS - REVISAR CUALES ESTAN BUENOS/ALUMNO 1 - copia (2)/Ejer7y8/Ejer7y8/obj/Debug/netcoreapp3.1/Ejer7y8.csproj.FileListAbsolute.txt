@@ -1,0 +1,13 @@
+C:\Users\junan\source\repos\Ejer7y8\Ejer7y8\obj\Debug\netcoreapp3.1\Ejer7y8.csprojAssemblyReference.cache
+C:\Users\junan\source\repos\Ejer7y8\Ejer7y8\obj\Debug\netcoreapp3.1\Ejer7y8.AssemblyInfoInputs.cache
+C:\Users\junan\source\repos\Ejer7y8\Ejer7y8\obj\Debug\netcoreapp3.1\Ejer7y8.AssemblyInfo.cs
+C:\Users\junan\source\repos\Ejer7y8\Ejer7y8\obj\Debug\netcoreapp3.1\Ejer7y8.csproj.CoreCompileInputs.cache
+C:\Users\junan\source\repos\Ejer7y8\Ejer7y8\bin\Debug\netcoreapp3.1\Ejer7y8.exe
+C:\Users\junan\source\repos\Ejer7y8\Ejer7y8\bin\Debug\netcoreapp3.1\Ejer7y8.deps.json
+C:\Users\junan\source\repos\Ejer7y8\Ejer7y8\bin\Debug\netcoreapp3.1\Ejer7y8.runtimeconfig.json
+C:\Users\junan\source\repos\Ejer7y8\Ejer7y8\bin\Debug\netcoreapp3.1\Ejer7y8.runtimeconfig.dev.json
+C:\Users\junan\source\repos\Ejer7y8\Ejer7y8\bin\Debug\netcoreapp3.1\Ejer7y8.dll
+C:\Users\junan\source\repos\Ejer7y8\Ejer7y8\bin\Debug\netcoreapp3.1\Ejer7y8.pdb
+C:\Users\junan\source\repos\Ejer7y8\Ejer7y8\obj\Debug\netcoreapp3.1\Ejer7y8.dll
+C:\Users\junan\source\repos\Ejer7y8\Ejer7y8\obj\Debug\netcoreapp3.1\Ejer7y8.pdb
+C:\Users\junan\source\repos\Ejer7y8\Ejer7y8\obj\Debug\netcoreapp3.1\Ejer7y8.genruntimeconfig.cache

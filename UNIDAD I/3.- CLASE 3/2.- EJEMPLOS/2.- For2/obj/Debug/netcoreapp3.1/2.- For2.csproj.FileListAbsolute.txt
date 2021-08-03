@@ -1,0 +1,13 @@
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\3.- CLASE 3\2.- EJEMPLOS\2.- For2\bin\Debug\netcoreapp3.1\2.- For2.exe
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\3.- CLASE 3\2.- EJEMPLOS\2.- For2\bin\Debug\netcoreapp3.1\2.- For2.deps.json
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\3.- CLASE 3\2.- EJEMPLOS\2.- For2\bin\Debug\netcoreapp3.1\2.- For2.runtimeconfig.json
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\3.- CLASE 3\2.- EJEMPLOS\2.- For2\bin\Debug\netcoreapp3.1\2.- For2.runtimeconfig.dev.json
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\3.- CLASE 3\2.- EJEMPLOS\2.- For2\bin\Debug\netcoreapp3.1\2.- For2.dll
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\3.- CLASE 3\2.- EJEMPLOS\2.- For2\bin\Debug\netcoreapp3.1\2.- For2.pdb
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\3.- CLASE 3\2.- EJEMPLOS\2.- For2\obj\Debug\netcoreapp3.1\2.- For2.csprojAssemblyReference.cache
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\3.- CLASE 3\2.- EJEMPLOS\2.- For2\obj\Debug\netcoreapp3.1\2.- For2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\3.- CLASE 3\2.- EJEMPLOS\2.- For2\obj\Debug\netcoreapp3.1\2.- For2.AssemblyInfoInputs.cache
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\3.- CLASE 3\2.- EJEMPLOS\2.- For2\obj\Debug\netcoreapp3.1\2.- For2.AssemblyInfo.cs
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\3.- CLASE 3\2.- EJEMPLOS\2.- For2\obj\Debug\netcoreapp3.1\2.- For2.dll
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\3.- CLASE 3\2.- EJEMPLOS\2.- For2\obj\Debug\netcoreapp3.1\2.- For2.pdb
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\3.- CLASE 3\2.- EJEMPLOS\2.- For2\obj\Debug\netcoreapp3.1\2.- For2.genruntimeconfig.cache

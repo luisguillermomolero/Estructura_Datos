@@ -1,0 +1,24 @@
+C:\Estructura de Datos\clase 2\ejercicio8\bin\Debug\netcoreapp3.1\ejercicio8.exe
+C:\Estructura de Datos\clase 2\ejercicio8\bin\Debug\netcoreapp3.1\ejercicio8.deps.json
+C:\Estructura de Datos\clase 2\ejercicio8\bin\Debug\netcoreapp3.1\ejercicio8.runtimeconfig.json
+C:\Estructura de Datos\clase 2\ejercicio8\bin\Debug\netcoreapp3.1\ejercicio8.runtimeconfig.dev.json
+C:\Estructura de Datos\clase 2\ejercicio8\bin\Debug\netcoreapp3.1\ejercicio8.dll
+C:\Estructura de Datos\clase 2\ejercicio8\bin\Debug\netcoreapp3.1\ejercicio8.pdb
+C:\Estructura de Datos\clase 2\ejercicio8\obj\Debug\netcoreapp3.1\ejercicio8.csprojAssemblyReference.cache
+C:\Estructura de Datos\clase 2\ejercicio8\obj\Debug\netcoreapp3.1\ejercicio8.AssemblyInfoInputs.cache
+C:\Estructura de Datos\clase 2\ejercicio8\obj\Debug\netcoreapp3.1\ejercicio8.AssemblyInfo.cs
+C:\Estructura de Datos\clase 2\ejercicio8\obj\Debug\netcoreapp3.1\ejercicio8.dll
+C:\Estructura de Datos\clase 2\ejercicio8\obj\Debug\netcoreapp3.1\ejercicio8.pdb
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 2\ejercicio8\bin\Debug\netcoreapp3.1\ejercicio8.exe
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 2\ejercicio8\bin\Debug\netcoreapp3.1\ejercicio8.deps.json
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 2\ejercicio8\bin\Debug\netcoreapp3.1\ejercicio8.runtimeconfig.json
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 2\ejercicio8\bin\Debug\netcoreapp3.1\ejercicio8.runtimeconfig.dev.json
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 2\ejercicio8\bin\Debug\netcoreapp3.1\ejercicio8.dll
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 2\ejercicio8\bin\Debug\netcoreapp3.1\ejercicio8.pdb
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 2\ejercicio8\obj\Debug\netcoreapp3.1\ejercicio8.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 2\ejercicio8\obj\Debug\netcoreapp3.1\ejercicio8.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 2\ejercicio8\obj\Debug\netcoreapp3.1\ejercicio8.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 2\ejercicio8\obj\Debug\netcoreapp3.1\ejercicio8.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 2\ejercicio8\obj\Debug\netcoreapp3.1\ejercicio8.dll
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 2\ejercicio8\obj\Debug\netcoreapp3.1\ejercicio8.pdb
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 2\ejercicio8\obj\Debug\netcoreapp3.1\ejercicio8.genruntimeconfig.cache

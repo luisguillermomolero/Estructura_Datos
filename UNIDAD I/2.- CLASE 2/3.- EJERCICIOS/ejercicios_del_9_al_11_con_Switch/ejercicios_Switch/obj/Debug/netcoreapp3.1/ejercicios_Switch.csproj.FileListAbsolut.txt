@@ -1,0 +1,26 @@
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicios_Switch\ejercicios_Switch\bin\Debug\netcoreapp3.1\ejercicios_Switch.exe
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicios_Switch\ejercicios_Switch\bin\Debug\netcoreapp3.1\ejercicios_Switch.deps.json
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicios_Switch\ejercicios_Switch\bin\Debug\netcoreapp3.1\ejercicios_Switch.runtimeconfig.json
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicios_Switch\ejercicios_Switch\bin\Debug\netcoreapp3.1\ejercicios_Switch.runtimeconfig.dev.json
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicios_Switch\ejercicios_Switch\bin\Debug\netcoreapp3.1\ejercicios_Switch.dll
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicios_Switch\ejercicios_Switch\bin\Debug\netcoreapp3.1\ejercicios_Switch.pdb
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicios_Switch\ejercicios_Switch\obj\Debug\netcoreapp3.1\ejercicios_Switch.csprojAssemblyReference.cache
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicios_Switch\ejercicios_Switch\obj\Debug\netcoreapp3.1\ejercicios_Switch.AssemblyInfoInputs.cache
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicios_Switch\ejercicios_Switch\obj\Debug\netcoreapp3.1\ejercicios_Switch.AssemblyInfo.cs
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicios_Switch\ejercicios_Switch\obj\Debug\netcoreapp3.1\ejercicios_Switch.csproj.CoreCompileInputs.cache
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicios_Switch\ejercicios_Switch\obj\Debug\netcoreapp3.1\ejercicios_Switch.dll
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicios_Switch\ejercicios_Switch\obj\Debug\netcoreapp3.1\ejercicios_Switch.pdb
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicios_Switch\ejercicios_Switch\obj\Debug\netcoreapp3.1\ejercicios_Switch.genruntimeconfig.cache
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicios_del_9_al_11_con_Switch\ejercicios_Switch\bin\Debug\netcoreapp3.1\ejercicios_Switch.exe
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicios_del_9_al_11_con_Switch\ejercicios_Switch\bin\Debug\netcoreapp3.1\ejercicios_Switch.deps.json
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicios_del_9_al_11_con_Switch\ejercicios_Switch\bin\Debug\netcoreapp3.1\ejercicios_Switch.runtimeconfig.json
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicios_del_9_al_11_con_Switch\ejercicios_Switch\bin\Debug\netcoreapp3.1\ejercicios_Switch.runtimeconfig.dev.json
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicios_del_9_al_11_con_Switch\ejercicios_Switch\bin\Debug\netcoreapp3.1\ejercicios_Switch.dll
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicios_del_9_al_11_con_Switch\ejercicios_Switch\bin\Debug\netcoreapp3.1\ejercicios_Switch.pdb
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicios_del_9_al_11_con_Switch\ejercicios_Switch\obj\Debug\netcoreapp3.1\ejercicios_Switch.csprojAssemblyReference.cache
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicios_del_9_al_11_con_Switch\ejercicios_Switch\obj\Debug\netcoreapp3.1\ejercicios_Switch.AssemblyInfoInputs.cache
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicios_del_9_al_11_con_Switch\ejercicios_Switch\obj\Debug\netcoreapp3.1\ejercicios_Switch.AssemblyInfo.cs
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicios_del_9_al_11_con_Switch\ejercicios_Switch\obj\Debug\netcoreapp3.1\ejercicios_Switch.csproj.CoreCompileInputs.cache
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicios_del_9_al_11_con_Switch\ejercicios_Switch\obj\Debug\netcoreapp3.1\ejercicios_Switch.dll
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicios_del_9_al_11_con_Switch\ejercicios_Switch\obj\Debug\netcoreapp3.1\ejercicios_Switch.pdb
+D:\Universidad Oscar Adrian\Segundo semestre\estructura-datos\clase2\ejercicios_del_9_al_11_con_Switch\ejercicios_Switch\obj\Debug\netcoreapp3.1\ejercicios_Switch.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\if2\bin\Debug\netcoreapp3.1\if2.exe
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\if2\bin\Debug\netcoreapp3.1\if2.deps.json
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\if2\bin\Debug\netcoreapp3.1\if2.runtimeconfig.json
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\if2\bin\Debug\netcoreapp3.1\if2.runtimeconfig.dev.json
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\if2\bin\Debug\netcoreapp3.1\if2.dll
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\if2\bin\Debug\netcoreapp3.1\if2.pdb
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\if2\obj\Debug\netcoreapp3.1\if2.csprojAssemblyReference.cache
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\if2\obj\Debug\netcoreapp3.1\if2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\if2\obj\Debug\netcoreapp3.1\if2.AssemblyInfoInputs.cache
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\if2\obj\Debug\netcoreapp3.1\if2.AssemblyInfo.cs
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\if2\obj\Debug\netcoreapp3.1\if2.dll
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\if2\obj\Debug\netcoreapp3.1\if2.pdb
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\if2\obj\Debug\netcoreapp3.1\if2.genruntimeconfig.cache
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\2.- If2\bin\Debug\netcoreapp3.1\if2.exe
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\2.- If2\bin\Debug\netcoreapp3.1\if2.deps.json
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\2.- If2\bin\Debug\netcoreapp3.1\if2.runtimeconfig.json
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\2.- If2\bin\Debug\netcoreapp3.1\if2.runtimeconfig.dev.json
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\2.- If2\bin\Debug\netcoreapp3.1\if2.dll
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\2.- If2\bin\Debug\netcoreapp3.1\if2.pdb
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\2.- If2\obj\Debug\netcoreapp3.1\if2.csprojAssemblyReference.cache
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\2.- If2\obj\Debug\netcoreapp3.1\if2.AssemblyInfoInputs.cache
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\2.- If2\obj\Debug\netcoreapp3.1\if2.AssemblyInfo.cs
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\2.- If2\obj\Debug\netcoreapp3.1\if2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\2.- If2\obj\Debug\netcoreapp3.1\if2.dll
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\2.- If2\obj\Debug\netcoreapp3.1\if2.pdb
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\2.- CLASE 2\2.- EJEMPLOS\2.- If2\obj\Debug\netcoreapp3.1\if2.genruntimeconfig.cache

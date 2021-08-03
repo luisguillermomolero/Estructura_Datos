@@ -1,0 +1,13 @@
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 2\ejercico9\bin\Debug\netcoreapp3.1\ejercico9.exe
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 2\ejercico9\bin\Debug\netcoreapp3.1\ejercico9.deps.json
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 2\ejercico9\bin\Debug\netcoreapp3.1\ejercico9.runtimeconfig.json
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 2\ejercico9\bin\Debug\netcoreapp3.1\ejercico9.runtimeconfig.dev.json
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 2\ejercico9\bin\Debug\netcoreapp3.1\ejercico9.dll
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 2\ejercico9\bin\Debug\netcoreapp3.1\ejercico9.pdb
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 2\ejercico9\obj\Debug\netcoreapp3.1\ejercico9.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 2\ejercico9\obj\Debug\netcoreapp3.1\ejercico9.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 2\ejercico9\obj\Debug\netcoreapp3.1\ejercico9.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 2\ejercico9\obj\Debug\netcoreapp3.1\ejercico9.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 2\ejercico9\obj\Debug\netcoreapp3.1\ejercico9.dll
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 2\ejercico9\obj\Debug\netcoreapp3.1\ejercico9.pdb
+C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 2\ejercico9\obj\Debug\netcoreapp3.1\ejercico9.genruntimeconfig.cache

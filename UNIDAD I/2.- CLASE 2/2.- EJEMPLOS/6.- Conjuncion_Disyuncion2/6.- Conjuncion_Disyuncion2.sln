@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.- Conjuncion_Disyuncion2", "6.- Conjuncion_Disyuncion2.csproj", "{1F4D02CB-3B06-4A75-A2A1-947C69BE25A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F4D02CB-3B06-4A75-A2A1-947C69BE25A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F4D02CB-3B06-4A75-A2A1-947C69BE25A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F4D02CB-3B06-4A75-A2A1-947C69BE25A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F4D02CB-3B06-4A75-A2A1-947C69BE25A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68A81584-B2E4-4767-9FE1-6EA752A35080}
+	EndGlobalSection
+EndGlobal
