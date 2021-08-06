@@ -6,7 +6,7 @@ using System.Collections.Generic;  //https://docs.microsoft.com/es-es/dotnet/api
 
 //El "namespace" organiza las clases y evitar duplicidad dentro de un entorno, agrupándo las clases de un modo más lógico y jerárquico.
 
-// **********  Para ejecutar: dotnet run **********
+// *********  Para ejecutar: dotnet run *********
 
 namespace AplicacionBase
 {
