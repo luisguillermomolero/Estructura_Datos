@@ -10,7 +10,7 @@ using System.Collections.Generic;  //https://docs.microsoft.com/es-es/dotnet/api
 
 namespace AplicacionBase
 {
-    //Aplicación para hacer un pastel
+    //Aplicación para hacer un pastel del cumpleaños
 
     //Declaración de la clase principal
     class Program
