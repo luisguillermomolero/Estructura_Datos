@@ -6,24 +6,22 @@ namespace ejercicio2
     {
         static void Main(string[] args)
         {
-            float pi = 3.14f;
-            int rad = 0;
-            int radi = 0;
-            float area = 0;
+            float PI = 3.14f;
+            int Radio = 0;
+            float Area = 0;
 
             string entrada = "";
 
             Console.WriteLine("vamos a calcular el area de un circulo");
             Console.WriteLine("");
 
-            Console.WriteLine("digita el radio del circulo");
+            Console.WriteLine("Digita el radio del circulo");
             entrada = Console.ReadLine();
-            rad = Convert.ToInt32(entrada);
+            Radio = Convert.ToInt32(entrada);
 
-            radi = rad * rad;
-            area = pi * radi;
+            Area = PI*(Radio*Radio);
 
-            Console.WriteLine("el area del circulo es "+ area);
+            Console.WriteLine("El area de la circunferencia es " + Area);
         }
     }
 }

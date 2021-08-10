@@ -27,7 +27,7 @@ namespace AplicacionBase
             int b = 0, resultado = 0;
 
             Console.WriteLine("Escribe tu nombre)");
-            entrada = Console.ReadLine();
+            entrada = Console.ReadLine(); //Instanciar
             Console.WriteLine("** Hola {0} como estas? **", entrada);
             Console.WriteLine("");
 
@@ -47,18 +47,18 @@ namespace AplicacionBase
 
             // Ahora, calculamos el área de una circunferencia
 
-            float pi = 3.14f;
-            float radio = 0.0F;
-            float area = 0.0f;
+            float PI = 3.14f;
+            float Radio = 0.0F;
+            float Area = 0.0f;
 
             Console.WriteLine("Ahora, calculamos el área de una circunferencia");
             Console.WriteLine("");
             Console.WriteLine("Regalame el valor del radio");
             entrada = Console.ReadLine();
-            radio = Convert.ToSingle(entrada);
+            Radio = Convert.ToSingle(entrada);
 
-            area = (radio * radio) * pi;
-            Console.WriteLine("** El radio es {0} por ende, El área de una circunferencia es {1} **", radio, area);
+            Area = PI * (Radio * Radio);
+            Console.WriteLine("** El radio es {0} por ende, El área de una circunferencia es {1} **", Radio, Area);
 
         }
     }

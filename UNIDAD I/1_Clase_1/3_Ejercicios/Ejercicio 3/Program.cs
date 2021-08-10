@@ -8,27 +8,26 @@ namespace ejercicio3
         {
 
             string Entrada = "";
-            int dos = 2;
-            int bas = 0;
-            int sup = 0;
-            int alt = 0;
+            int Base = 0;
+            int Superficie = 0;
+            int Altura = 0;
 
-            Console.WriteLine("vamos a calcular la base de un triangulo");
+            Console.WriteLine("Vamos a calcular la base de un triangulo");
             Console.WriteLine("");
 
-            Console.WriteLine("digite la superficie del triangulo");
+            Console.WriteLine("Digite la superficie del triangulo");
             Entrada = Console.ReadLine();
-            sup = Convert.ToInt32(Entrada);
+            Superficie = Convert.ToInt32(Entrada);
             Console.WriteLine("");
 
-            Console.WriteLine("digite la altura del triangulo");
+            Console.WriteLine("Digite la altura del triangulo");
             Entrada = Console.ReadLine();
-            alt = Convert.ToInt32(Entrada);
+            Altura = Convert.ToInt32(Entrada);
             Console.WriteLine("");
 
-            bas = (dos * sup) / alt;
+            Base = (2 * Superficie) / Altura;
 
-            Console.WriteLine("la base del triangulo es " + bas);
+            Console.WriteLine("la base del triangulo es " + Base);
 
         }
     }

@@ -11,18 +11,18 @@ namespace ejercicio_4
         static void Main(string[] args)
         {
             //variables
-            Double r, a;
+            Double Radio, Area;
             const Double PI = 3.1416;
 
             //Entrada
             System.Console.Write("valor del radio");
-            r = double.Parse(System.Console.ReadLine());
+            Radio = double.Parse(System.Console.ReadLine());
 
             //proceso
-            a = PI * Math.Pow(r, 2);
+            Area = PI * Math.Pow(Radio, 2);
 
             //salida
-            System.Console.Write("el area es de : " + a);
+            System.Console.Write("el area es de : " + Area);
             System.Console.ReadKey();
         }
     }
