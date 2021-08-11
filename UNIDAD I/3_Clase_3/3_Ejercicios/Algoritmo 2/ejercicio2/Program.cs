@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Net.Http.Headers;
 
-namespace Aplicacionbase
+namespace AplicacionBase
 {
     class Program
     {

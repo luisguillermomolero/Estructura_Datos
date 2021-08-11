@@ -22,3 +22,16 @@ C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 2\ejercicio7\obj\Debug\
 C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 2\ejercicio7\obj\Debug\netcoreapp3.1\ejercicio7.dll
 C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 2\ejercicio7\obj\Debug\netcoreapp3.1\ejercicio7.pdb
 C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 2\ejercicio7\obj\Debug\netcoreapp3.1\ejercicio7.genruntimeconfig.cache
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\3_Ejercicios\ejercicio7\bin\Debug\netcoreapp3.1\ejercicio7.exe
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\3_Ejercicios\ejercicio7\bin\Debug\netcoreapp3.1\ejercicio7.deps.json
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\3_Ejercicios\ejercicio7\bin\Debug\netcoreapp3.1\ejercicio7.runtimeconfig.json
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\3_Ejercicios\ejercicio7\bin\Debug\netcoreapp3.1\ejercicio7.runtimeconfig.dev.json
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\3_Ejercicios\ejercicio7\bin\Debug\netcoreapp3.1\ejercicio7.dll
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\3_Ejercicios\ejercicio7\bin\Debug\netcoreapp3.1\ejercicio7.pdb
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\3_Ejercicios\ejercicio7\obj\Debug\netcoreapp3.1\ejercicio7.csprojAssemblyReference.cache
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\3_Ejercicios\ejercicio7\obj\Debug\netcoreapp3.1\ejercicio7.AssemblyInfoInputs.cache
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\3_Ejercicios\ejercicio7\obj\Debug\netcoreapp3.1\ejercicio7.AssemblyInfo.cs
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\3_Ejercicios\ejercicio7\obj\Debug\netcoreapp3.1\ejercicio7.csproj.CoreCompileInputs.cache
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\3_Ejercicios\ejercicio7\obj\Debug\netcoreapp3.1\ejercicio7.dll
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\3_Ejercicios\ejercicio7\obj\Debug\netcoreapp3.1\ejercicio7.pdb
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\3_Ejercicios\ejercicio7\obj\Debug\netcoreapp3.1\ejercicio7.genruntimeconfig.cache

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-namespace ejercicio10
+
+namespace AplicacionBase
 {
     class Program
     {

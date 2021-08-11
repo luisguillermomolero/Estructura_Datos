@@ -1,16 +1,17 @@
-﻿using System;
+﻿//Aplicacio que permite conocer el número mayor de 4 ingresados
+using System;
 
-namespace ejercicio1
+namespace AplicacionBase
 {
     class Program
     {
         static void Main(string[] args)
         {
-            //variable en trada de los siguientes
+            //variable de entrada
             double n1, n2, n3, n4;
-            // variable de salida
+            //variable de salida
             double mayor;
-            //leer  variable de entrada 
+            //leer variable de entrada 
             Console.WriteLine("ingrese el numero 1");
             n1 = double.Parse(Console.ReadLine());
             Console.WriteLine("ingrese el numero 2");

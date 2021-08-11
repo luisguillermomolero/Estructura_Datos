@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Algoritmo_3
+namespace AplicacionBase
 {
     class Program
     {

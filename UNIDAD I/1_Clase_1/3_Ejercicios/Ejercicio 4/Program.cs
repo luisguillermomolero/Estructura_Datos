@@ -4,7 +4,7 @@ using System.Text;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace ejercicio_4
+namespace AplicacionBase
 {
     class Program
     {

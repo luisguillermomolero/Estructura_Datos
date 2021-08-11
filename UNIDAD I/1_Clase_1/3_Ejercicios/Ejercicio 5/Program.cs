@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace programa05
+namespace AplicacionBase
 {
 
     class Program

@@ -1,46 +1,57 @@
-﻿using System;
+﻿//Aplicación que permite generar una factuara
+using System;
 using System.Linq;
 using System.Text;
 using System.Collections;
 using System.Collections.Generic;
 
 
-namespace Factura
+namespace AplicacionBase
 {
     class Program
     {
         static void Main(string[] args)
         {
-            double va1, cant, descuento, iva, Total, precio2;
+            double Valor, Cantidad, Descuento, calculoIVA, Total, Precio2;
+            string whileLoop ="";
+            double IVA = 0.11F;
+            double procentajeDescuento = 0.065f;
 
-            Console.Write("  Digite el valor del producto: ");
-            va1 = double.Parse(Console.ReadLine());
-            Console.Write("  Digite la cantidad del producto: ");
-            cant = double.Parse(Console.ReadLine());
+            do{
 
-            iva = (va1 * cant) * 0.11;
-            precio2 = (va1 * cant) + iva;
+                Console.Write("  Digite el valor del producto: ");
+                Valor = double.Parse(Console.ReadLine());
+                Console.Write("  Digite la Cantidad del producto: ");
+                Cantidad = double.Parse(Console.ReadLine());
 
-
-            if (precio2 > 500)
-            {
-                descuento = precio2 * 0.065;
-                Total = precio2 - descuento;
-                Console.WriteLine("");
-                Console.WriteLine("     El cliente compro {0} productos a un costo c/u de {1} pesos", cant, va1);
-                Console.WriteLine("     El IVA de la compra es de {0} ", iva);
-                Console.WriteLine("     Descuento por comprar mayor a 500 pesos {0} ", descuento);
-                Console.WriteLine("     EL total a pagar es de: " + Total);
-            }
-            else
-            {
-                Console.WriteLine("");
-                Console.WriteLine("     El cliente compro {0} productos a un costo c/u de {1} pesos", cant, va1);
-                Console.WriteLine("     El IVA de la compra es de {0} ", iva);
-                Console.WriteLine("     El total a pagar es de: " + precio2);
-            }
+                calculoIVA = (Valor * Cantidad) * IVA;
+                Precio2 = (Valor * Cantidad) + IVA;
 
 
+                if (Precio2 > 500)
+                {
+                    Descuento = Precio2 * procentajeDescuento;
+                    Total = Precio2 - Descuento;
+                    Console.WriteLine("");
+                    Console.WriteLine("     El cliente compro {0} productos a un costo c/u de {1} pesos", Cantidad, Valor);
+                    Console.WriteLine("     El IVA de la compra es de {0} ", calculoIVA);
+                    Console.WriteLine("     Descuento por comprar mayor a 500 pesos {0} ", Descuento);
+                    Console.WriteLine("     EL total a pagar es de: " + Total);
+                }
+    
+                else
+                {
+                    Console.WriteLine("");
+                    Console.WriteLine("     El cliente compro {0} productos a un costo c/u de {1} pesos", Cantidad, Valor);
+                    Console.WriteLine("     El IVA de la compra es de {0} ", calculoIVA);
+                    Console.WriteLine("     El total a pagar es de: " + Precio2);
+                }
+
+                Console.WriteLine("Desea salir ? ");
+                whileLoop = Console.ReadLine();
+
+
+            }while(whileLoop!="s");
         }
     }
 }

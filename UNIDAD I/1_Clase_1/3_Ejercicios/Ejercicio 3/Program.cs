@@ -2,7 +2,7 @@
 
 namespace ejercicio3
 {
-    class Program
+    class AplicacionBase
     {
         static void Main(string[] args)
         {

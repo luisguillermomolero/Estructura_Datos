@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\Google Drive\\OneDrive\\Documents\\UNIPANAMERICANA\\DOCENCIA\\ESTRUCTURA DE DATOS\\2.- CONTENIDO\\UNIDAD I\\2.- CLASE 2\\3.- EJERCICIOS\\ejercicio2\\ejercicio2.csproj": {}
+    "D:\\Estructura_Datos\\UNIDAD I\\2_Clase_2\\3_Ejercicios\\ejercicio2\\ejercicio2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\Google Drive\\OneDrive\\Documents\\UNIPANAMERICANA\\DOCENCIA\\ESTRUCTURA DE DATOS\\2.- CONTENIDO\\UNIDAD I\\2.- CLASE 2\\3.- EJERCICIOS\\ejercicio2\\ejercicio2.csproj": {
+    "D:\\Estructura_Datos\\UNIDAD I\\2_Clase_2\\3_Ejercicios\\ejercicio2\\ejercicio2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Google Drive\\OneDrive\\Documents\\UNIPANAMERICANA\\DOCENCIA\\ESTRUCTURA DE DATOS\\2.- CONTENIDO\\UNIDAD I\\2.- CLASE 2\\3.- EJERCICIOS\\ejercicio2\\ejercicio2.csproj",
+        "projectUniqueName": "D:\\Estructura_Datos\\UNIDAD I\\2_Clase_2\\3_Ejercicios\\ejercicio2\\ejercicio2.csproj",
         "projectName": "ejercicio2",
-        "projectPath": "C:\\Users\\DELL\\Google Drive\\OneDrive\\Documents\\UNIPANAMERICANA\\DOCENCIA\\ESTRUCTURA DE DATOS\\2.- CONTENIDO\\UNIDAD I\\2.- CLASE 2\\3.- EJERCICIOS\\ejercicio2\\ejercicio2.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Google Drive\\OneDrive\\Documents\\UNIPANAMERICANA\\DOCENCIA\\ESTRUCTURA DE DATOS\\2.- CONTENIDO\\UNIDAD I\\2.- CLASE 2\\3.- EJERCICIOS\\ejercicio2\\obj\\",
+        "projectPath": "D:\\Estructura_Datos\\UNIDAD I\\2_Clase_2\\3_Ejercicios\\ejercicio2\\ejercicio2.csproj",
+        "packagesPath": "C:\\Users\\luisg\\.nuget\\packages\\",
+        "outputPath": "D:\\Estructura_Datos\\UNIDAD I\\2_Clase_2\\3_Ejercicios\\ejercicio2\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\luisg\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -56,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.411\\RuntimeIdentifierGraph.json"
         }
       }
     }

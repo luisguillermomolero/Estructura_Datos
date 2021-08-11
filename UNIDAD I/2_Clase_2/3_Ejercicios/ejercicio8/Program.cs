@@ -2,15 +2,15 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace ejercicio8
+namespace AplicacionBase
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int dia;
-            int mes;
-            int año;
+            int Dia;
+            int Mes;
+            int Anio;
 
             string entrada = "";
 
@@ -18,36 +18,36 @@ namespace ejercicio8
             Console.WriteLine("digita la fechas para darte la del siguiente");
             Console.WriteLine("");
 
-            Console.WriteLine("digita el dia");
+            Console.WriteLine("digita el Dia");
             entrada = Console.ReadLine();
-            dia = Convert.ToInt32(entrada);
+            Dia = Convert.ToInt32(entrada);
 
-            Console.WriteLine("digita el mes");
+            Console.WriteLine("digita el Mes");
             entrada = Console.ReadLine();
-            mes = Convert.ToInt32(entrada);
+            Mes = Convert.ToInt32(entrada);
 
-            Console.WriteLine("digita el año");
+            Console.WriteLine("digita el Anio");
             entrada = Console.ReadLine();
-            año = Convert.ToInt32(entrada);
+            Anio = Convert.ToInt32(entrada);
 
 
-            if ((dia == 31) && (mes == 4 || mes == 6 || mes == 9 || mes == 11) || (dia == 30) || (dia == 29) && (mes == 2))
+            if ((Dia == 31) && (Mes == 4 || Mes == 6 || Mes == 9 || Mes == 11) || (Dia == 30) || (Dia == 29) && (Mes == 2))
             {
-                dia = 1;
-                mes = mes+1;
-                Console.WriteLine("la fecha del dia siguiente es: " + dia + "/" + mes + "/" + año);
+                Dia = 1;
+                Mes = Mes+1;
+                Console.WriteLine("la fecha del Dia siguiente es: " + Dia + "/" + Mes + "/" + Anio);
             }
-            else if ((mes == 12) && (dia == 31))
+            else if ((Mes == 12) && (Dia == 31))
             {
-                dia = 1;
-                mes = 1;
-                año = año+1;
-                Console.WriteLine("la fecha del dia siguiente es: " + dia + "/" + mes + "/" + año);
+                Dia = 1;
+                Mes = 1;
+                Anio = Anio+1;
+                Console.WriteLine("la fecha del Dia siguiente es: " + Dia + "/" + Mes + "/" + Anio);
             }
             else
             {
-                dia = dia+1;
-                Console.WriteLine("la fecha del dia siguiente es: " + dia + "/" + mes + "/" + año);
+                Dia = Dia+1;
+                Console.WriteLine("la fecha del Dia siguiente es: " + Dia + "/" + Mes + "/" + Anio);
             }
                 
 

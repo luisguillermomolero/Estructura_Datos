@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ejercicio7
+namespace AplicacionBase
 {
     class Program
     {

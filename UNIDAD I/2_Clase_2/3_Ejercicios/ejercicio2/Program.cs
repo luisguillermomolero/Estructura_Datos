@@ -1,4 +1,5 @@
-﻿using System;
+﻿//Aplicación que permite conocer si un número es primo
+using System;
 
 namespace ejercicio2
 {
@@ -6,9 +7,13 @@ namespace ejercicio2
     {
         static void Main(string[] args)
         {
+            //Declaración de variables
             int n, i, c;
             c = 0;
-            Console.WriteLine("ingrese numero: ");
+            
+            Console.WriteLine("ingrese un numero: ");
+            
+            //Se instancia readLine() dentro de Parse para convertir en entero la cadena de caracteres leida
             n = int.Parse(Console.ReadLine());
 
             for (i = 1; i <= n; i++)

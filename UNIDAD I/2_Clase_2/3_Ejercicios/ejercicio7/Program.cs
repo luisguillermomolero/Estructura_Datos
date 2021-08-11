@@ -1,43 +1,43 @@
 ﻿using System;
 
-namespace ejercicio7
+namespace AplicacionBase
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int primer = 0;
-            int segund = 0;
-            int tercer = 0;
-            string entrada = "";
+            int Primero = 0;
+            int Segundo = 0;
+            int Tercero = 0;
+            string Entrada = "";
 
 
             Console.WriteLine("escribe tres numeros diferentes");
             Console.WriteLine("");
 
             Console.WriteLine("escribe el primer numero ");
-            entrada = Console.ReadLine();
-            primer = Convert.ToInt32(entrada);
+            Entrada = Console.ReadLine();
+            Primero = Convert.ToInt32(Entrada);
 
             Console.WriteLine("escribe el segundo numero ");
-            entrada = Console.ReadLine();
-            segund = Convert.ToInt32(entrada);
+            Entrada = Console.ReadLine();
+            Segundo = Convert.ToInt32(Entrada);
 
             Console.WriteLine("escribe el tercero numero ");
-            entrada = Console.ReadLine();
-            tercer = Convert.ToInt32(entrada);
+            Entrada = Console.ReadLine();
+            Tercero = Convert.ToInt32(Entrada);
 
-            if (((primer < segund) && (primer > tercer)) || ((primer < tercer) && (primer > segund)))
+            if (((Primero < Segundo) && (Primero > Tercero)) || ((Primero < Tercero) && (Primero > Segundo)))
             
-                Console.WriteLine("el numero del medio es: " + primer);
+                Console.WriteLine("el numero del medio es: " + Primero);
             
-            else if (((segund < tercer) && (segund > primer)) || ((segund < primer) && (segund > tercer)))
+            else if (((Segundo < Tercero) && (Segundo > Primero)) || ((Segundo < Primero) && (Segundo > Tercero)))
             
-                Console.WriteLine("el numero del medio es: " + segund);
+                Console.WriteLine("el numero del medio es: " + Segundo);
             
             else 
              
-                 Console.WriteLine("el numero del medio es: " + tercer);
+                 Console.WriteLine("el numero del medio es: " + Tercero);
             
         }
     }
