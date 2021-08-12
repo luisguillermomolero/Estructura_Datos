@@ -1,0 +1,16 @@
+C:\Users\luisg\Downloads\c#\13_Switch\13_Switch\bin\Debug\net5.0\13_Switch.exe
+C:\Users\luisg\Downloads\c#\13_Switch\13_Switch\bin\Debug\net5.0\13_Switch.deps.json
+C:\Users\luisg\Downloads\c#\13_Switch\13_Switch\bin\Debug\net5.0\13_Switch.runtimeconfig.json
+C:\Users\luisg\Downloads\c#\13_Switch\13_Switch\bin\Debug\net5.0\13_Switch.runtimeconfig.dev.json
+C:\Users\luisg\Downloads\c#\13_Switch\13_Switch\bin\Debug\net5.0\13_Switch.dll
+C:\Users\luisg\Downloads\c#\13_Switch\13_Switch\bin\Debug\net5.0\ref\13_Switch.dll
+C:\Users\luisg\Downloads\c#\13_Switch\13_Switch\bin\Debug\net5.0\13_Switch.pdb
+C:\Users\luisg\Downloads\c#\13_Switch\13_Switch\obj\Debug\net5.0\13_Switch.csproj.AssemblyReference.cache
+C:\Users\luisg\Downloads\c#\13_Switch\13_Switch\obj\Debug\net5.0\13_Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisg\Downloads\c#\13_Switch\13_Switch\obj\Debug\net5.0\13_Switch.AssemblyInfoInputs.cache
+C:\Users\luisg\Downloads\c#\13_Switch\13_Switch\obj\Debug\net5.0\13_Switch.AssemblyInfo.cs
+C:\Users\luisg\Downloads\c#\13_Switch\13_Switch\obj\Debug\net5.0\13_Switch.csproj.CoreCompileInputs.cache
+C:\Users\luisg\Downloads\c#\13_Switch\13_Switch\obj\Debug\net5.0\13_Switch.dll
+C:\Users\luisg\Downloads\c#\13_Switch\13_Switch\obj\Debug\net5.0\ref\13_Switch.dll
+C:\Users\luisg\Downloads\c#\13_Switch\13_Switch\obj\Debug\net5.0\13_Switch.pdb
+C:\Users\luisg\Downloads\c#\13_Switch\13_Switch\obj\Debug\net5.0\13_Switch.genruntimeconfig.cache

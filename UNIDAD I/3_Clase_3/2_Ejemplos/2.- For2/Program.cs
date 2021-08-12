@@ -6,7 +6,7 @@ namespace AplicacionBase
 {
     class Program
     { 
-        static void   Main(string[] args)
+        static void Main(string[] args)
         {
             int n = 0;
             int contador = 0;

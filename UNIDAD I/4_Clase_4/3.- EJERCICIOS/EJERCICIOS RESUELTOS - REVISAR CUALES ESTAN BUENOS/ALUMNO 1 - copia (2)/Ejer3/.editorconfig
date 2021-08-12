@@ -1,4 +1,0 @@
-﻿[*.cs]
-
-# IDE0055: Fijar formato
-dotnet_diagnostic.IDE0055.severity = none

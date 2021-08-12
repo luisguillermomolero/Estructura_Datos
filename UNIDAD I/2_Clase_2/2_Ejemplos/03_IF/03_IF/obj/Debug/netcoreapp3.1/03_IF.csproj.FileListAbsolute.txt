@@ -1,0 +1,14 @@
+C:\Users\luisg\Downloads\c#\03_IF\03_IF\bin\Debug\netcoreapp3.1\03_IF.exe
+C:\Users\luisg\Downloads\c#\03_IF\03_IF\bin\Debug\netcoreapp3.1\03_IF.deps.json
+C:\Users\luisg\Downloads\c#\03_IF\03_IF\bin\Debug\netcoreapp3.1\03_IF.runtimeconfig.json
+C:\Users\luisg\Downloads\c#\03_IF\03_IF\bin\Debug\netcoreapp3.1\03_IF.runtimeconfig.dev.json
+C:\Users\luisg\Downloads\c#\03_IF\03_IF\bin\Debug\netcoreapp3.1\03_IF.dll
+C:\Users\luisg\Downloads\c#\03_IF\03_IF\bin\Debug\netcoreapp3.1\03_IF.pdb
+C:\Users\luisg\Downloads\c#\03_IF\03_IF\obj\Debug\netcoreapp3.1\03_IF.csproj.AssemblyReference.cache
+C:\Users\luisg\Downloads\c#\03_IF\03_IF\obj\Debug\netcoreapp3.1\03_IF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisg\Downloads\c#\03_IF\03_IF\obj\Debug\netcoreapp3.1\03_IF.AssemblyInfoInputs.cache
+C:\Users\luisg\Downloads\c#\03_IF\03_IF\obj\Debug\netcoreapp3.1\03_IF.AssemblyInfo.cs
+C:\Users\luisg\Downloads\c#\03_IF\03_IF\obj\Debug\netcoreapp3.1\03_IF.csproj.CoreCompileInputs.cache
+C:\Users\luisg\Downloads\c#\03_IF\03_IF\obj\Debug\netcoreapp3.1\03_IF.dll
+C:\Users\luisg\Downloads\c#\03_IF\03_IF\obj\Debug\netcoreapp3.1\03_IF.pdb
+C:\Users\luisg\Downloads\c#\03_IF\03_IF\obj\Debug\netcoreapp3.1\03_IF.genruntimeconfig.cache

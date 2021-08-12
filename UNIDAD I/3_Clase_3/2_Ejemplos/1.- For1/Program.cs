@@ -5,33 +5,33 @@ using System.Text;
 
 namespace AplicacionBase
 {
-    //programa para sacar el promedio de las calificaciones para tres alumnos.
+    //programa para sacar el Promedio de las calificaciones para tres alumnos.
 
     class Program
     {
         static void   Main(string[] args)
         {
-            float cal1 = 0.0f;
-            float cal2 = 0.0f;
-            float cal3 = 0.0f;
-            float promedio = 0.0f;
-            string valor = "";
+            float Calificacion1 = 0.0f;
+            float Calificacion2 = 0.0f;
+            float Calificacion3 = 0.0f;
+            float Promedio = 0.0f;
+            string Valor = "";
 
             Console.WriteLine("Ingrese la primera calificación:");
-            valor = Console.ReadLine();
-            cal1 = Convert.ToSingle(valor);
+            Valor = Console.ReadLine();
+            Calificacion1 = Convert.ToSingle(Valor);
 
             Console.WriteLine("Ingrese la segunda calificación:");
-            valor = Console.ReadLine();
-            cal2 = Convert.ToSingle(valor);
+            Valor = Console.ReadLine();
+            Calificacion2 = Convert.ToSingle(Valor);
 
             Console.WriteLine("Ingrese la tercera calificación:");
-            valor = Console.ReadLine();
-            cal3 = Convert.ToSingle(valor);
+            Valor = Console.ReadLine();
+            Calificacion3 = Convert.ToSingle(Valor);
 
-            promedio = (cal1 + cal2 + cal3) / 3;
+            Promedio = (Calificacion1 + Calificacion2 + Calificacion3) / 3;
 
-            Console.WriteLine("El promedio es {0}",  promedio);
+            Console.WriteLine("El Promedio es {0}",  Promedio);
 
             
             //Usando el FOR
