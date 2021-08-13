@@ -2,7 +2,7 @@
 
 namespace AplicacionBase
 {
-    class Program
+    class ReporteClima
     {
         static void Main(string[] args)
         {

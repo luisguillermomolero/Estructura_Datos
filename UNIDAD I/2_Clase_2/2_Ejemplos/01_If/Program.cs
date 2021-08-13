@@ -2,7 +2,7 @@
 
 namespace AplicacionBase
 {
-    class Porogram
+    class Program
     {
         // Aplicación que permite conocer si un número ingresado por teclado es positivo
 

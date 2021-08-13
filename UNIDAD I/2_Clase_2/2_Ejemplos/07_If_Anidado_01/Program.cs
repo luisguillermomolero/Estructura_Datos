@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Linq;
-using System.Text;
-using System.Collections;
-using System.Collections.Generic;
-
 
 namespace AplicacionBase
 {
@@ -12,7 +7,7 @@ namespace AplicacionBase
         /* Programa que permite desplegar un menú de opcione para ejecutar
          operaciones aritmeticas, haciendo uso de IF */
 
-        static void   Main(string[] args)
+        static void Main(string[] args)
         {
 
             int Numero_1, Numero_2;
@@ -48,6 +43,7 @@ namespace AplicacionBase
             }
             if (Opc == 4)
                 Resultado =  Numero_1 * Numero_2;
+                
             Console.WriteLine($"El Resultado  es: {Resultado}");
         }
     }
