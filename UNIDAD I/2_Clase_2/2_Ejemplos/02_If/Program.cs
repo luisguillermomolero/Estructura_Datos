@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Linq;
-using System.Collections;
-using System.Collections.Generic;
 
 namespace AplicacionBase
 {
@@ -13,47 +10,42 @@ namespace AplicacionBase
     {
         static void Main(string[] args)
         {  
-            int numero = 0;
+            int Numero = 0;
             string valor = "";
 
             Console.Write("Regalame un número entero: ");
+            Numero = int.Parse(System.Console.ReadLine());
 
-            valor = Console.ReadLine();
-            numero = Convert.ToInt32(valor);
-
-            if (numero >= 0)
-                Console.WriteLine("El número es {0} es positivo", numero);
+            if (Numero >= 0)
+                Console.WriteLine("El número {0} es positivo", Numero);
             else
-                Console.WriteLine("El número {0} es negativo", numero);
+                Console.WriteLine("El número {0} es negativo", Numero);
 
             //Uso del ELSE con bloque de código
 
             /* Aplicación que permite realizar una división siempre y cuando
              * el divisor sea diferente de cero*/
 
-            float dividendo = 0.0f;
-            float divisor = 1.0F;
-            float resultado = 0.0f;
+            float Dividendo = 0.0f;
+            float Divisor = 1.0F;
+            float Resultado = 0.0f;
 
             Console.WriteLine("");
             Console.WriteLine("Aplicación que permite realizar una división siempre y cuando el divisor sea diferente de cero");
             Console.WriteLine("");
-            Console.Write("Regalame el dividendo ");
 
-            valor = Console.ReadLine();
-            dividendo = Convert.ToSingle(valor);
+            Console.WriteLine("Regalame el dividendo ");
+            Dividendo = float.Parse(System.Console.ReadLine());
 
-            Console.Write("Regalame el divisor "); 
+            Console.WriteLine("Regalame el divisor ");
+            Divisor = float.Parse(System.Console.ReadLine());
 
-            valor =  Console.ReadLine();
-            divisor = Convert.ToSingle(valor);
-
-            if (divisor == 0)
-                Console.WriteLine("La división no es valida");
+            if (Divisor == 0)
+                Console.WriteLine("La división no es valida, Divisor es 0");
             else
             {
-                resultado = dividendo / divisor;
-                Console.WriteLine("El resultado de la división de {0} entre {1} es = {2}", dividendo, divisor, resultado);
+                Resultado = Dividendo/Divisor;
+                Console.WriteLine("El resultado de la división de {0} entre {1} es = {2}", Dividendo, Divisor, Resultado);
             }
         }
     }

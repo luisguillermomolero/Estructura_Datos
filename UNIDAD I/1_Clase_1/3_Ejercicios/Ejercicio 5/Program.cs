@@ -18,8 +18,7 @@ namespace AplicacionBase
             Console.WriteLine("hola, hoy vamos a convertir tu peso de libras a kilogramos");
             Console.WriteLine("");
             Console.WriteLine("por favor, digita tu peso en kilogramos:");
-            entrada = Console.ReadLine();
-            kgr = Convert.ToSingle(entrada);
+            kgr = float.Parse(System.Console.ReadLine());
             Console.WriteLine("");
 
 

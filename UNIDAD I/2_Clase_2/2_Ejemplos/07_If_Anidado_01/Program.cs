@@ -15,11 +15,9 @@ namespace AplicacionBase
         static void   Main(string[] args)
         {
 
-            float a  =  0.0f;
-            float b = 0.0f;
-            float resultado = 0.0f;
-            string valor =  "";
-            int opcion = 0;
+            int Numero_1, Numero_2;
+            int Opc = 0;
+            int Resultado = 0;
 
 
             Console.WriteLine("1.-  Suma"); 
@@ -28,34 +26,29 @@ namespace AplicacionBase
             Console.WriteLine("4.-  Multiplicación");
             Console.WriteLine("");
 
-            Console.Write("Que operación deseas realizar: "); 
+            Console.WriteLine("Que operación deseas realizar: ");
+            Opc = int.Parse(System.Console.ReadLine()) ;
 
-            valor = Console.ReadLine();
-            opcion   =  Convert.ToInt32(valor);
+            Console.WriteLine("\nDame el primer numero entero por favor: ");
+            Numero_1 = int.Parse(System.Console.ReadLine());
 
-            Console.WriteLine("");
-            Console.Write("Dame el primer numero:");
-            
-            valor =  Console.ReadLine();
-            a  =  Convert.ToSingle(valor);
+            Console.Write("Dame el segundo numero por favor: ");
+            Numero_2 = int.Parse(System.Console.ReadLine());
 
-            Console.Write("Dame el segundo numero:"); 
-
-            valor =  Console.ReadLine();
-            b  =  Convert.ToSingle(valor);
-
-            if (opcion == 1)
-                resultado =  a  +  b;
-            if (opcion == 2)
-                resultado =  a  - b;
-            if (opcion == 3)
-                if (b  !=  0) // Si el divisor es diferente de 0
-                    resultado =  a  / b;
-                else 
-                    Console.WriteLine("El divisor no es valido");
-            if (opcion == 4)
-                resultado =  a* b;
-            Console.WriteLine("El resultado  es:  {0}", resultado);
+            if (Opc == 1)
+                Resultado =  Numero_1  +  Numero_2;
+            if (Opc == 2)
+                Resultado =  Numero_1 - Numero_2;
+            if (Opc == 3){
+                if (Numero_2 == 0){
+                    Console.WriteLine("Número invalido, divisor igual a cero");
+                }else{
+                    Resultado = Numero_1/Numero_2;
+                }
+            }
+            if (Opc == 4)
+                Resultado =  Numero_1 * Numero_2;
+            Console.WriteLine($"El Resultado  es: {Resultado}");
         }
     }
 }

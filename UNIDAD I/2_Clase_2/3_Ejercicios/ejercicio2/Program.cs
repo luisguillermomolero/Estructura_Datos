@@ -8,31 +8,23 @@ namespace ejercicio2
         static void Main(string[] args)
         {
             //Declaración de variables
-            int n, i, c;
-            c = 0;
+            int Numero, i;
+            int Contador = 0;
             
             Console.WriteLine("ingrese un numero: ");
-            
-            //Se instancia readLine() dentro de Parse para convertir en entero la cadena de caracteres leida
-            n = int.Parse(Console.ReadLine());
+            Numero = int.Parse(Console.ReadLine());
 
-            for (i = 1; i <= n; i++)
+            for (i = 1; i <= Numero; i++)
             {
-                if (n % i == 0)
+                if (Numero % i == 0)
                 {
-                    c = c + 1;
+                    Contador = Contador + 1;
                 }
             }
-            if (c > 2)
-            {
-
-                Console.WriteLine("{0} no es primo", n);
-            }
-            else
-            {
-                Console.WriteLine("{0} es primo", n);
-            }
-
+            if (Contador > 2){
+                Console.WriteLine("{0} no es primo", Numero);
+            }else
+                Console.WriteLine("{0} es primo", Numero);
 
             Console.ReadLine();
         }

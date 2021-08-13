@@ -6,29 +6,22 @@ namespace AplicacionBase
     {
         static void Main(string[] args)
         {
-            int valor;
-            string linea;
+            int Valor;
             do
             {
-                Console.Write("Ingrese un valor entre 0 y 999 (0 finaliza):");
-                linea = Console.ReadLine();
-                valor = int.Parse(linea);
-                if (valor >= 100)
-                {
-                    Console.WriteLine("Tiene 3 dígitos.");
-                }
+                Console.Write("Ingrese un valor entre 0 y 999 (0 finaliza): ");
+                Valor = int.Parse(System.Console.ReadLine());
+
+                if (Valor >= 100)
+                    Console.WriteLine($"{Valor} tiene 3 dígitos.");
                 else
                 {
-                    if (valor >= 10)
-                    {
-                        Console.WriteLine("Tiene 2 dígitos.");
-                    }
+                    if (Valor >= 10)
+                        Console.WriteLine($"{Valor} tiene 2 dígitos.");
                     else
-                    {
-                        Console.WriteLine("Tiene 1 dígito.");
-                    }
+                        Console.WriteLine($"{Valor} tiene 1 dígito.");
                 }
-            } while (valor != 0);
+            } while (Valor != 0);
         }
     }
 }

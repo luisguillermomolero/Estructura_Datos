@@ -22,7 +22,6 @@ C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 1\ejercicio2\obj\Debug\
 C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 1\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.dll
 C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 1\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.pdb
 C:\Users\DELL\Downloads\Estructura-de-Datos-master\clase 1\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.genruntimeconfig.cache
-D:\Estructura_Datos\UNIDAD I\1_Clase_1\3_Ejercicios\Ejercicio 2\obj\Debug\netcoreapp3.1\ejercicio2.csprojAssemblyReference.cache
 D:\Estructura_Datos\UNIDAD I\1_Clase_1\3_Ejercicios\Ejercicio 2\obj\Debug\netcoreapp3.1\ejercicio2.AssemblyInfoInputs.cache
 D:\Estructura_Datos\UNIDAD I\1_Clase_1\3_Ejercicios\Ejercicio 2\obj\Debug\netcoreapp3.1\ejercicio2.AssemblyInfo.cs
 D:\Estructura_Datos\UNIDAD I\1_Clase_1\3_Ejercicios\Ejercicio 2\obj\Debug\netcoreapp3.1\ejercicio2.csproj.CoreCompileInputs.cache
@@ -35,3 +34,5 @@ D:\Estructura_Datos\UNIDAD I\1_Clase_1\3_Ejercicios\Ejercicio 2\bin\Debug\netcor
 D:\Estructura_Datos\UNIDAD I\1_Clase_1\3_Ejercicios\Ejercicio 2\bin\Debug\netcoreapp3.1\ejercicio2.dll
 D:\Estructura_Datos\UNIDAD I\1_Clase_1\3_Ejercicios\Ejercicio 2\bin\Debug\netcoreapp3.1\ejercicio2.pdb
 D:\Estructura_Datos\UNIDAD I\1_Clase_1\3_Ejercicios\Ejercicio 2\obj\Debug\netcoreapp3.1\ejercicio2.genruntimeconfig.cache
+D:\Estructura_Datos\UNIDAD I\1_Clase_1\3_Ejercicios\Ejercicio 2\obj\Debug\netcoreapp3.1\ejercicio2.csproj.AssemblyReference.cache
+D:\Estructura_Datos\UNIDAD I\1_Clase_1\3_Ejercicios\Ejercicio 2\obj\Debug\netcoreapp3.1\ejercicio2.GeneratedMSBuildEditorConfig.editorconfig

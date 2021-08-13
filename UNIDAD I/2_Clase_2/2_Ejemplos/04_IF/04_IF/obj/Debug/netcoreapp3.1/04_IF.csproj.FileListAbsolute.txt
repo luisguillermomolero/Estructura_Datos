@@ -12,3 +12,17 @@ C:\Users\luisg\Downloads\c#\04_IF\04_IF\obj\Debug\netcoreapp3.1\04_IF.csproj.Cor
 C:\Users\luisg\Downloads\c#\04_IF\04_IF\obj\Debug\netcoreapp3.1\04_IF.dll
 C:\Users\luisg\Downloads\c#\04_IF\04_IF\obj\Debug\netcoreapp3.1\04_IF.pdb
 C:\Users\luisg\Downloads\c#\04_IF\04_IF\obj\Debug\netcoreapp3.1\04_IF.genruntimeconfig.cache
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\04_IF\04_IF\bin\Debug\netcoreapp3.1\04_IF.exe
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\04_IF\04_IF\bin\Debug\netcoreapp3.1\04_IF.deps.json
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\04_IF\04_IF\bin\Debug\netcoreapp3.1\04_IF.runtimeconfig.json
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\04_IF\04_IF\bin\Debug\netcoreapp3.1\04_IF.runtimeconfig.dev.json
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\04_IF\04_IF\bin\Debug\netcoreapp3.1\04_IF.dll
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\04_IF\04_IF\bin\Debug\netcoreapp3.1\04_IF.pdb
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\04_IF\04_IF\obj\Debug\netcoreapp3.1\04_IF.csproj.AssemblyReference.cache
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\04_IF\04_IF\obj\Debug\netcoreapp3.1\04_IF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\04_IF\04_IF\obj\Debug\netcoreapp3.1\04_IF.AssemblyInfoInputs.cache
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\04_IF\04_IF\obj\Debug\netcoreapp3.1\04_IF.AssemblyInfo.cs
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\04_IF\04_IF\obj\Debug\netcoreapp3.1\04_IF.csproj.CoreCompileInputs.cache
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\04_IF\04_IF\obj\Debug\netcoreapp3.1\04_IF.dll
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\04_IF\04_IF\obj\Debug\netcoreapp3.1\04_IF.pdb
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\04_IF\04_IF\obj\Debug\netcoreapp3.1\04_IF.genruntimeconfig.cache

@@ -8,28 +8,28 @@ namespace AplicacionBase
         static void Main(string[] args)
         {
 
-            DisplayCharacter('f');  // Output: A lowercase letter: f
-            DisplayCharacter('R');  // Output: An uppercase letter: R
-            DisplayCharacter('8');  // Output: A digit: 8
-            DisplayCharacter(',');  // Output: Not alphanumeric character: ,
+            mostrarMedicion('f');  // Salida: Una letra minúscula: f
+            mostrarMedicion('R');  // Salida: Una letra mayúscula: R
+            mostrarMedicion('8');  // Salida: Un dígito: 8
+            mostrarMedicion(',');  // Salida: carácter no alfanumérico ","
 
-            void DisplayCharacter(char ch)
+            void mostrarMedicion(char ch)
             {
                 if (char.IsUpper(ch))
                 {
-                    Console.WriteLine($"An uppercase letter: {ch}");
+                    Console.WriteLine($"Una letra mayúscula: {ch}");
                 }
                 else if (char.IsLower(ch))
                 {
-                    Console.WriteLine($"A lowercase letter: {ch}");
+                    Console.WriteLine($"Una letra minúscula: {ch}");
                 }
                 else if (char.IsDigit(ch))
                 {
-                    Console.WriteLine($"A digit: {ch}");
+                    Console.WriteLine($"Un dígito: {ch}");
                 }
                 else
                 {
-                    Console.WriteLine($"Not alphanumeric character: {ch}");
+                    Console.WriteLine($"Carácter no alfanumérico: {ch}");
                 }
             }
         }

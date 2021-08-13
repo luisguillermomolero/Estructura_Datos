@@ -43,10 +43,11 @@ D:\Estructura_Datos\UNIDAD I\1_Clase_1\2_Ejemplos\Programa3\bin\Debug\netcoreapp
 D:\Estructura_Datos\UNIDAD I\1_Clase_1\2_Ejemplos\Programa3\bin\Debug\netcoreapp3.1\Programa3.runtimeconfig.dev.json
 D:\Estructura_Datos\UNIDAD I\1_Clase_1\2_Ejemplos\Programa3\bin\Debug\netcoreapp3.1\Programa3.dll
 D:\Estructura_Datos\UNIDAD I\1_Clase_1\2_Ejemplos\Programa3\bin\Debug\netcoreapp3.1\Programa3.pdb
-D:\Estructura_Datos\UNIDAD I\1_Clase_1\2_Ejemplos\Programa3\obj\Debug\netcoreapp3.1\Programa3.csprojAssemblyReference.cache
 D:\Estructura_Datos\UNIDAD I\1_Clase_1\2_Ejemplos\Programa3\obj\Debug\netcoreapp3.1\Programa3.AssemblyInfoInputs.cache
 D:\Estructura_Datos\UNIDAD I\1_Clase_1\2_Ejemplos\Programa3\obj\Debug\netcoreapp3.1\Programa3.AssemblyInfo.cs
 D:\Estructura_Datos\UNIDAD I\1_Clase_1\2_Ejemplos\Programa3\obj\Debug\netcoreapp3.1\Programa3.csproj.CoreCompileInputs.cache
 D:\Estructura_Datos\UNIDAD I\1_Clase_1\2_Ejemplos\Programa3\obj\Debug\netcoreapp3.1\Programa3.dll
 D:\Estructura_Datos\UNIDAD I\1_Clase_1\2_Ejemplos\Programa3\obj\Debug\netcoreapp3.1\Programa3.pdb
 D:\Estructura_Datos\UNIDAD I\1_Clase_1\2_Ejemplos\Programa3\obj\Debug\netcoreapp3.1\Programa3.genruntimeconfig.cache
+D:\Estructura_Datos\UNIDAD I\1_Clase_1\2_Ejemplos\Programa3\obj\Debug\netcoreapp3.1\Programa3.csproj.AssemblyReference.cache
+D:\Estructura_Datos\UNIDAD I\1_Clase_1\2_Ejemplos\Programa3\obj\Debug\netcoreapp3.1\Programa3.GeneratedMSBuildEditorConfig.editorconfig

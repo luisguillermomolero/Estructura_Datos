@@ -8,21 +8,21 @@ namespace AplicacionBase
         static void Main(string[] args)
         {
 
-            DisplayMeasurement(-4);  // Output: Measured value is -4; out of an acceptable range.
-            DisplayMeasurement(50);  // Output: Measured value is 50.
-            DisplayMeasurement(132);  // Output: Measured value is 132; out of an acceptable range.
+            mostraMedicion(-4);  // Salida: El valor medido es -4; fuera de un rango aceptable.
+            mostraMedicion(50);  // Salida: el valor medido es 50.
+            mostraMedicion(132); // Salida: El valor medido es 132; fuera de un rango aceptable.
 
-            void DisplayMeasurement(int measurement)
+            void mostraMedicion(int Medicion)
             {
-                switch (measurement)
+                switch (Medicion)
                 {
                     case < 0:
                     case > 100:
-                        Console.WriteLine($"Measured value is {measurement}; out of an acceptable range.");
+                        Console.WriteLine($"El valor medido es {Medicion}; fuera de un rango aceptable.");
                         break;
 
                     default:
-                        Console.WriteLine($"Measured value is {measurement}.");
+                        Console.WriteLine($"El valor medido es {Medicion}.");
                         break;
                 }
             }

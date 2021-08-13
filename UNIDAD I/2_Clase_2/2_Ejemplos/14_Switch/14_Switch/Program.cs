@@ -10,23 +10,23 @@ namespace AplicacionBase
         static void Main(string[] args)
         {
 
-            DisplayMeasurements(3, 4);  // Output: First measurement is 3, second measurement is 4.
-            DisplayMeasurements(5, 5);  // Output: Both measurements are valid and equal to 5.
+            mostrarMedicion(3, 4);  // Resultado: la primera medida es 3, la segunda medida es 4.
+            mostrarMedicion(5, 5);  // Salida: Ambas medidas son válidas e iguales a 5.
 
-            void DisplayMeasurements(int a, int b)
+            void mostrarMedicion(int a, int b)
             {
                 switch ((a, b))
                 {
                     case ( > 0, > 0) when a == b:
-                        Console.WriteLine($"Both measurements are valid and equal to {a}.");
+                        Console.WriteLine($"Ambas medidas son válidas e iguales a {a}.");
                         break;
 
                     case ( > 0, > 0):
-                        Console.WriteLine($"First measurement is {a}, second measurement is {b}.");
+                        Console.WriteLine($"La primera medida es {a}, la segunda medida es {b}.");
                         break;
 
                     default:
-                        Console.WriteLine("One or both measurements are not valid.");
+                        Console.WriteLine("Una o ambas medidas no son válidas.");
                         break;
                 }
             }

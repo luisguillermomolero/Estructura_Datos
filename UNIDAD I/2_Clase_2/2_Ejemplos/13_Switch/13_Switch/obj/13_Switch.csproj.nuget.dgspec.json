@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luisg\\Downloads\\c#\\13_Switch\\13_Switch\\13_Switch.csproj": {}
+    "D:\\Estructura_Datos\\UNIDAD I\\2_Clase_2\\2_Ejemplos\\13_Switch\\13_Switch\\13_Switch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luisg\\Downloads\\c#\\13_Switch\\13_Switch\\13_Switch.csproj": {
+    "D:\\Estructura_Datos\\UNIDAD I\\2_Clase_2\\2_Ejemplos\\13_Switch\\13_Switch\\13_Switch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luisg\\Downloads\\c#\\13_Switch\\13_Switch\\13_Switch.csproj",
+        "projectUniqueName": "D:\\Estructura_Datos\\UNIDAD I\\2_Clase_2\\2_Ejemplos\\13_Switch\\13_Switch\\13_Switch.csproj",
         "projectName": "13_Switch",
-        "projectPath": "C:\\Users\\luisg\\Downloads\\c#\\13_Switch\\13_Switch\\13_Switch.csproj",
+        "projectPath": "D:\\Estructura_Datos\\UNIDAD I\\2_Clase_2\\2_Ejemplos\\13_Switch\\13_Switch\\13_Switch.csproj",
         "packagesPath": "C:\\Users\\luisg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luisg\\Downloads\\c#\\13_Switch\\13_Switch\\obj\\",
+        "outputPath": "D:\\Estructura_Datos\\UNIDAD I\\2_Clase_2\\2_Ejemplos\\13_Switch\\13_Switch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luisg\\AppData\\Roaming\\NuGet\\NuGet.Config",

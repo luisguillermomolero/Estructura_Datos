@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luisg\\Downloads\\c#\\04_IF\\04_IF\\04_IF.csproj": {}
+    "D:\\Estructura_Datos\\UNIDAD I\\2_Clase_2\\2_Ejemplos\\04_IF\\04_IF\\04_IF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luisg\\Downloads\\c#\\04_IF\\04_IF\\04_IF.csproj": {
+    "D:\\Estructura_Datos\\UNIDAD I\\2_Clase_2\\2_Ejemplos\\04_IF\\04_IF\\04_IF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luisg\\Downloads\\c#\\04_IF\\04_IF\\04_IF.csproj",
+        "projectUniqueName": "D:\\Estructura_Datos\\UNIDAD I\\2_Clase_2\\2_Ejemplos\\04_IF\\04_IF\\04_IF.csproj",
         "projectName": "04_IF",
-        "projectPath": "C:\\Users\\luisg\\Downloads\\c#\\04_IF\\04_IF\\04_IF.csproj",
+        "projectPath": "D:\\Estructura_Datos\\UNIDAD I\\2_Clase_2\\2_Ejemplos\\04_IF\\04_IF\\04_IF.csproj",
         "packagesPath": "C:\\Users\\luisg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luisg\\Downloads\\c#\\04_IF\\04_IF\\obj\\",
+        "outputPath": "D:\\Estructura_Datos\\UNIDAD I\\2_Clase_2\\2_Ejemplos\\04_IF\\04_IF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luisg\\AppData\\Roaming\\NuGet\\NuGet.Config",

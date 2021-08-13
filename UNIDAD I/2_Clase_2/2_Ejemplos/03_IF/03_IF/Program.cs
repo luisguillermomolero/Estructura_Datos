@@ -8,17 +8,16 @@ namespace AplicacionBase
         static void Main(string[] args)
         {
 
-            DisplayMeasurement(45);  // Output: The measurement value is 45
-            DisplayMeasurement(-3);  // Output: Warning: not acceptable value! The measurement value is -3
+            mostrarMedicion(45);  // Salida: el valor de medición es 45
+            mostrarMedicion(-3);  // Salida: Advertencia: ¡valor no aceptable! El valor de medición es -3
 
-            void DisplayMeasurement(double value)
+            void mostrarMedicion(double value)
+            // Operadores lógicos: && Y; ||	O; ! No
             {
                 if (value < 0 || value > 100)
-                {
-                    Console.Write("Warning: not acceptable value! ");
-                }
+                    Console.Write("Advertencia: ¡valor no aceptable!");
 
-                Console.WriteLine($"The measurement value is {value}");
+                Console.WriteLine($"El valor de la medida es {value}");
             }
         }
     }

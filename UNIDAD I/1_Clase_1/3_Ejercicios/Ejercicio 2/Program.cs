@@ -16,8 +16,7 @@ namespace AplicacionBase
             Console.WriteLine("");
 
             Console.WriteLine("Digita el radio del circulo");
-            entrada = Console.ReadLine();
-            Radio = Convert.ToInt32(entrada);
+            Radio = int.Parse(System.Console.ReadLine());
 
             Area = PI*(Radio*Radio);
 

@@ -14,11 +14,10 @@ namespace AplicacionBase
     {
         static void Main(string [] args)
         {
-            float a = 0.0f;
-            float b = 0.0f;
-            float resultado = 0.0f;
-            string valor = "";
-            int opcion = 0;
+            int Numero_1 = 0;
+            int Numero_2 = 0;
+            int Resultado = 0;
+            int Opc = 0;
 
             Console.WriteLine("1 - Suma"); 
             Console.WriteLine("2 - Resta"); 
@@ -27,35 +26,30 @@ namespace AplicacionBase
 
             Console.WriteLine("");
             Console.Write("Que operación deseas hacer: "); 
-            valor = Console.ReadLine();
-            opcion = Convert.ToInt32(valor);
+            Opc = int.Parse(System.Console.ReadLine());
 
 
             Console.WriteLine("");
-            Console.Write("Dame el primer numero:");
+            Console.Write("Dame el primer numero por favor: ");
+            Numero_1 = int.Parse(System.Console.ReadLine());
 
-            valor =  Console.ReadLine();
-            a = Convert.ToSingle(valor);
+            Console.Write("Dame el segundo numero por favor: ");
+            Numero_2 = int.Parse(System.Console.ReadLine());
 
-            Console.Write("Dame el segundo numero:");
-
-            valor =  Console.ReadLine();
-            b = Convert.ToSingle(valor);
-
-            if (opcion == 1)
-                resultado = a + b;
-            else if (opcion == 2)
-                resultado = a - b;
+            if (Opc == 1)
+                Resultado = Numero_1 + Numero_2;
+            else if (Opc == 2)
+                Resultado= Numero_1 - Numero_2;
             else 
-                if (opcion == 3 && b == 0)
-                Console.WriteLine("Divisor igual a cero, no se puede ejecutar la división");
+                if (Opc == 3 && Numero_2 == 0)
+                    Console.WriteLine("Divisor igual a cero, no se puede ejecutar la división");
             else 
-                if (opcion == 3 && b != 0)
-                resultado = a / b;
+                if (Opc == 3 && Numero_2 != 0)
+                    Resultado = Numero_1 / Numero_2;
             else 
-                if (opcion == 4)
-                resultado = a * b;
-            Console.WriteLine("El resultado  es:  {0}", resultado);
+                if (Opc == 4)
+                    Resultado = Numero_1 * Numero_2;
+            Console.WriteLine("El resultado  es:  {0}", Resultado);
         }
     }
 }

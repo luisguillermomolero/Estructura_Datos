@@ -14,3 +14,19 @@ C:\Users\luisg\Downloads\c#\12_Switch\12_Switch\obj\Debug\net5.0\12_Switch.dll
 C:\Users\luisg\Downloads\c#\12_Switch\12_Switch\obj\Debug\net5.0\ref\12_Switch.dll
 C:\Users\luisg\Downloads\c#\12_Switch\12_Switch\obj\Debug\net5.0\12_Switch.pdb
 C:\Users\luisg\Downloads\c#\12_Switch\12_Switch\obj\Debug\net5.0\12_Switch.genruntimeconfig.cache
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\12_Switch\12_Switch\bin\Debug\net5.0\12_Switch.exe
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\12_Switch\12_Switch\bin\Debug\net5.0\12_Switch.deps.json
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\12_Switch\12_Switch\bin\Debug\net5.0\12_Switch.runtimeconfig.json
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\12_Switch\12_Switch\bin\Debug\net5.0\12_Switch.runtimeconfig.dev.json
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\12_Switch\12_Switch\bin\Debug\net5.0\12_Switch.dll
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\12_Switch\12_Switch\bin\Debug\net5.0\ref\12_Switch.dll
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\12_Switch\12_Switch\bin\Debug\net5.0\12_Switch.pdb
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\12_Switch\12_Switch\obj\Debug\net5.0\12_Switch.csproj.AssemblyReference.cache
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\12_Switch\12_Switch\obj\Debug\net5.0\12_Switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\12_Switch\12_Switch\obj\Debug\net5.0\12_Switch.AssemblyInfoInputs.cache
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\12_Switch\12_Switch\obj\Debug\net5.0\12_Switch.AssemblyInfo.cs
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\12_Switch\12_Switch\obj\Debug\net5.0\12_Switch.csproj.CoreCompileInputs.cache
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\12_Switch\12_Switch\obj\Debug\net5.0\12_Switch.dll
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\12_Switch\12_Switch\obj\Debug\net5.0\ref\12_Switch.dll
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\12_Switch\12_Switch\obj\Debug\net5.0\12_Switch.pdb
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\12_Switch\12_Switch\obj\Debug\net5.0\12_Switch.genruntimeconfig.cache

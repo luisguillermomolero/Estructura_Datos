@@ -37,3 +37,17 @@ D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\1.- If1\obj\Debug\netcoreapp3.
 D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\1.- If1\obj\Debug\netcoreapp3.1\iF1.dll
 D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\1.- If1\obj\Debug\netcoreapp3.1\iF1.pdb
 D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\1.- If1\obj\Debug\netcoreapp3.1\iF1.genruntimeconfig.cache
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\01_If\obj\Debug\netcoreapp3.1\iF1.csproj.AssemblyReference.cache
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\01_If\obj\Debug\netcoreapp3.1\iF1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\01_If\obj\Debug\netcoreapp3.1\iF1.AssemblyInfoInputs.cache
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\01_If\obj\Debug\netcoreapp3.1\iF1.AssemblyInfo.cs
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\01_If\obj\Debug\netcoreapp3.1\iF1.csproj.CoreCompileInputs.cache
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\01_If\obj\Debug\netcoreapp3.1\iF1.dll
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\01_If\obj\Debug\netcoreapp3.1\iF1.pdb
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\01_If\bin\Debug\netcoreapp3.1\iF1.exe
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\01_If\bin\Debug\netcoreapp3.1\iF1.deps.json
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\01_If\bin\Debug\netcoreapp3.1\iF1.runtimeconfig.json
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\01_If\bin\Debug\netcoreapp3.1\iF1.runtimeconfig.dev.json
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\01_If\bin\Debug\netcoreapp3.1\iF1.dll
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\01_If\bin\Debug\netcoreapp3.1\iF1.pdb
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\2_Ejemplos\01_If\obj\Debug\netcoreapp3.1\iF1.genruntimeconfig.cache

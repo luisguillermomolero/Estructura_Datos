@@ -14,53 +14,45 @@ namespace AplicacionBase
 
         static void Main(string[] args)
         {
-            float a = 0.0f;
-            float b = 0.0f;
-            float resultado = 0.0f;
-            string valor = "";
-            int opcion = 0;
+            int Numero_1, Numero_2, Opc =0;
+            int Resultado = 0;
 
             Console.WriteLine("1 - Suma"); 
             Console.WriteLine("2 - Resta"); 
             Console.WriteLine("3 - División"); 
             Console.WriteLine("4 - Multiplicación"); 
+
             Console.Write("Que operación deseas hacer: ");
+            Opc = int.Parse(System.Console.ReadLine());
 
-            valor = Console.ReadLine();
-            opcion = Convert.ToInt32(valor);
+            Console.Write("Dame el primer numero por favor: ");
+            Numero_1 = int.Parse(System.Console.ReadLine());
 
-            Console.Write("Dame el primer numero:");
+            Console.Write("Dame el segundo numero por favor: "); 
+            Numero_2 = int.Parse(System.Console.ReadLine());
 
-            valor = Console.ReadLine();
-            a = Convert.ToSingle(valor);
-
-            Console.Write("Dame el segundo numero:"); 
-
-            valor =  Console.ReadLine();
-            b = Convert.ToSingle(valor);
-
-            switch (opcion)
+            switch (Opc)
             { 
                 case   1:
-                    resultado = a + b;
+                    Resultado = Numero_1 + Numero_2;
                     break;
                 case   2:
-                    resultado = a - b;
+                    Resultado= Numero_1 - Numero_2;
                     break;
                 case   3:
-                    if (b != 0)
-                        resultado = a / b;
+                    if (Numero_2 != 0)
+                        Resultado = Numero_1 / Numero_2;
                     else
                         Console.WriteLine("Divisor no es valido");
                     break;
                 case   4:
-                    resultado = a * b;
+                    Resultado = Numero_1 * Numero_2;
                     break;
                 default:
                     Console.WriteLine("Opción  no  valida");
                     break;
             }
-            Console.WriteLine("El resultado  es:  {0}", resultado);
+            Console.WriteLine("El resultado  es:  {0}", Resultado);
         }
     }
 }

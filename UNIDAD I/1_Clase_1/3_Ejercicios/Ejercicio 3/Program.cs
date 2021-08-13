@@ -16,13 +16,11 @@ namespace ejercicio3
             Console.WriteLine("");
 
             Console.WriteLine("Digite la superficie del triangulo");
-            Entrada = Console.ReadLine();
-            Superficie = Convert.ToInt32(Entrada);
+            Superficie = int.Parse(System.Console.ReadLine());
             Console.WriteLine("");
 
             Console.WriteLine("Digite la altura del triangulo");
-            Entrada = Console.ReadLine();
-            Altura = Convert.ToInt32(Entrada);
+            Altura = int.Parse(System.Console.ReadLine());
             Console.WriteLine("");
 
             Base = (2 * Superficie) / Altura;

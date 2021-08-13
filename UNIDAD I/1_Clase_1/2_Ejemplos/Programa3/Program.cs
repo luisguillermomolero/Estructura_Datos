@@ -23,8 +23,7 @@ namespace AplicacionBase
              * Cual de ellas son implicitas? */
 
             string entrada = "";
-            int a = 0;
-            int b = 0, resultado = 0;
+            int a = 0, b = 0, resultado = 0;
 
             Console.WriteLine("Escribe tu nombre)");
             entrada = Console.ReadLine(); //Instanciar
@@ -32,12 +31,10 @@ namespace AplicacionBase
             Console.WriteLine("");
 
             Console.WriteLine("Regalame un numero entero");
-            entrada = Console.ReadLine();
-            a = Convert.ToInt32(entrada);
+            a = int.Parse(System.Console.ReadLine());
 
             Console.WriteLine("Regalame otro número");
-            entrada = Console.ReadLine();
-            b = Convert.ToInt32(entrada);
+            b = int.Parse(System.Console.ReadLine());
 
             resultado = a + b;
 
@@ -54,8 +51,7 @@ namespace AplicacionBase
             Console.WriteLine("Ahora, calculamos el área de una circunferencia");
             Console.WriteLine("");
             Console.WriteLine("Regalame el valor del radio");
-            entrada = Console.ReadLine();
-            Radio = Convert.ToSingle(entrada);
+            Radio = float.Parse(System.Console.ReadLine());
 
             Area = PI * (Radio * Radio);
             Console.WriteLine("** El radio es {0} por ende, El área de una circunferencia es {1} **", Radio, Area);

@@ -8,31 +8,31 @@ namespace AplicacionBase
         static void Main(string[] args)
         {
             //variable de entrada
-            double n1, n2, n3, n4;
+            double Numero_1, Numero_2, Numero_3, Numero_4;
             //variable de salida
             double mayor;
             //leer variable de entrada 
             Console.WriteLine("ingrese el numero 1");
-            n1 = double.Parse(Console.ReadLine());
+            Numero_1 = double.Parse(Console.ReadLine());
             Console.WriteLine("ingrese el numero 2");
-            n2 = double.Parse(Console.ReadLine());
+            Numero_2 = double.Parse(Console.ReadLine());
             Console.WriteLine("ingrese el numero 3");
-            n3 = double.Parse(Console.ReadLine());
+            Numero_3 = double.Parse(Console.ReadLine());
             Console.WriteLine("ingrese el numero 4");
-            n4 = double.Parse(Console.ReadLine());
+            Numero_4 = double.Parse(Console.ReadLine());
             //determinar el mayor
-            mayor = n1;
-            if (n2 > mayor)
+            mayor = Numero_1;
+            if (Numero_2 > mayor)
             {
-                mayor = n2;
+                mayor = Numero_2;
             }
-            if (n3 > mayor)
+            if (Numero_3 > mayor)
             {
-                mayor = n3;
+                mayor = Numero_3;
             }
-            if (n4 > mayor)
+            if (Numero_4 > mayor)
             {
-                mayor = n4;
+                mayor = Numero_4;
             }
             //mostrar en pantalla el numeo mayor
             Console.WriteLine("el numero mayor es " + mayor);

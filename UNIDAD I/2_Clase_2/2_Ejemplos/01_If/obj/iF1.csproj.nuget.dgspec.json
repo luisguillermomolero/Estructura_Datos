@@ -1,29 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Estructura_Datos\\UNIDAD I\\2_Clase_2\\2_Ejemplos\\1.- If1\\iF1.csproj": {}
+    "D:\\Estructura_Datos\\UNIDAD I\\2_Clase_2\\2_Ejemplos\\01_If\\iF1.csproj": {}
   },
   "projects": {
-    "D:\\Estructura_Datos\\UNIDAD I\\2_Clase_2\\2_Ejemplos\\1.- If1\\iF1.csproj": {
+    "D:\\Estructura_Datos\\UNIDAD I\\2_Clase_2\\2_Ejemplos\\01_If\\iF1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estructura_Datos\\UNIDAD I\\2_Clase_2\\2_Ejemplos\\1.- If1\\iF1.csproj",
+        "projectUniqueName": "D:\\Estructura_Datos\\UNIDAD I\\2_Clase_2\\2_Ejemplos\\01_If\\iF1.csproj",
         "projectName": "iF1",
-        "projectPath": "D:\\Estructura_Datos\\UNIDAD I\\2_Clase_2\\2_Ejemplos\\1.- If1\\iF1.csproj",
+        "projectPath": "D:\\Estructura_Datos\\UNIDAD I\\2_Clase_2\\2_Ejemplos\\01_If\\iF1.csproj",
         "packagesPath": "C:\\Users\\luisg\\.nuget\\packages\\",
-        "outputPath": "D:\\Estructura_Datos\\UNIDAD I\\2_Clase_2\\2_Ejemplos\\1.- If1\\obj\\",
+        "outputPath": "D:\\Estructura_Datos\\UNIDAD I\\2_Clase_2\\2_Ejemplos\\01_If\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\luisg\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\luisg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -35,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -50,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.411\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -6,19 +6,19 @@ namespace AplicacionBase
     {
         static void Main(string[] args)
         {
-            DisplayWeatherReport(15.0);  // Output: Cold.
-            DisplayWeatherReport(24.0);  // Output: Perfect!
+            mostrarReporteClima(15.0);  // Salida: Frio!..
+            mostrarReporteClima(24.0);  // Salida: Prefecto!..
 
-            void DisplayWeatherReport(double tempInCelsius)
+            void mostrarReporteClima(double temperaturaCelsius)
             {
 
-                if (tempInCelsius < 20.0)
+                if (temperaturaCelsius < 20.0)
                 {
-                    Console.WriteLine("Cold.");
+                    Console.WriteLine("Frio!..");
                 }
                 else
                 {
-                    Console.WriteLine("Perfect!");
+                    Console.WriteLine("Perfecto!..");
                 }
             }
         }

@@ -9,29 +9,29 @@ namespace AplicacionBase
         static void Main(string[] args)
         {
 
-            DisplayMeasurement(-4);  // Output: Measured value is -4; too low.
-            DisplayMeasurement(5);  // Output: Measured value is 5.
-            DisplayMeasurement(30);  // Output: Measured value is 30; too high.
-            DisplayMeasurement(double.NaN);  // Output: Failed measurement.
+            mostratMedicion(-4); // Salida: El valor medido es -4; demasiado baja.
+            mostratMedicion(5);  // Salida: el valor medido es 5.
+            mostratMedicion(30);  // Salida: El valor medido es 30; demasiado alto.
+            mostratMedicion(double.NaN);  // Salida: medición fallida.
 
-            void DisplayMeasurement(double measurement)
+            void mostratMedicion(double Medicion)
             {
-                switch (measurement)
+                switch (Medicion)
                 {
                     case < 0.0:
-                        Console.WriteLine($"Measured value is {measurement}; too low.");
+                        Console.WriteLine($"El valor medido es {Medicion}; demasiado baja.");
                         break;
 
                     case > 15.0:
-                        Console.WriteLine($"Measured value is {measurement}; too high.");
+                        Console.WriteLine($"El valor medido es {Medicion}; demasiado alto.");
                         break;
 
                     case double.NaN:
-                        Console.WriteLine("Failed measurement.");
+                        Console.WriteLine("Medicion fallida.");
                         break;
 
                     default:
-                        Console.WriteLine($"Measured value is {measurement}.");
+                        Console.WriteLine($"El valor medido es {Medicion}.");
                         break;
                 }
             }
