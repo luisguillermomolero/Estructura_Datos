@@ -11,3 +11,17 @@ C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTUR
 C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\3.- CLASE 3\2.- EJEMPLOS\5.- CicloDoWhile1\obj\Debug\netcoreapp3.1\5.- CicloDoWhile1.dll
 C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\3.- CLASE 3\2.- EJEMPLOS\5.- CicloDoWhile1\obj\Debug\netcoreapp3.1\5.- CicloDoWhile1.pdb
 C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\3.- CLASE 3\2.- EJEMPLOS\5.- CicloDoWhile1\obj\Debug\netcoreapp3.1\5.- CicloDoWhile1.genruntimeconfig.cache
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\2_Ejemplos\5.- CicloDoWhile1\bin\Debug\netcoreapp3.1\5.- CicloDoWhile1.exe
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\2_Ejemplos\5.- CicloDoWhile1\bin\Debug\netcoreapp3.1\5.- CicloDoWhile1.deps.json
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\2_Ejemplos\5.- CicloDoWhile1\bin\Debug\netcoreapp3.1\5.- CicloDoWhile1.runtimeconfig.json
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\2_Ejemplos\5.- CicloDoWhile1\bin\Debug\netcoreapp3.1\5.- CicloDoWhile1.runtimeconfig.dev.json
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\2_Ejemplos\5.- CicloDoWhile1\bin\Debug\netcoreapp3.1\5.- CicloDoWhile1.dll
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\2_Ejemplos\5.- CicloDoWhile1\bin\Debug\netcoreapp3.1\5.- CicloDoWhile1.pdb
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\2_Ejemplos\5.- CicloDoWhile1\obj\Debug\netcoreapp3.1\5.- CicloDoWhile1.csproj.AssemblyReference.cache
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\2_Ejemplos\5.- CicloDoWhile1\obj\Debug\netcoreapp3.1\5.- CicloDoWhile1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\2_Ejemplos\5.- CicloDoWhile1\obj\Debug\netcoreapp3.1\5.- CicloDoWhile1.AssemblyInfoInputs.cache
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\2_Ejemplos\5.- CicloDoWhile1\obj\Debug\netcoreapp3.1\5.- CicloDoWhile1.AssemblyInfo.cs
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\2_Ejemplos\5.- CicloDoWhile1\obj\Debug\netcoreapp3.1\5.- CicloDoWhile1.csproj.CoreCompileInputs.cache
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\2_Ejemplos\5.- CicloDoWhile1\obj\Debug\netcoreapp3.1\5.- CicloDoWhile1.dll
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\2_Ejemplos\5.- CicloDoWhile1\obj\Debug\netcoreapp3.1\5.- CicloDoWhile1.pdb
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\2_Ejemplos\5.- CicloDoWhile1\obj\Debug\netcoreapp3.1\5.- CicloDoWhile1.genruntimeconfig.cache

@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
 
 namespace AplicacionBase
 {
@@ -9,18 +6,17 @@ namespace AplicacionBase
     {
         static void Main(string[] args)
         {
-            int temperatura   =  0; string valor = "";
+            int Temperatura = 0; 
 
-            Console.WriteLine("Regalame la temperatura actual:");
-            valor =  Console.ReadLine();
-            temperatura   =  Convert.ToInt32(valor);
+            Console.Write("Regalame la temperatura actual: ");
+            Temperatura = int.Parse(System.Console.ReadLine());
 
-            while   (temperatura  >  20)
+            while (Temperatura > 20)
             {
-                temperatura --;
-                Console.WriteLine("Temperatura->{0}", temperatura);
+                Temperatura = Temperatura-1;
+                Console.WriteLine($"Temperatura->{Temperatura}");
             }
-            Console.WriteLine("La temperatura final es {0}", temperatura);
+            Console.WriteLine($"La temperatura final es {Temperatura}");
         }
     }
 }

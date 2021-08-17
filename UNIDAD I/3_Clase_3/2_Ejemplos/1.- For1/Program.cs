@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
 
 namespace AplicacionBase
 {
@@ -15,39 +12,36 @@ namespace AplicacionBase
             float Calificacion2 = 0.0f;
             float Calificacion3 = 0.0f;
             float Promedio = 0.0f;
-            string Valor = "";
 
-            Console.WriteLine("Ingrese la primera calificación:");
-            Valor = Console.ReadLine();
-            Calificacion1 = Convert.ToSingle(Valor);
+            Console.Write("Ingrese la primera calificación: ");
+            Calificacion1 = int.Parse(System.Console.ReadLine());
 
-            Console.WriteLine("Ingrese la segunda calificación:");
-            Valor = Console.ReadLine();
-            Calificacion2 = Convert.ToSingle(Valor);
+            Console.Write("Ingrese la segunda calificación: ");
+            Calificacion2 = int.Parse(System.Console.ReadLine());
 
-            Console.WriteLine("Ingrese la tercera calificación:");
-            Valor = Console.ReadLine();
-            Calificacion3 = Convert.ToSingle(Valor);
+            Console.Write("Ingrese la tercera calificación: ");
+            Calificacion3 = int.Parse(System.Console.ReadLine());
 
             Promedio = (Calificacion1 + Calificacion2 + Calificacion3) / 3;
 
-            Console.WriteLine("El Promedio es {0}",  Promedio);
+            Console.WriteLine("\nEl Promedio es {0}",  Promedio);
 
             
             //Usando el FOR
 
-            int n = 0;     // variable de  control
+            int n= 0;  // Valor de control ciclo for
+            int Acumulador = 0;
+            int Calificacion = 0;
+            int CANTIDAD_ESTUDIANTES = 3;
 
-            Console.WriteLine("Usando inicialmente el ciclo FOR para mostrar números por consola");
-            Console.WriteLine("*** Antes del ciclo ***");
+            Console.WriteLine("\nUtilizando el ciclo for");
 
-
-            for (n = 1; n <= 10; n = n + 1)
-                Console.WriteLine(" Ingrese la calificación {0} de 10",  n);
-
-            Console.WriteLine("*** Después del ciclo ***");
-
+            for (n = 1; n <= CANTIDAD_ESTUDIANTES; n++){
+                Console.Write($" Ingrese la calificación {n}/{CANTIDAD_ESTUDIANTES} ");
+                Calificacion = int.Parse(System.Console.ReadLine());
+                Acumulador +=Calificacion;
+            }
+            Console.WriteLine($"\nEl promedio es: {Acumulador/CANTIDAD_ESTUDIANTES}");
         }
-
     }
 }

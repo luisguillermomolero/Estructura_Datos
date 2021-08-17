@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
 
 namespace AplicacionBase
 {
@@ -12,25 +9,20 @@ namespace AplicacionBase
         {
 
             int n = 0;
-            int cantidad;
-            float calif = 0.0f;
-            float suma = 0.0f;
-            float promedio = 0.0f;
-            string valor = "";
+            int cantidadAlumnos;
+            float Calificacion = 0.0f;
+            float AcumuladorCalificacion = 0.0f;
 
-            Console.Write("Ingrese la cantidad de alumnos a registrar : ");
-            valor = Console.ReadLine();
-            cantidad = Convert.ToInt32(valor);
+            Console.Write("Ingrese la cantidad calificaciones de alumnos a registrar: ");
+            cantidadAlumnos = int.Parse(System.Console.ReadLine());
 
-            for (n = 1; n <= cantidad; n++)
+            for (n = 1; n <= cantidadAlumnos; n++)
             {
-                Console.Write("Ingrese por favor la calificación del alumno {0} de {1} : ", n, cantidad);
-                valor = Console.ReadLine();
-                calif = Convert.ToSingle(valor);
-                suma += calif;
+                Console.Write($"Ingrese por favor la calificación del alumno {n}/{cantidadAlumnos}: ");
+                Calificacion = int.Parse(System.Console.ReadLine());
+                AcumuladorCalificacion += Calificacion;
             }
-            promedio = suma / cantidad;
-            Console.Write("El promedio de calificaciones de {0} almunos es : {1} ", cantidad, promedio);
+            Console.Write($"El promedio de calificaciones de {cantidadAlumnos} alumnos es: {AcumuladorCalificacion/cantidadAlumnos}");
         }
     }
 }

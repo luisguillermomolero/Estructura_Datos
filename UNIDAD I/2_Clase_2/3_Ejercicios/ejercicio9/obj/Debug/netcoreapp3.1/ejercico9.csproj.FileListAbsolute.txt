@@ -17,10 +17,11 @@ D:\Estructura_Datos\UNIDAD I\2_Clase_2\3_Ejercicios\ejercicio9\bin\Debug\netcore
 D:\Estructura_Datos\UNIDAD I\2_Clase_2\3_Ejercicios\ejercicio9\bin\Debug\netcoreapp3.1\ejercico9.runtimeconfig.dev.json
 D:\Estructura_Datos\UNIDAD I\2_Clase_2\3_Ejercicios\ejercicio9\bin\Debug\netcoreapp3.1\ejercico9.dll
 D:\Estructura_Datos\UNIDAD I\2_Clase_2\3_Ejercicios\ejercicio9\bin\Debug\netcoreapp3.1\ejercico9.pdb
-D:\Estructura_Datos\UNIDAD I\2_Clase_2\3_Ejercicios\ejercicio9\obj\Debug\netcoreapp3.1\ejercico9.csprojAssemblyReference.cache
 D:\Estructura_Datos\UNIDAD I\2_Clase_2\3_Ejercicios\ejercicio9\obj\Debug\netcoreapp3.1\ejercico9.AssemblyInfoInputs.cache
 D:\Estructura_Datos\UNIDAD I\2_Clase_2\3_Ejercicios\ejercicio9\obj\Debug\netcoreapp3.1\ejercico9.AssemblyInfo.cs
 D:\Estructura_Datos\UNIDAD I\2_Clase_2\3_Ejercicios\ejercicio9\obj\Debug\netcoreapp3.1\ejercico9.csproj.CoreCompileInputs.cache
 D:\Estructura_Datos\UNIDAD I\2_Clase_2\3_Ejercicios\ejercicio9\obj\Debug\netcoreapp3.1\ejercico9.dll
 D:\Estructura_Datos\UNIDAD I\2_Clase_2\3_Ejercicios\ejercicio9\obj\Debug\netcoreapp3.1\ejercico9.pdb
 D:\Estructura_Datos\UNIDAD I\2_Clase_2\3_Ejercicios\ejercicio9\obj\Debug\netcoreapp3.1\ejercico9.genruntimeconfig.cache
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\3_Ejercicios\ejercicio9\obj\Debug\netcoreapp3.1\ejercico9.csproj.AssemblyReference.cache
+D:\Estructura_Datos\UNIDAD I\2_Clase_2\3_Ejercicios\ejercicio9\obj\Debug\netcoreapp3.1\ejercico9.GeneratedMSBuildEditorConfig.editorconfig

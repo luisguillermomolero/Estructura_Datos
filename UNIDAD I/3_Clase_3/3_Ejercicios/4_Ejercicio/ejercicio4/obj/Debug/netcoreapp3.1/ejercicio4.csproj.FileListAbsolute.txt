@@ -1,0 +1,40 @@
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicio4\ejercicio4\bin\Debug\netcoreapp3.1\ejercicio4.exe
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicio4\ejercicio4\bin\Debug\netcoreapp3.1\ejercicio4.deps.json
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicio4\ejercicio4\bin\Debug\netcoreapp3.1\ejercicio4.runtimeconfig.json
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicio4\ejercicio4\bin\Debug\netcoreapp3.1\ejercicio4.runtimeconfig.dev.json
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicio4\ejercicio4\bin\Debug\netcoreapp3.1\ejercicio4.dll
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicio4\ejercicio4\bin\Debug\netcoreapp3.1\ejercicio4.pdb
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicio4\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.csprojAssemblyReference.cache
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicio4\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.AssemblyInfoInputs.cache
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicio4\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.AssemblyInfo.cs
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicio4\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicio4\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.dll
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicio4\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.pdb
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicio4\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.genruntimeconfig.cache
+C:\Users\DELL\Downloads\estructura-datos-master\clase3\ejercicio4\ejercicio4\bin\Debug\netcoreapp3.1\ejercicio4.exe
+C:\Users\DELL\Downloads\estructura-datos-master\clase3\ejercicio4\ejercicio4\bin\Debug\netcoreapp3.1\ejercicio4.deps.json
+C:\Users\DELL\Downloads\estructura-datos-master\clase3\ejercicio4\ejercicio4\bin\Debug\netcoreapp3.1\ejercicio4.runtimeconfig.json
+C:\Users\DELL\Downloads\estructura-datos-master\clase3\ejercicio4\ejercicio4\bin\Debug\netcoreapp3.1\ejercicio4.runtimeconfig.dev.json
+C:\Users\DELL\Downloads\estructura-datos-master\clase3\ejercicio4\ejercicio4\bin\Debug\netcoreapp3.1\ejercicio4.dll
+C:\Users\DELL\Downloads\estructura-datos-master\clase3\ejercicio4\ejercicio4\bin\Debug\netcoreapp3.1\ejercicio4.pdb
+C:\Users\DELL\Downloads\estructura-datos-master\clase3\ejercicio4\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\estructura-datos-master\clase3\ejercicio4\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\estructura-datos-master\clase3\ejercicio4\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.AssemblyInfo.cs
+C:\Users\DELL\Downloads\estructura-datos-master\clase3\ejercicio4\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\estructura-datos-master\clase3\ejercicio4\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.dll
+C:\Users\DELL\Downloads\estructura-datos-master\clase3\ejercicio4\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.pdb
+C:\Users\DELL\Downloads\estructura-datos-master\clase3\ejercicio4\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.genruntimeconfig.cache
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\3_Ejercicios\4_Ejercicio\ejercicio4\bin\Debug\netcoreapp3.1\ejercicio4.exe
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\3_Ejercicios\4_Ejercicio\ejercicio4\bin\Debug\netcoreapp3.1\ejercicio4.deps.json
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\3_Ejercicios\4_Ejercicio\ejercicio4\bin\Debug\netcoreapp3.1\ejercicio4.runtimeconfig.json
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\3_Ejercicios\4_Ejercicio\ejercicio4\bin\Debug\netcoreapp3.1\ejercicio4.runtimeconfig.dev.json
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\3_Ejercicios\4_Ejercicio\ejercicio4\bin\Debug\netcoreapp3.1\ejercicio4.dll
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\3_Ejercicios\4_Ejercicio\ejercicio4\bin\Debug\netcoreapp3.1\ejercicio4.pdb
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\3_Ejercicios\4_Ejercicio\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.csproj.AssemblyReference.cache
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\3_Ejercicios\4_Ejercicio\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\3_Ejercicios\4_Ejercicio\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.AssemblyInfoInputs.cache
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\3_Ejercicios\4_Ejercicio\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.AssemblyInfo.cs
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\3_Ejercicios\4_Ejercicio\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.csproj.CoreCompileInputs.cache
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\3_Ejercicios\4_Ejercicio\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.dll
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\3_Ejercicios\4_Ejercicio\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.pdb
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\3_Ejercicios\4_Ejercicio\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.genruntimeconfig.cache

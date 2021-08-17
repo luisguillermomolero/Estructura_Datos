@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace AplicacionBase
 {
@@ -9,16 +7,17 @@ namespace AplicacionBase
         static void Main(string[] args)
         {
             int n = 0;
-            int contador = 0;
-            int acumulador = 0;
+            int Contador = 0;
+            int Acumulador = 0;
+            int LIMITE_CICLO = 10;
             
             Console.WriteLine("** Antes del ciclo ***");
 
-            for (n = 10; n >= 1; n = n - 1)
+            for (n = LIMITE_CICLO; n >= 1; n --)
             {
-                contador = contador + 1;
-                acumulador = acumulador + n;
-                Console.WriteLine("Contador {0}, Acumulador {1}", contador, acumulador);
+                Contador += 1;
+                Acumulador += n;
+                Console.WriteLine($"Contador {Contador}, Acumulador {Acumulador}");
 
             }
             Console.WriteLine("*** Después del ciclo ***");

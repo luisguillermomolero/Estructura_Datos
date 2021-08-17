@@ -11,3 +11,17 @@ C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTUR
 C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\3.- CLASE 3\2.- EJEMPLOS\3.- For3\obj\Debug\netcoreapp3.1\3.- For3.dll
 C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\3.- CLASE 3\2.- EJEMPLOS\3.- For3\obj\Debug\netcoreapp3.1\3.- For3.pdb
 C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD I\3.- CLASE 3\2.- EJEMPLOS\3.- For3\obj\Debug\netcoreapp3.1\3.- For3.genruntimeconfig.cache
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\2_Ejemplos\3.- For3\obj\Debug\netcoreapp3.1\3.- For3.csproj.AssemblyReference.cache
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\2_Ejemplos\3.- For3\obj\Debug\netcoreapp3.1\3.- For3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\2_Ejemplos\3.- For3\obj\Debug\netcoreapp3.1\3.- For3.AssemblyInfoInputs.cache
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\2_Ejemplos\3.- For3\obj\Debug\netcoreapp3.1\3.- For3.AssemblyInfo.cs
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\2_Ejemplos\3.- For3\obj\Debug\netcoreapp3.1\3.- For3.csproj.CoreCompileInputs.cache
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\2_Ejemplos\3.- For3\obj\Debug\netcoreapp3.1\3.- For3.dll
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\2_Ejemplos\3.- For3\obj\Debug\netcoreapp3.1\3.- For3.pdb
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\2_Ejemplos\3.- For3\bin\Debug\netcoreapp3.1\3.- For3.exe
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\2_Ejemplos\3.- For3\bin\Debug\netcoreapp3.1\3.- For3.deps.json
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\2_Ejemplos\3.- For3\bin\Debug\netcoreapp3.1\3.- For3.runtimeconfig.json
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\2_Ejemplos\3.- For3\bin\Debug\netcoreapp3.1\3.- For3.runtimeconfig.dev.json
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\2_Ejemplos\3.- For3\bin\Debug\netcoreapp3.1\3.- For3.dll
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\2_Ejemplos\3.- For3\bin\Debug\netcoreapp3.1\3.- For3.pdb
+D:\Estructura_Datos\UNIDAD I\3_Clase_3\2_Ejemplos\3.- For3\obj\Debug\netcoreapp3.1\3.- For3.genruntimeconfig.cache

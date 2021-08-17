@@ -1,74 +1,55 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
 
 namespace AplicacionBase
 {
     // Programa que convierte unidades de medida: de Pies y Pulgadas a Centimetros
     class Program
     {
-        static void   Main(string[] args)
+        static void Main(string[] args)
         {
-            float pies = 0.0f;
-            float pulgadas = 0.0f;
-            float valorpie = 30.48f;
-            float valorpulgada = 2.54f;
-            string respuesta = ""; 
-            string  valor =  "";
+            float Pies = 0.0f;
+            float Pulgadas = 0.0f;
+            float VALOR_PIE = 30.48f;
+            float VALOR_PULGADA = 2.54f;
+            string whileLoop = "";
 
             do
             {
-                // Se inicializan las funciones
-
-
-                float conversion1 = 0.0f;
-                float conversion2 = 0.0f;
+                float conversionPiesACentimetros = 0.0f;
+                float conversionPulgadasACentrimetros = 0.0f;
 
                 // Se introducen datos por teclado
 
-                Console.WriteLine("Ingrese por favor cuantos pies desea convertir a centimetros: "); 
-                valor =  Console.ReadLine();
-                pies = Convert.ToSingle(valor);
+                Console.Write("Ingrese por favor cuantos Pies desea convertir a centimetros: "); 
+                Pies = int.Parse(System.Console.ReadLine());
 
+                // Se convierte de Pies a centimetros
 
-                // Se convierte de pies a centimetros
-
-                conversion1 = pies * valorpie;
-
+                conversionPiesACentimetros = Pies * VALOR_PIE;
 
                 // Se muestra el resultado por pantalla
 
-                Console.Write("{0} pies son {1} centimetros", pies, conversion1);
-                Console.WriteLine("");
-
+                Console.Write($"{Pies} Pies son {conversionPiesACentimetros} centimetros");
 
                 // Se introducen datos por teclado
 
-                Console.WriteLine("");
-                Console.WriteLine("Ingrese por favor cuantas pulgadas quiere convertir a centimetros: "); 
-                valor =  Console.ReadLine();
-                pulgadas = Convert.ToSingle(valor);
+                Console.Write("\n\nIngrese por favor cuantas Pulgadas desea convertir a centimetros: "); 
+                Pulgadas = int.Parse(System.Console.ReadLine());
 
+                // Se convierte de Pulgadas a centimetros
 
-                // Se convierte de pulgadas a centimetros
-
-                conversion2 = pulgadas * valorpulgada;
-
+                conversionPulgadasACentrimetros = Pulgadas * VALOR_PULGADA;
 
                 // Se muestra el resultado por pantalla
 
-                Console.WriteLine("{0} pulgadas son {1} centimetros", pulgadas, conversion2);
-
+                Console.WriteLine($"{Pulgadas} Pulgadas son {conversionPulgadasACentrimetros}");
 
                 // Se solicita continuar/salir del programa
 
-                Console.WriteLine("");
-                Console.Write("Deseas hacer otra conversión (si / no) ?");
-                Console.WriteLine("");
-                respuesta = Console.ReadLine();
+                Console.Write("\nDeseas hacer otra conversión s/n: ");
+                whileLoop = Console.ReadLine();
 
-            } while (respuesta =="si");
+            } while (whileLoop =="s" || whileLoop == "S");
         }
     }
 }

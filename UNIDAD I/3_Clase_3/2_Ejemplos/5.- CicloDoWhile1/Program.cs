@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
 
 namespace AplicacionBase
 {
@@ -11,11 +8,10 @@ namespace AplicacionBase
     {
         static void Main(string[] args)
         {
-            float a = 0.0f;
-            float b = 0.0f;
-            float resultado = 0.0f;
-            string valor = "";
-            int opcion = 0;
+            float primerValor = 0.0f;
+            float segundoValor = 0.0f;
+            float Resultado = 0.0f;
+            int Opcion = 0;
 
             do
             {
@@ -26,43 +22,40 @@ namespace AplicacionBase
                 Console.WriteLine("5 - Salir");
 
                 Console.Write("Que operación deseas realizar : ");
-                valor = Console.ReadLine();
-                opcion = Convert.ToInt32(valor);
+                Opcion = int.Parse(System.Console.ReadLine());
                     
-                if (opcion != 5)
+                if (Opcion != 5)
                 {
                     Console.Write("Ingrese el primer número : ");
-                    valor = Console.ReadLine();
-                    a = Convert.ToSingle(valor);
+                    primerValor = int.Parse(System.Console.ReadLine());
 
                     Console.Write("Ingrese el segundo número : ");
-                    valor = Console.ReadLine();
-                    b = Convert.ToSingle(valor);
+                    segundoValor = int.Parse(System.Console.ReadLine());
     
-                    switch (opcion)
+                    switch (Opcion)
                     {
                         case   1:
-                            resultado = a + b;
+                            Resultado = primerValor + segundoValor;
                             break;
                         case   2:
-                            resultado = a - b;
+                            Resultado = primerValor - segundoValor;
                             break;
                         case   3:
-                            if (b != 0)
-                                resultado = a  / b;
+                            if (segundoValor != 0)
+                                Resultado = primerValor/segundoValor;
                             else
-                                Console.WriteLine("Divisor no  válido");
+                                Console.WriteLine("Divisor no válido");
                             break;
                         case   4:
-                            resultado = a * b;
+                            Resultado = primerValor * segundoValor;
                             break;
                         default:
                             Console.WriteLine("Opción no válida");
                             break;
                     }
-                Console.WriteLine("El resultado es: {0}", resultado);
+                Console.WriteLine($"El resultado es: {Resultado}");
                 }
-            } while   (opcion !=  5);
+            }while(Opcion !=  5);
     }
 }
 }

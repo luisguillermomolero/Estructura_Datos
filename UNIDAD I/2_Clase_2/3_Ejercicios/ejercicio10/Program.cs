@@ -7,20 +7,20 @@ namespace AplicacionBase
     {
         static void Main(string[] args)
         {
-            int hombremenos = 0;
-            int masculino = 0;
-            int hombreentre = 0;
-            int hombremas = 0;
-            int mujerentre = 0;
-            int femenino = 0;
-            int Estaciv;
-            int salario;
-            int emplea = 20;
-            int prom = 0;
-            int homedad = 0;
+            int hombreMenos = 0;
+            int Masculino = 0;
+            int hombreEntre = 0;
+            int hombreMas = 0;
+            int mujerEntre = 0;
+            int Femenino = 0;
+            int estadoCivil;
+            int Salario;
+            int CANTIDAD_EMPLEADOS = 20;
+            int Promedio = 0;
+            int acumuladorSexoHombre = 0;
             int acomulador = 0;
 
-            for (int i = 0; i < emplea; i++)
+            for (int i = 0; i < CANTIDAD_EMPLEADOS; i++)
             {
 
                 Console.WriteLine(" Seleccione el sexo hombre/mujer");
@@ -30,24 +30,24 @@ namespace AplicacionBase
                 {
                     case ("hombre"):
 
-                        masculino++;
+                        Masculino++;
                         Console.WriteLine("digite su edad");
-                        homedad = Convert.ToInt32(Console.ReadLine());
+                        acumuladorSexoHombre = Convert.ToInt32(Console.ReadLine());
 
-                        acomulador = acomulador + homedad;
+                        acomulador = acomulador + acumuladorSexoHombre;
 
                         Console.WriteLine("");
                         Console.WriteLine("elija su estado civil (1:soltero, 2:casado, 3:viudo)");
-                        Estaciv = Convert.ToInt16(Console.ReadLine());
+                        estadoCivil = Convert.ToInt16(Console.ReadLine());
                         Console.WriteLine("");
-                        switch (Estaciv)
+                        switch (estadoCivil)
                         {
                             case 1:
                                 Console.WriteLine("");
-                                Console.WriteLine("elija su salario (1:menos de 600 Bs.F., 2:entre 600 y 1000Bs.F., 3:Mas de 1000Bs)");
-                                salario = Convert.ToInt16(Console.ReadLine());
+                                Console.WriteLine("elija su Salario (1:menos de 600 Bs.F., 2:entre 600 y 1000Bs.F., 3:Mas de 1000Bs)");
+                                Salario = Convert.ToInt16(Console.ReadLine());
                                 Console.WriteLine("");
-                                switch (salario)
+                                switch (Salario)
                                 {
                                     case 1:
                                         Console.WriteLine("usted a digitado menos de 600 Bs.F.");
@@ -62,31 +62,31 @@ namespace AplicacionBase
                                 break;
                             case 2:
                                 Console.WriteLine("");
-                                Console.WriteLine("elija su salario (1:menos de 600 Bs.F., 2:entre 600 y 1000Bs.F., 3:Mas de 1000Bs)");
-                                salario = Convert.ToInt16(Console.ReadLine());
+                                Console.WriteLine("elija su Salario (1:menos de 600 Bs.F., 2:entre 600 y 1000Bs.F., 3:Mas de 1000Bs)");
+                                Salario = Convert.ToInt16(Console.ReadLine());
                                 Console.WriteLine("");
-                                switch (salario)
+                                switch (Salario)
                                 {
                                     case 1:
                                         Console.WriteLine("usted a digitado menos de 600 Bs.F.");
-                                        hombremenos++;
+                                        hombreMenos++;
                                         break;
                                     case 2:
                                         Console.WriteLine("Usted digito entre 600 y 1000Bs.F.");
-                                        hombreentre++;
+                                        hombreEntre++;
                                         break;
                                     case 3:
                                         Console.WriteLine("Usted digito Mas de 1000Bs");
-                                        hombremas++;
+                                        hombreMas++;
                                         break;
                                 }
                                 break;
                             case 3:
                                 Console.WriteLine("");
-                                Console.WriteLine("elija su salario (1:menos de 600 Bs.F., 2:entre 600 y 1000Bs.F., 3:Mas de 1000Bs)");
-                                salario = Convert.ToInt16(Console.ReadLine());
+                                Console.WriteLine("elija su Salario (1:menos de 600 Bs.F., 2:entre 600 y 1000Bs.F., 3:Mas de 1000Bs)");
+                                Salario = Convert.ToInt16(Console.ReadLine());
                                 Console.WriteLine("");
-                                switch (salario)
+                                switch (Salario)
                                 {
                                     case 1:
                                         Console.WriteLine("usted a digitado menos de 600 Bs.F.");
@@ -102,21 +102,21 @@ namespace AplicacionBase
                         }
                         break;
                     case ("mujer"):
-                        femenino++;
+                        Femenino++;
                         Console.WriteLine("digite su edad");
                         int mujeedad = Convert.ToInt32(Console.ReadLine());
                         Console.WriteLine("");
                         Console.WriteLine("elija su estado civil (1:soltera, 2:casada, 3:viuda)");
-                        Estaciv = Convert.ToInt16(Console.ReadLine());
+                        estadoCivil = Convert.ToInt16(Console.ReadLine());
                         Console.WriteLine("");
-                        switch (Estaciv)
+                        switch (estadoCivil)
                         {
                             case 1:
                                 Console.WriteLine("");
-                                Console.WriteLine("elija su salario (1:menos de 600 Bs.F., 2:entre 600 y 1000Bs.F., 3:Mas de 1000Bs)");
-                                salario = Convert.ToInt16(Console.ReadLine());
+                                Console.WriteLine("elija su Salario (1:menos de 600 Bs.F., 2:entre 600 y 1000Bs.F., 3:Mas de 1000Bs)");
+                                Salario = Convert.ToInt16(Console.ReadLine());
                                 Console.WriteLine("");
-                                switch (salario)
+                                switch (Salario)
                                 {
                                     case 1:
                                         Console.WriteLine("usted a digitado menos de 600 Bs.F.");
@@ -131,10 +131,10 @@ namespace AplicacionBase
                                 break;
                             case 2:
                                 Console.WriteLine("");
-                                Console.WriteLine("elija su salario (1:menos de 600 Bs.F., 2:entre 600 y 1000Bs.F., 3:Mas de 1000Bs)");
-                                salario = Convert.ToInt16(Console.ReadLine());
+                                Console.WriteLine("elija su Salario (1:menos de 600 Bs.F., 2:entre 600 y 1000Bs.F., 3:Mas de 1000Bs)");
+                                Salario = Convert.ToInt16(Console.ReadLine());
                                 Console.WriteLine("");
-                                switch (salario)
+                                switch (Salario)
                                 {
                                     case 1:
                                         Console.WriteLine("usted a digitado menos de 600 Bs.F.");
@@ -149,17 +149,17 @@ namespace AplicacionBase
                                 break;
                             case 3:
                                 Console.WriteLine("");
-                                Console.WriteLine("elija su salario (1:menos de 600 Bs.F., 2:entre 600 y 1000Bs.F., 3:Mas de 1000Bs)");
-                                salario = Convert.ToInt16(Console.ReadLine());
+                                Console.WriteLine("elija su Salario (1:menos de 600 Bs.F., 2:entre 600 y 1000Bs.F., 3:Mas de 1000Bs)");
+                                Salario = Convert.ToInt16(Console.ReadLine());
                                 Console.WriteLine("");
-                                switch (salario)
+                                switch (Salario)
                                 {
                                     case 1:
                                         Console.WriteLine("usted a digitado menos de 600 Bs.F.");
                                         break;
                                     case 2:
                                         Console.WriteLine("Usted digito entre 600 y 1000Bs.F.");
-                                        mujerentre++;
+                                        mujerEntre++;
                                         break;
                                     case 3:
                                         Console.WriteLine("Usted digito Mas de 1000Bs");
@@ -173,18 +173,18 @@ namespace AplicacionBase
                 
 
             }
-            prom = acomulador / masculino;
+            Promedio = acomulador / Masculino;
 
 
             Console.WriteLine("");
 
-            Console.WriteLine("El total de personas del sexo femenino son: " + femenino);
+            Console.WriteLine("El total de personas del sexo Femenino son: " + Femenino);
             Console.WriteLine("");
-            Console.WriteLine("Total de hombres casados que ganan más de 1000 Bs.F. : " + hombremas);
+            Console.WriteLine("Total de hombres casados que ganan más de 1000 Bs.F. : " + hombreMas);
             Console.WriteLine("");
-            Console.WriteLine("Total de mujeres viudas que ganan más de 600 Bs: " + mujerentre);
+            Console.WriteLine("Total de mujeres viudas que ganan más de 600 Bs: " + mujerEntre);
             Console.WriteLine("");
-            Console.WriteLine("El promedio de edad de los hombre es de: " + prom);
+            Console.WriteLine("El Promedioedio de edad de los hombre es de: " + Promedio);
 
 
 

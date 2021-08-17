@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Linq;
-using System.Text;
-using System.Collections;
-using System.Collections.Generic;
 
 namespace AplicacionBase
 {
@@ -21,7 +17,7 @@ namespace AplicacionBase
             Console.Write("Dame la Edad: ");
             Edad = int.Parse(System.Console.ReadLine());
 
-            Console.Write("Tiene Permiso de los padres (true/false): ");
+            Console.Write("Tiene Permiso de los padres (s/n): ");
             Permiso = Console.ReadLine();
 
             if(Edad <= 15 && Permiso == "s" || Permiso == "S"){

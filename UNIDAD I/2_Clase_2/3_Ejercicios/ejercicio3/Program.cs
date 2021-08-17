@@ -1,7 +1,6 @@
 ﻿//Aplicación que permite generar una factuara
 using System;
 
-
 namespace AplicacionBase
 {
     class Program
@@ -11,7 +10,7 @@ namespace AplicacionBase
             double Valor, Cantidad, Descuento, calculoIVA, Total, Precio2;
             string whileLoop ="";
             double IVA = 0.11F;
-            double procentajeDescuento = 0.065f;
+            double PORCENTAJE_DESCUENTO = 0.065f;
 
             do{
 
@@ -26,7 +25,7 @@ namespace AplicacionBase
 
                 if (Precio2 > 500)
                 {
-                    Descuento = Precio2 * procentajeDescuento;
+                    Descuento = Precio2 * PORCENTAJE_DESCUENTO;
                     Total = Precio2 - Descuento;
                     Console.WriteLine("");
                     Console.WriteLine("     El cliente compro {0} productos a un costo c/u de {1} pesos", Cantidad, Valor);
