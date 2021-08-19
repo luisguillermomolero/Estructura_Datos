@@ -35,7 +35,7 @@ namespace AplicacionBase
                 Mayor = Numero_4;
             }
             //mostrar en pantalla el numeo Mayor
-            Console.WriteLine("\nEl numero Mayor es " + Mayor);
+            Console.WriteLine($"\nEl numero Mayor es {Mayor}");
         }
     }
 }

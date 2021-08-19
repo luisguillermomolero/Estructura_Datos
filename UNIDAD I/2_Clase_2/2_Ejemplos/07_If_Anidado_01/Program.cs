@@ -11,7 +11,7 @@ namespace AplicacionBase
         {
 
             int Numero_1, Numero_2;
-            int Opc = 0;
+            int Opcion = 0;
             int Resultado = 0;
 
 
@@ -22,7 +22,7 @@ namespace AplicacionBase
             Console.WriteLine("");
 
             Console.WriteLine("Que operación deseas realizar: ");
-            Opc = int.Parse(System.Console.ReadLine()) ;
+            Opcion = int.Parse(System.Console.ReadLine()) ;
 
             Console.WriteLine("\nDame el primer numero entero por favor: ");
             Numero_1 = int.Parse(System.Console.ReadLine());
@@ -30,21 +30,21 @@ namespace AplicacionBase
             Console.Write("Dame el segundo numero por favor: ");
             Numero_2 = int.Parse(System.Console.ReadLine());
 
-            if (Opc == 1)
+            if (Opcion == 1)
                 Resultado =  Numero_1  +  Numero_2;
-            if (Opc == 2)
+            if (Opcion == 2)
                 Resultado =  Numero_1 - Numero_2;
-            if (Opc == 3){
+            if (Opcion == 3){
                 if (Numero_2 == 0){
                     Console.WriteLine("Número invalido, divisor igual a cero");
                 }else{
                     Resultado = Numero_1/Numero_2;
                 }
             }
-            if (Opc == 4)
+            if (Opcion == 4)
                 Resultado =  Numero_1 * Numero_2;
                 
-            Console.WriteLine($"El Resultado  es: {Resultado}");
+            Console.WriteLine($"El Resultado  es: {resultado}");
         }
     }
 }

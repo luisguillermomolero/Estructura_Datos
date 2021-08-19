@@ -10,7 +10,7 @@ namespace AplicacionBase
 
         static void Main(string[] args)
         {
-            int Numero_1, Numero_2, Opc =0;
+            int Numero_1, Numero_2, Opcion =0;
             int Resultado = 0;
 
             Console.WriteLine("1 - Suma"); 
@@ -19,7 +19,7 @@ namespace AplicacionBase
             Console.WriteLine("4 - Multiplicación"); 
 
             Console.Write("Que operación deseas hacer: ");
-            Opc = int.Parse(System.Console.ReadLine());
+            Opcion = int.Parse(System.Console.ReadLine());
 
             Console.Write("Dame el primer numero por favor: ");
             Numero_1 = int.Parse(System.Console.ReadLine());
@@ -27,7 +27,7 @@ namespace AplicacionBase
             Console.Write("Dame el segundo numero por favor: "); 
             Numero_2 = int.Parse(System.Console.ReadLine());
 
-            switch (Opc)
+            switch (Opcion)
             { 
                 case   1:
                     Resultado = Numero_1 + Numero_2;
@@ -45,10 +45,10 @@ namespace AplicacionBase
                     Resultado = Numero_1 * Numero_2;
                     break;
                 default:
-                    Console.WriteLine("Opción  no  valida");
+                    Console.WriteLine("Opcionión  no  valida");
                     break;
             }
-            Console.WriteLine("El resultado  es:  {0}", Resultado);
+            Console.WriteLine($"El resultado  es:  {Resultado}");
         }
     }
 }

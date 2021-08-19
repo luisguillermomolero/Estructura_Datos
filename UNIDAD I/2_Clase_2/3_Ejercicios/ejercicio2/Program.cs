@@ -22,9 +22,9 @@ namespace ejercicio2
                 }
             }
             if (Contador > 2){
-                Console.WriteLine("{0} no es primo", Numero);
+                Console.WriteLine($"{Numero} no es primo");
             }else
-                Console.WriteLine("{0} es primo", Numero);
+                Console.WriteLine($"{Numero} es primo");
 
             Console.ReadLine();
         }

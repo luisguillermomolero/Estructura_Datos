@@ -7,7 +7,7 @@ namespace AplicacionBase
     {
         static void Main(string[] args)
         {
-            double Valor, Cantidad, Descuento, calculoIVA, Total, Precio2;
+            double Valor, Cantidad, Descuento, calculoIVA, Total, subTotal;
             string whileLoop ="";
             double IVA = 0.11F;
             double PORCENTAJE_DESCUENTO = 0.065f;
@@ -20,13 +20,13 @@ namespace AplicacionBase
                 Cantidad = double.Parse(Console.ReadLine());
 
                 calculoIVA = (Valor * Cantidad) * IVA;
-                Precio2 = (Valor * Cantidad) + IVA;
+                subTotal = (Valor * Cantidad) + IVA;
 
 
-                if (Precio2 > 500)
+                if (subTotal > 500)
                 {
-                    Descuento = Precio2 * PORCENTAJE_DESCUENTO;
-                    Total = Precio2 - Descuento;
+                    Descuento = subTotal * PORCENTAJE_DESCUENTO;
+                    Total = subTotal - Descuento;
                     Console.WriteLine("");
                     Console.WriteLine("     El cliente compro {0} productos a un costo c/u de {1} pesos", Cantidad, Valor);
                     Console.WriteLine("     El IVA de la compra es de {0} ", calculoIVA);
@@ -39,7 +39,7 @@ namespace AplicacionBase
                     Console.WriteLine("");
                     Console.WriteLine("     El cliente compro {0} productos a un costo c/u de {1} pesos", Cantidad, Valor);
                     Console.WriteLine("     El IVA de la compra es de {0} ", calculoIVA);
-                    Console.WriteLine("     El total a pagar es de: " + Precio2);
+                    Console.WriteLine("     El total a pagar es de: " + subTotal);
                 }
 
                 Console.WriteLine("Desea salir ? ");
