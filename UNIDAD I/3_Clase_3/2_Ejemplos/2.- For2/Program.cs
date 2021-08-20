@@ -9,7 +9,7 @@ namespace AplicacionBase
             int n = 0;
             int Contador = 0;
             int Acumulador = 0;
-            int LIMITE_CICLO = 10;
+            int LIMITE_CICLO = 4;
             
             Console.WriteLine("** Antes del ciclo ***");
 

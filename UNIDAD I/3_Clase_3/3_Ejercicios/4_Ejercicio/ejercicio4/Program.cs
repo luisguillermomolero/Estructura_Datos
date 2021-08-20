@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Globalization;
 
 namespace AplicacionBase
 {
@@ -18,18 +17,18 @@ namespace AplicacionBase
             Console.Write("¿Cuántos alumnos hay en la clase: ");
             cantidadAlumnos = int.Parse(System.Console.ReadLine());
            
-            for (i = 1; i <= cantidadAlumnos; i++)
+            for (i = 0; i < cantidadAlumnos; i++)
             {
-                float acumuladorNotas = 0.0F;
+                float acumuladorNotas = 0.0f;
                 float Promedio = 0.0F;
 
                 Console.WriteLine("___________________________________________");
-                Console.Write($"\n¿Cuántas notas tiene el alumno numero {i}: ");
+                Console.Write($"\n¿Cuántas notas tiene el alumno numero {i+1}: ");
                 cantidadNotas = int.Parse(System.Console.ReadLine());
                 
-                for (j = 1; j <= cantidadNotas; j++)
+                for (j = 0; j < cantidadNotas; j++)
                 {                    
-                    Console.Write($"Por favor digite la nota numero {j} del alumno {i}: ");
+                    Console.Write($"Por favor digite la nota numero {j+1} del alumno {i}: ");
                     Nota = float.Parse(System.Console.ReadLine());
                     acumuladorNotas += Nota;
                 }

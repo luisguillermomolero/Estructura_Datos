@@ -11,7 +11,7 @@ namespace AplicacionBase
             int contadorImpar = 0;
             int acumuladorPar = 0;
             int acumuladorImpar = 0;
-            int CANTIDAD_LIMITE = 2;
+            int CANTIDAD_LIMITE = 6;
 
             for (int i = 1; i <= CANTIDAD_LIMITE; i++)
             {

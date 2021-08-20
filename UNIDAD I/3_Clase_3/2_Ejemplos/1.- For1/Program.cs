@@ -22,24 +22,21 @@ namespace AplicacionBase
             Console.Write("Ingrese la tercera calificación: ");
             Calificacion3 = int.Parse(System.Console.ReadLine());
 
-            Promedio = (Calificacion1 + Calificacion2 + Calificacion3) / 3;
+            Console.WriteLine("\nEl Promedio es {0}",  (Calificacion1 + Calificacion2 + Calificacion3) / 3);
 
-            Console.WriteLine("\nEl Promedio es {0}",  Promedio);
-
-            
             //Usando el FOR
 
-            int n= 0;  // Valor de control ciclo for
+            int n = 0;  // Valor de control ciclo for
             int Acumulador = 0;
             int Calificacion = 0;
             int CANTIDAD_ESTUDIANTES = 3;
 
             Console.WriteLine("\nUtilizando el ciclo for");
 
-            for (n = 1; n <= CANTIDAD_ESTUDIANTES; n++){
-                Console.Write($" Ingrese la calificación {n}/{CANTIDAD_ESTUDIANTES} ");
+            for (n = 0; n < CANTIDAD_ESTUDIANTES; n++){
+                Console.Write($" Ingrese la calificación {n+1}/{CANTIDAD_ESTUDIANTES} ");
                 Calificacion = int.Parse(System.Console.ReadLine());
-                Acumulador +=Calificacion;
+                Acumulador += Calificacion;
             }
             Console.WriteLine($"\nEl promedio es: {Acumulador/CANTIDAD_ESTUDIANTES}");
         }
