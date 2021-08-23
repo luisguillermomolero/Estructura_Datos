@@ -1,0 +1,28 @@
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\12_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio12.exe
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\12_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio12.deps.json
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\12_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio12.runtimeconfig.json
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\12_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio12.runtimeconfig.dev.json
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\12_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio12.dll
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\12_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio12.pdb
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\12_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio12.csproj.AssemblyReference.cache
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\12_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\12_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio12.AssemblyInfoInputs.cache
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\12_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio12.AssemblyInfo.cs
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\12_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio12.csproj.CoreCompileInputs.cache
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\12_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio12.dll
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\12_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio12.pdb
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\12_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio12.genruntimeconfig.cache
+D:\OneDrive - Ucompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\12_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio12.exe
+D:\OneDrive - Ucompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\12_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio12.deps.json
+D:\OneDrive - Ucompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\12_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio12.runtimeconfig.json
+D:\OneDrive - Ucompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\12_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio12.runtimeconfig.dev.json
+D:\OneDrive - Ucompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\12_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio12.dll
+D:\OneDrive - Ucompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\12_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio12.pdb
+D:\OneDrive - Ucompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\12_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio12.csproj.AssemblyReference.cache
+D:\OneDrive - Ucompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\12_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio12.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Ucompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\12_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio12.AssemblyInfoInputs.cache
+D:\OneDrive - Ucompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\12_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio12.AssemblyInfo.cs
+D:\OneDrive - Ucompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\12_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio12.csproj.CoreCompileInputs.cache
+D:\OneDrive - Ucompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\12_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio12.dll
+D:\OneDrive - Ucompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\12_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio12.pdb
+D:\OneDrive - Ucompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\12_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio12.genruntimeconfig.cache

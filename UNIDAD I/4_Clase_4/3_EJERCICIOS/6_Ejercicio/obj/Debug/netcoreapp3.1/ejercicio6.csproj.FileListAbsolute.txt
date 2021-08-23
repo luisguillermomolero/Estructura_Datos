@@ -1,0 +1,14 @@
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\6_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio6.csproj.AssemblyReference.cache
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\6_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\6_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio6.AssemblyInfoInputs.cache
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\6_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio6.AssemblyInfo.cs
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\6_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio6.csproj.CoreCompileInputs.cache
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\6_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio6.exe
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\6_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio6.deps.json
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\6_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio6.runtimeconfig.json
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\6_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio6.runtimeconfig.dev.json
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\6_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio6.dll
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\6_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio6.pdb
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\6_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio6.dll
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\6_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio6.pdb
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\6_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio6.genruntimeconfig.cache

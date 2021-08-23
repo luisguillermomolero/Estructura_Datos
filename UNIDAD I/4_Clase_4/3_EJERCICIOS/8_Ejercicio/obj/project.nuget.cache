@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yCpgBaYeYbZ5LFi2mqTtZYicIZMhFglJkGGeCJ8lEHH0Q6Q1BszTh5he6bbSdAHhbOiIpTN79dVCxtcrIxf9wQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luisg\\OneDrive\\Escritorio\\ALUMNO 1\\8_Ejercicio\\algoritmo7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luisg\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\luisg\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\luisg\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\luisg\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

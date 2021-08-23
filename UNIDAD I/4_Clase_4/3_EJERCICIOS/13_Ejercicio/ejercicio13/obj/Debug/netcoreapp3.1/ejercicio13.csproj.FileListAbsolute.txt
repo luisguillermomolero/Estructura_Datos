@@ -1,0 +1,69 @@
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicio13\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.exe
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicio13\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.deps.json
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicio13\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.runtimeconfig.json
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicio13\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.runtimeconfig.dev.json
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicio13\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.dll
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicio13\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.pdb
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicio13\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.csprojAssemblyReference.cache
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicio13\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.AssemblyInfoInputs.cache
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicio13\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.AssemblyInfo.cs
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicio13\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.csproj.CoreCompileInputs.cache
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicio13\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.dll
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicio13\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.pdb
+C:\Users\OscarAdrianPalaciosX\source\repos\ejercicio13\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.genruntimeconfig.cache
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1 - copia (2)\ejercicio13\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.exe
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1 - copia (2)\ejercicio13\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.deps.json
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1 - copia (2)\ejercicio13\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.runtimeconfig.json
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1 - copia (2)\ejercicio13\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.runtimeconfig.dev.json
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1 - copia (2)\ejercicio13\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.dll
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1 - copia (2)\ejercicio13\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.pdb
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1 - copia (2)\ejercicio13\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.csproj.AssemblyReference.cache
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1 - copia (2)\ejercicio13\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1 - copia (2)\ejercicio13\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.AssemblyInfoInputs.cache
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1 - copia (2)\ejercicio13\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.AssemblyInfo.cs
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1 - copia (2)\ejercicio13\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.csproj.CoreCompileInputs.cache
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1 - copia (2)\ejercicio13\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.dll
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1 - copia (2)\ejercicio13\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.pdb
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1 - copia (2)\ejercicio13\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.genruntimeconfig.cache
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\ejercicio13\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.exe
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\ejercicio13\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.deps.json
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\ejercicio13\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.runtimeconfig.json
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\ejercicio13\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.runtimeconfig.dev.json
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\ejercicio13\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.dll
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\ejercicio13\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.pdb
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\ejercicio13\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.csproj.AssemblyReference.cache
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\ejercicio13\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\ejercicio13\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.AssemblyInfoInputs.cache
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\ejercicio13\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.AssemblyInfo.cs
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\ejercicio13\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.csproj.CoreCompileInputs.cache
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\ejercicio13\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.dll
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\ejercicio13\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.pdb
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\ejercicio13\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.genruntimeconfig.cache
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\13_Ejercicio\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.exe
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\13_Ejercicio\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.deps.json
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\13_Ejercicio\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.runtimeconfig.json
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\13_Ejercicio\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.runtimeconfig.dev.json
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\13_Ejercicio\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.dll
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\13_Ejercicio\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.pdb
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\13_Ejercicio\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.csproj.AssemblyReference.cache
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\13_Ejercicio\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\13_Ejercicio\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.AssemblyInfoInputs.cache
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\13_Ejercicio\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.AssemblyInfo.cs
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\13_Ejercicio\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.csproj.CoreCompileInputs.cache
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\13_Ejercicio\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.dll
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\13_Ejercicio\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.pdb
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\13_Ejercicio\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.genruntimeconfig.cache
+D:\OneDrive - Ucompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\13_Ejercicio\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.exe
+D:\OneDrive - Ucompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\13_Ejercicio\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.deps.json
+D:\OneDrive - Ucompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\13_Ejercicio\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.runtimeconfig.json
+D:\OneDrive - Ucompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\13_Ejercicio\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.runtimeconfig.dev.json
+D:\OneDrive - Ucompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\13_Ejercicio\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.dll
+D:\OneDrive - Ucompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\13_Ejercicio\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.pdb
+D:\OneDrive - Ucompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\13_Ejercicio\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.csproj.AssemblyReference.cache
+D:\OneDrive - Ucompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\13_Ejercicio\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Ucompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\13_Ejercicio\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.AssemblyInfoInputs.cache
+D:\OneDrive - Ucompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\13_Ejercicio\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.AssemblyInfo.cs
+D:\OneDrive - Ucompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\13_Ejercicio\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.csproj.CoreCompileInputs.cache
+D:\OneDrive - Ucompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\13_Ejercicio\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.dll
+D:\OneDrive - Ucompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\13_Ejercicio\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.pdb
+D:\OneDrive - Ucompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\13_Ejercicio\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.genruntimeconfig.cache
