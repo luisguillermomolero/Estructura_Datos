@@ -2,12 +2,11 @@
 
 namespace AplicacionBase
 {
-
-    /* Realizar un programa que permita ingresar los nombres de 5 operarios y sus salarios respectivos. 
-     * Mostrar el sueldo mayor y el nombre del operario 
+    /* Programa que permite ingresar los nombres de 5 operarios y sus salarios respectivos. 
+     * Mostrar el sueldo mayor y el nombre del operario.
      */
 
-    class PruebaVector
+    class Operarios
     {
         //Declaramos un vector de tipo string para los nombres
         private string[] nombreOperario;
@@ -17,8 +16,8 @@ namespace AplicacionBase
 
         public void CargarVectores()
         {
-            nombreOperario = new string[5];
-            sueldoOperarios = new float[5];
+            nombreOperario = new string[2];
+            sueldoOperarios = new float[2];
 
             // Ciclo For para cargar el vector "nombreOperario" y "sueldoOperarios"
 
@@ -36,9 +35,9 @@ namespace AplicacionBase
         {
             float MayorSueldo = 0;
             int PosicionOperario = 0;
-            float MAYOR_SUELDO = sueldoOperarios[0];
+            float MAYOR_SUELDO = 10;
 
-            for (int f = 0; f < nombreOperario.Length; f++)
+            for (int f = 1; f < nombreOperario.Length; f++)
             {
                 if (sueldoOperarios[f] > MAYOR_SUELDO)
                 {
@@ -54,9 +53,9 @@ namespace AplicacionBase
 
         static void Main(string[] args)
         {
-            PruebaVector pv = new PruebaVector();
-            pv.CargarVectores();
-            pv.MayorSueldo();
+            Operarios operarios = new Operarios();
+            operarios.CargarVectores();
+            operarios.MayorSueldo();
         } 
     }
 }

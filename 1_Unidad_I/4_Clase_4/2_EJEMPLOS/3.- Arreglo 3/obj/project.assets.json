@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luisg\\OneDrive\\Escritorio\\4_Clase_4\\2.- EJEMPLOS\\3.- Arreglo 3\\3.- Ejemplo 3.csproj",
+      "projectUniqueName": "D:\\Estructura_Datos\\1_Unidad_I\\4_Clase_4\\2_EJEMPLOS\\3.- Arreglo 3\\3.- Ejemplo 3.csproj",
       "projectName": "3.- Ejemplo 3",
-      "projectPath": "C:\\Users\\luisg\\OneDrive\\Escritorio\\4_Clase_4\\2.- EJEMPLOS\\3.- Arreglo 3\\3.- Ejemplo 3.csproj",
+      "projectPath": "D:\\Estructura_Datos\\1_Unidad_I\\4_Clase_4\\2_EJEMPLOS\\3.- Arreglo 3\\3.- Ejemplo 3.csproj",
       "packagesPath": "C:\\Users\\luisg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luisg\\OneDrive\\Escritorio\\4_Clase_4\\2.- EJEMPLOS\\3.- Arreglo 3\\obj\\",
+      "outputPath": "D:\\Estructura_Datos\\1_Unidad_I\\4_Clase_4\\2_EJEMPLOS\\3.- Arreglo 3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luisg\\AppData\\Roaming\\NuGet\\NuGet.Config",
