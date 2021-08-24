@@ -38,3 +38,17 @@ C:\Users\luisg\OneDrive\Escritorio\4_Clase_4\2.- EJEMPLOS\4.- Arreglo 4\bin\Debu
 C:\Users\luisg\OneDrive\Escritorio\4_Clase_4\2.- EJEMPLOS\4.- Arreglo 4\bin\Debug\netcoreapp3.1\4.- Ejemplo 4.dll
 C:\Users\luisg\OneDrive\Escritorio\4_Clase_4\2.- EJEMPLOS\4.- Arreglo 4\bin\Debug\netcoreapp3.1\4.- Ejemplo 4.pdb
 C:\Users\luisg\OneDrive\Escritorio\4_Clase_4\2.- EJEMPLOS\4.- Arreglo 4\obj\Debug\netcoreapp3.1\4.- Ejemplo 4.genruntimeconfig.cache
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\2_EJEMPLOS\4.- Arreglo 4\bin\Debug\netcoreapp3.1\4.- Ejemplo 4.exe
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\2_EJEMPLOS\4.- Arreglo 4\bin\Debug\netcoreapp3.1\4.- Ejemplo 4.deps.json
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\2_EJEMPLOS\4.- Arreglo 4\bin\Debug\netcoreapp3.1\4.- Ejemplo 4.runtimeconfig.json
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\2_EJEMPLOS\4.- Arreglo 4\bin\Debug\netcoreapp3.1\4.- Ejemplo 4.runtimeconfig.dev.json
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\2_EJEMPLOS\4.- Arreglo 4\bin\Debug\netcoreapp3.1\4.- Ejemplo 4.dll
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\2_EJEMPLOS\4.- Arreglo 4\bin\Debug\netcoreapp3.1\4.- Ejemplo 4.pdb
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\2_EJEMPLOS\4.- Arreglo 4\obj\Debug\netcoreapp3.1\4.- Ejemplo 4.csproj.AssemblyReference.cache
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\2_EJEMPLOS\4.- Arreglo 4\obj\Debug\netcoreapp3.1\4.- Ejemplo 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\2_EJEMPLOS\4.- Arreglo 4\obj\Debug\netcoreapp3.1\4.- Ejemplo 4.AssemblyInfoInputs.cache
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\2_EJEMPLOS\4.- Arreglo 4\obj\Debug\netcoreapp3.1\4.- Ejemplo 4.AssemblyInfo.cs
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\2_EJEMPLOS\4.- Arreglo 4\obj\Debug\netcoreapp3.1\4.- Ejemplo 4.csproj.CoreCompileInputs.cache
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\2_EJEMPLOS\4.- Arreglo 4\obj\Debug\netcoreapp3.1\4.- Ejemplo 4.dll
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\2_EJEMPLOS\4.- Arreglo 4\obj\Debug\netcoreapp3.1\4.- Ejemplo 4.pdb
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\2_EJEMPLOS\4.- Arreglo 4\obj\Debug\netcoreapp3.1\4.- Ejemplo 4.genruntimeconfig.cache

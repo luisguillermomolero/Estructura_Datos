@@ -1,27 +1,25 @@
 ﻿using System;
 
-namespace PruebaVector
+namespace AplicacionBase
 {
-    // Realizar un programa que sume dos vectores y los almacene en un tercer vector 
-    class PruebaVector
+    // Realizar un programa que Reste dos vectores y los almacene en un tercer vector 
+    class AlmacenarRestaVectores
     {
-        // Declaracion de vectores
+        // Declaramos los vectores "A", "B" y "C"
 
         private int[] VectorA;
         private int[] VectorB;
         private int[] VectorC;
         int longitudVectores;
 
+
         public void CargarVectores()
         {
-        
-            Console.Write("Ingrese la longitud de los 2 vectores a sumar: ");
+            Console.Write("Ingrese la longitud de los dos vectores a restar: ");
             longitudVectores = int.Parse(System.Console.ReadLine());
             VectorA = new int[longitudVectores];
             VectorB = new int[longitudVectores];
             VectorC = new int[longitudVectores];
-
-            // Cargar los vectores
 
             for (int i = 0; i < VectorA.Length; i++)
             {
@@ -32,25 +30,26 @@ namespace PruebaVector
                 VectorB[i] = int.Parse(System.Console.ReadLine());
 
                 // Cargar el VectorC
-                VectorC[i] = VectorA[i] + VectorB[i];
+                VectorC[i] = VectorA[i] - VectorB[i];
             }
         }
 
         public void VisualizarVectorC()
         {
-            Console.WriteLine("\nLa suma de los vectores A y B es: ");
+            Console.WriteLine("\nLa resta de los vectores A y B es: ");
+            
             for (int i = 0; i < VectorA.Length; i++)
             {
-                Console.WriteLine($"El valor de la posición {i+1} es {VectorC[i]}");
+                Console.WriteLine($"El valor de la posición {i+1} del Vector C es {VectorC[i]}");
             }
             Console.ReadLine();
         }
 
         static void Main(string[] args)
         {
-            PruebaVector pv = new PruebaVector();
-            pv.CargarVectores();
-            pv.VisualizarVectorC();
+            AlmacenarRestaVectores almacenarRestaVectores = new AlmacenarRestaVectores();
+            almacenarRestaVectores.CargarVectores();
+            almacenarRestaVectores.VisualizarVectorC();
         }
     }
 }
