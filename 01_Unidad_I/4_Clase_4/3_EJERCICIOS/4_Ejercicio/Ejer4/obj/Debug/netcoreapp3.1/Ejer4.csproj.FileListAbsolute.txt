@@ -1,0 +1,70 @@
+C:\Users\luisg\OneDrive\Escritorio\4_Clase_4\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1 - copia (2)\Ejer4\Ejer4\bin\Debug\netcoreapp3.1\Ejer4.exe
+C:\Users\luisg\OneDrive\Escritorio\4_Clase_4\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1 - copia (2)\Ejer4\Ejer4\bin\Debug\netcoreapp3.1\Ejer4.deps.json
+C:\Users\luisg\OneDrive\Escritorio\4_Clase_4\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1 - copia (2)\Ejer4\Ejer4\bin\Debug\netcoreapp3.1\Ejer4.runtimeconfig.json
+C:\Users\luisg\OneDrive\Escritorio\4_Clase_4\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1 - copia (2)\Ejer4\Ejer4\bin\Debug\netcoreapp3.1\Ejer4.runtimeconfig.dev.json
+C:\Users\luisg\OneDrive\Escritorio\4_Clase_4\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1 - copia (2)\Ejer4\Ejer4\bin\Debug\netcoreapp3.1\Ejer4.dll
+C:\Users\luisg\OneDrive\Escritorio\4_Clase_4\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1 - copia (2)\Ejer4\Ejer4\bin\Debug\netcoreapp3.1\Ejer4.pdb
+C:\Users\luisg\OneDrive\Escritorio\4_Clase_4\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1 - copia (2)\Ejer4\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.csproj.AssemblyReference.cache
+C:\Users\luisg\OneDrive\Escritorio\4_Clase_4\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1 - copia (2)\Ejer4\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisg\OneDrive\Escritorio\4_Clase_4\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1 - copia (2)\Ejer4\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.AssemblyInfoInputs.cache
+C:\Users\luisg\OneDrive\Escritorio\4_Clase_4\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1 - copia (2)\Ejer4\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.AssemblyInfo.cs
+C:\Users\luisg\OneDrive\Escritorio\4_Clase_4\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1 - copia (2)\Ejer4\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.csproj.CoreCompileInputs.cache
+C:\Users\luisg\OneDrive\Escritorio\4_Clase_4\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1 - copia (2)\Ejer4\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.dll
+C:\Users\luisg\OneDrive\Escritorio\4_Clase_4\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1 - copia (2)\Ejer4\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.pdb
+C:\Users\luisg\OneDrive\Escritorio\4_Clase_4\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1 - copia (2)\Ejer4\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.genruntimeconfig.cache
+C:\Users\luisg\OneDrive\Escritorio\4_Clase_4\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\4_Ejercicio\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.csproj.AssemblyReference.cache
+C:\Users\luisg\OneDrive\Escritorio\4_Clase_4\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\4_Ejercicio\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisg\OneDrive\Escritorio\4_Clase_4\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\4_Ejercicio\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.AssemblyInfoInputs.cache
+C:\Users\luisg\OneDrive\Escritorio\4_Clase_4\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\4_Ejercicio\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.AssemblyInfo.cs
+C:\Users\luisg\OneDrive\Escritorio\4_Clase_4\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\4_Ejercicio\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.csproj.CoreCompileInputs.cache
+C:\Users\luisg\OneDrive\Escritorio\4_Clase_4\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\4_Ejercicio\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.dll
+C:\Users\luisg\OneDrive\Escritorio\4_Clase_4\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\4_Ejercicio\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.pdb
+C:\Users\luisg\OneDrive\Escritorio\4_Clase_4\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\4_Ejercicio\Ejer4\bin\Debug\netcoreapp3.1\Ejer4.exe
+C:\Users\luisg\OneDrive\Escritorio\4_Clase_4\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\4_Ejercicio\Ejer4\bin\Debug\netcoreapp3.1\Ejer4.deps.json
+C:\Users\luisg\OneDrive\Escritorio\4_Clase_4\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\4_Ejercicio\Ejer4\bin\Debug\netcoreapp3.1\Ejer4.runtimeconfig.json
+C:\Users\luisg\OneDrive\Escritorio\4_Clase_4\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\4_Ejercicio\Ejer4\bin\Debug\netcoreapp3.1\Ejer4.runtimeconfig.dev.json
+C:\Users\luisg\OneDrive\Escritorio\4_Clase_4\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\4_Ejercicio\Ejer4\bin\Debug\netcoreapp3.1\Ejer4.dll
+C:\Users\luisg\OneDrive\Escritorio\4_Clase_4\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\4_Ejercicio\Ejer4\bin\Debug\netcoreapp3.1\Ejer4.pdb
+C:\Users\luisg\OneDrive\Escritorio\4_Clase_4\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\4_Ejercicio\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.genruntimeconfig.cache
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\4_Ejercicio\Ejer4\bin\Debug\netcoreapp3.1\Ejer4.exe
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\4_Ejercicio\Ejer4\bin\Debug\netcoreapp3.1\Ejer4.deps.json
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\4_Ejercicio\Ejer4\bin\Debug\netcoreapp3.1\Ejer4.runtimeconfig.json
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\4_Ejercicio\Ejer4\bin\Debug\netcoreapp3.1\Ejer4.runtimeconfig.dev.json
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\4_Ejercicio\Ejer4\bin\Debug\netcoreapp3.1\Ejer4.dll
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\4_Ejercicio\Ejer4\bin\Debug\netcoreapp3.1\Ejer4.pdb
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\4_Ejercicio\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.csproj.AssemblyReference.cache
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\4_Ejercicio\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\4_Ejercicio\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.AssemblyInfoInputs.cache
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\4_Ejercicio\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.AssemblyInfo.cs
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\4_Ejercicio\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.csproj.CoreCompileInputs.cache
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\4_Ejercicio\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.dll
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\4_Ejercicio\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.pdb
+E:\OneDrive - UCompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\4_Ejercicio\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.genruntimeconfig.cache
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\4_Ejercicio\Ejer4\bin\Debug\netcoreapp3.1\Ejer4.exe
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\4_Ejercicio\Ejer4\bin\Debug\netcoreapp3.1\Ejer4.deps.json
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\4_Ejercicio\Ejer4\bin\Debug\netcoreapp3.1\Ejer4.runtimeconfig.json
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\4_Ejercicio\Ejer4\bin\Debug\netcoreapp3.1\Ejer4.runtimeconfig.dev.json
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\4_Ejercicio\Ejer4\bin\Debug\netcoreapp3.1\Ejer4.dll
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\4_Ejercicio\Ejer4\bin\Debug\netcoreapp3.1\Ejer4.pdb
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\4_Ejercicio\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.csproj.AssemblyReference.cache
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\4_Ejercicio\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\4_Ejercicio\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.AssemblyInfoInputs.cache
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\4_Ejercicio\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.AssemblyInfo.cs
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\4_Ejercicio\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.csproj.CoreCompileInputs.cache
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\4_Ejercicio\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.dll
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\4_Ejercicio\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.pdb
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\4_Ejercicio\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.genruntimeconfig.cache
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\3_EJERCICIOS\4_Ejercicio\Ejer4\bin\Debug\netcoreapp3.1\Ejer4.exe
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\3_EJERCICIOS\4_Ejercicio\Ejer4\bin\Debug\netcoreapp3.1\Ejer4.deps.json
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\3_EJERCICIOS\4_Ejercicio\Ejer4\bin\Debug\netcoreapp3.1\Ejer4.runtimeconfig.json
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\3_EJERCICIOS\4_Ejercicio\Ejer4\bin\Debug\netcoreapp3.1\Ejer4.runtimeconfig.dev.json
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\3_EJERCICIOS\4_Ejercicio\Ejer4\bin\Debug\netcoreapp3.1\Ejer4.dll
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\3_EJERCICIOS\4_Ejercicio\Ejer4\bin\Debug\netcoreapp3.1\Ejer4.pdb
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\3_EJERCICIOS\4_Ejercicio\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.csproj.AssemblyReference.cache
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\3_EJERCICIOS\4_Ejercicio\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\3_EJERCICIOS\4_Ejercicio\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.AssemblyInfoInputs.cache
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\3_EJERCICIOS\4_Ejercicio\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.AssemblyInfo.cs
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\3_EJERCICIOS\4_Ejercicio\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.csproj.CoreCompileInputs.cache
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\3_EJERCICIOS\4_Ejercicio\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.dll
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\3_EJERCICIOS\4_Ejercicio\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.pdb
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\3_EJERCICIOS\4_Ejercicio\Ejer4\obj\Debug\netcoreapp3.1\Ejer4.genruntimeconfig.cache

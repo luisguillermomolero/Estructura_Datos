@@ -1,0 +1,28 @@
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\6_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio6.csproj.AssemblyReference.cache
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\6_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\6_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio6.AssemblyInfoInputs.cache
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\6_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio6.AssemblyInfo.cs
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\6_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio6.csproj.CoreCompileInputs.cache
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\6_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio6.exe
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\6_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio6.deps.json
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\6_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio6.runtimeconfig.json
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\6_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio6.runtimeconfig.dev.json
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\6_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio6.dll
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\6_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio6.pdb
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\6_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio6.dll
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\6_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio6.pdb
+C:\Users\luisg\OneDrive\Escritorio\ALUMNO 1\6_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio6.genruntimeconfig.cache
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\3_EJERCICIOS\6_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio6.exe
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\3_EJERCICIOS\6_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio6.deps.json
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\3_EJERCICIOS\6_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio6.runtimeconfig.json
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\3_EJERCICIOS\6_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio6.runtimeconfig.dev.json
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\3_EJERCICIOS\6_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio6.dll
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\3_EJERCICIOS\6_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio6.pdb
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\3_EJERCICIOS\6_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio6.csproj.AssemblyReference.cache
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\3_EJERCICIOS\6_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\3_EJERCICIOS\6_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio6.AssemblyInfoInputs.cache
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\3_EJERCICIOS\6_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio6.AssemblyInfo.cs
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\3_EJERCICIOS\6_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio6.csproj.CoreCompileInputs.cache
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\3_EJERCICIOS\6_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio6.dll
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\3_EJERCICIOS\6_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio6.pdb
+D:\Estructura_Datos\1_Unidad_I\4_Clase_4\3_EJERCICIOS\6_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio6.genruntimeconfig.cache

@@ -1,0 +1,27 @@
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD II\1.- CLASE 1\2.- EJEMPLOS\3.- Matrices3\bin\Debug\netcoreapp3.1\3.- Matrices3.exe
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD II\1.- CLASE 1\2.- EJEMPLOS\3.- Matrices3\bin\Debug\netcoreapp3.1\3.- Matrices3.deps.json
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD II\1.- CLASE 1\2.- EJEMPLOS\3.- Matrices3\bin\Debug\netcoreapp3.1\3.- Matrices3.runtimeconfig.json
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD II\1.- CLASE 1\2.- EJEMPLOS\3.- Matrices3\bin\Debug\netcoreapp3.1\3.- Matrices3.runtimeconfig.dev.json
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD II\1.- CLASE 1\2.- EJEMPLOS\3.- Matrices3\bin\Debug\netcoreapp3.1\3.- Matrices3.dll
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD II\1.- CLASE 1\2.- EJEMPLOS\3.- Matrices3\bin\Debug\netcoreapp3.1\3.- Matrices3.pdb
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD II\1.- CLASE 1\2.- EJEMPLOS\3.- Matrices3\obj\Debug\netcoreapp3.1\3.- Matrices3.csprojAssemblyReference.cache
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD II\1.- CLASE 1\2.- EJEMPLOS\3.- Matrices3\obj\Debug\netcoreapp3.1\3.- Matrices3.AssemblyInfoInputs.cache
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD II\1.- CLASE 1\2.- EJEMPLOS\3.- Matrices3\obj\Debug\netcoreapp3.1\3.- Matrices3.AssemblyInfo.cs
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD II\1.- CLASE 1\2.- EJEMPLOS\3.- Matrices3\obj\Debug\netcoreapp3.1\3.- Matrices3.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD II\1.- CLASE 1\2.- EJEMPLOS\3.- Matrices3\obj\Debug\netcoreapp3.1\3.- Matrices3.dll
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD II\1.- CLASE 1\2.- EJEMPLOS\3.- Matrices3\obj\Debug\netcoreapp3.1\3.- Matrices3.pdb
+C:\Users\DELL\Google Drive\OneDrive\Documents\UNIPANAMERICANA\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD II\1.- CLASE 1\2.- EJEMPLOS\3.- Matrices3\obj\Debug\netcoreapp3.1\3.- Matrices3.genruntimeconfig.cache
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\2.- EJEMPLOS\3.- Matrices3\bin\Debug\netcoreapp3.1\3.- Matrices3.exe
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\2.- EJEMPLOS\3.- Matrices3\bin\Debug\netcoreapp3.1\3.- Matrices3.deps.json
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\2.- EJEMPLOS\3.- Matrices3\bin\Debug\netcoreapp3.1\3.- Matrices3.runtimeconfig.json
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\2.- EJEMPLOS\3.- Matrices3\bin\Debug\netcoreapp3.1\3.- Matrices3.runtimeconfig.dev.json
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\2.- EJEMPLOS\3.- Matrices3\bin\Debug\netcoreapp3.1\3.- Matrices3.dll
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\2.- EJEMPLOS\3.- Matrices3\bin\Debug\netcoreapp3.1\3.- Matrices3.pdb
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\2.- EJEMPLOS\3.- Matrices3\obj\Debug\netcoreapp3.1\3.- Matrices3.csproj.AssemblyReference.cache
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\2.- EJEMPLOS\3.- Matrices3\obj\Debug\netcoreapp3.1\3.- Matrices3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\2.- EJEMPLOS\3.- Matrices3\obj\Debug\netcoreapp3.1\3.- Matrices3.AssemblyInfoInputs.cache
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\2.- EJEMPLOS\3.- Matrices3\obj\Debug\netcoreapp3.1\3.- Matrices3.AssemblyInfo.cs
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\2.- EJEMPLOS\3.- Matrices3\obj\Debug\netcoreapp3.1\3.- Matrices3.csproj.CoreCompileInputs.cache
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\2.- EJEMPLOS\3.- Matrices3\obj\Debug\netcoreapp3.1\3.- Matrices3.dll
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\2.- EJEMPLOS\3.- Matrices3\obj\Debug\netcoreapp3.1\3.- Matrices3.pdb
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\2.- EJEMPLOS\3.- Matrices3\obj\Debug\netcoreapp3.1\3.- Matrices3.genruntimeconfig.cache
