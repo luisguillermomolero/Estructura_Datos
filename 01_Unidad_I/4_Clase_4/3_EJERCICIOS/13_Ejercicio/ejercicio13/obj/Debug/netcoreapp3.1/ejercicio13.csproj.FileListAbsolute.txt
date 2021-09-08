@@ -67,3 +67,17 @@ D:\OneDrive - Ucompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCIC
 D:\OneDrive - Ucompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\13_Ejercicio\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.dll
 D:\OneDrive - Ucompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\13_Ejercicio\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.pdb
 D:\OneDrive - Ucompensar\DOCENCIA\SEMESTRE_2021_2\4_Clase_4_TERMINAR\3.- EJERCICIOS\EJERCICIOS RESUELTOS - REVISAR CUALES ESTAN BUENOS\ALUMNO 1\13_Ejercicio\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.genruntimeconfig.cache
+D:\Estructura_Datos\01_Unidad_I\4_Clase_4\3_EJERCICIOS\13_Ejercicio\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.exe
+D:\Estructura_Datos\01_Unidad_I\4_Clase_4\3_EJERCICIOS\13_Ejercicio\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.deps.json
+D:\Estructura_Datos\01_Unidad_I\4_Clase_4\3_EJERCICIOS\13_Ejercicio\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.runtimeconfig.json
+D:\Estructura_Datos\01_Unidad_I\4_Clase_4\3_EJERCICIOS\13_Ejercicio\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.runtimeconfig.dev.json
+D:\Estructura_Datos\01_Unidad_I\4_Clase_4\3_EJERCICIOS\13_Ejercicio\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.dll
+D:\Estructura_Datos\01_Unidad_I\4_Clase_4\3_EJERCICIOS\13_Ejercicio\ejercicio13\bin\Debug\netcoreapp3.1\ejercicio13.pdb
+D:\Estructura_Datos\01_Unidad_I\4_Clase_4\3_EJERCICIOS\13_Ejercicio\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.csproj.AssemblyReference.cache
+D:\Estructura_Datos\01_Unidad_I\4_Clase_4\3_EJERCICIOS\13_Ejercicio\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estructura_Datos\01_Unidad_I\4_Clase_4\3_EJERCICIOS\13_Ejercicio\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.AssemblyInfoInputs.cache
+D:\Estructura_Datos\01_Unidad_I\4_Clase_4\3_EJERCICIOS\13_Ejercicio\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.AssemblyInfo.cs
+D:\Estructura_Datos\01_Unidad_I\4_Clase_4\3_EJERCICIOS\13_Ejercicio\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.csproj.CoreCompileInputs.cache
+D:\Estructura_Datos\01_Unidad_I\4_Clase_4\3_EJERCICIOS\13_Ejercicio\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.dll
+D:\Estructura_Datos\01_Unidad_I\4_Clase_4\3_EJERCICIOS\13_Ejercicio\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.pdb
+D:\Estructura_Datos\01_Unidad_I\4_Clase_4\3_EJERCICIOS\13_Ejercicio\ejercicio13\obj\Debug\netcoreapp3.1\ejercicio13.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Estructura_Datos\\1_Unidad_I\\4_Clase_4\\3_EJERCICIOS\\11_Ejercicio\\ejercicio11.csproj": {}
+    "D:\\Estructura_Datos\\01_Unidad_I\\4_Clase_4\\3_EJERCICIOS\\11_Ejercicio\\ejercicio11.csproj": {}
   },
   "projects": {
-    "D:\\Estructura_Datos\\1_Unidad_I\\4_Clase_4\\3_EJERCICIOS\\11_Ejercicio\\ejercicio11.csproj": {
+    "D:\\Estructura_Datos\\01_Unidad_I\\4_Clase_4\\3_EJERCICIOS\\11_Ejercicio\\ejercicio11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estructura_Datos\\1_Unidad_I\\4_Clase_4\\3_EJERCICIOS\\11_Ejercicio\\ejercicio11.csproj",
+        "projectUniqueName": "D:\\Estructura_Datos\\01_Unidad_I\\4_Clase_4\\3_EJERCICIOS\\11_Ejercicio\\ejercicio11.csproj",
         "projectName": "ejercicio11",
-        "projectPath": "D:\\Estructura_Datos\\1_Unidad_I\\4_Clase_4\\3_EJERCICIOS\\11_Ejercicio\\ejercicio11.csproj",
+        "projectPath": "D:\\Estructura_Datos\\01_Unidad_I\\4_Clase_4\\3_EJERCICIOS\\11_Ejercicio\\ejercicio11.csproj",
         "packagesPath": "C:\\Users\\luisg\\.nuget\\packages\\",
-        "outputPath": "D:\\Estructura_Datos\\1_Unidad_I\\4_Clase_4\\3_EJERCICIOS\\11_Ejercicio\\obj\\",
+        "outputPath": "D:\\Estructura_Datos\\01_Unidad_I\\4_Clase_4\\3_EJERCICIOS\\11_Ejercicio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luisg\\AppData\\Roaming\\NuGet\\NuGet.Config",

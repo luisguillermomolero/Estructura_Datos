@@ -15,18 +15,17 @@ namespace aplicacionBase
             int [] VectorB = new int[longitudVectores];
             int [] VectorC= new int[longitudVectores];
             
-            //rellenar aleatoriamente y mostrar el vector A
+            //Cargar los vectores con números aleatorios
             Random numeroAleatorio = new Random();
 
             for (int i = 0; i < longitudVectores; i++)
             {
-                VectorA[i] = numeroAleatorio.Next(1, 10);
+                VectorA[i] = numeroAleatorio.Next(1, 100);
                 Console.WriteLine($" -> El valor de la posición {i + 1} del Vector A es {VectorA[i]}");
-                VectorB[i] = numeroAleatorio.Next(1, 10);
+                VectorB[i] = numeroAleatorio.Next(1, 200);
                 Console.WriteLine($" -> El valor de la posición {i + 1} del Vector B es {VectorB[i]}");
-
             }
-            //swhitch y menu de opciones
+            // Menú de opciones
             int Opcion;
 
             Console.WriteLine("\n<--Los Vectores A y B fueron llenados aleatoriamente.-->\n");
@@ -57,14 +56,8 @@ namespace aplicacionBase
                 default:
                     Console.WriteLine("\nOpción erronea");
                     break;
-
-
-
-
             }
-                
         }
-
     }
 }
 

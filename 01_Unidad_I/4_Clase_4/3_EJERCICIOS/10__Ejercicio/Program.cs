@@ -14,14 +14,13 @@ namespace AplicacionBase
 			do
 			{
 				Console.Write("Digite la longitud de un vector de tamaño impar: ");
-				longitudVector = int.Parse(Console.ReadLine());
+				longitudVector = int.Parse(System.Console.ReadLine());
 			} 
 			while (longitudVector % 2 != 1);
 
 			int[] vectorNumerosAleatorios = new int[longitudVector];
 
-			for (int i = 0; i < longitudVector; i++)
-			{
+			for (int i = 0; i < longitudVector; i++){
 				vectorNumerosAleatorios[i] = numeroAleatorio.Next (0,20);
 				Console.Write($"| {vectorNumerosAleatorios[i]} |");
 			}

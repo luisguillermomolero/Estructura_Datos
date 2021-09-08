@@ -1,0 +1,41 @@
+C:\Users\junan\source\repos\Matriz1\Matriz1\bin\Debug\netcoreapp3.1\Matriz1.exe
+C:\Users\junan\source\repos\Matriz1\Matriz1\bin\Debug\netcoreapp3.1\Matriz1.deps.json
+C:\Users\junan\source\repos\Matriz1\Matriz1\bin\Debug\netcoreapp3.1\Matriz1.runtimeconfig.json
+C:\Users\junan\source\repos\Matriz1\Matriz1\bin\Debug\netcoreapp3.1\Matriz1.runtimeconfig.dev.json
+C:\Users\junan\source\repos\Matriz1\Matriz1\bin\Debug\netcoreapp3.1\Matriz1.dll
+C:\Users\junan\source\repos\Matriz1\Matriz1\bin\Debug\netcoreapp3.1\Matriz1.pdb
+C:\Users\junan\source\repos\Matriz1\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.csprojAssemblyReference.cache
+C:\Users\junan\source\repos\Matriz1\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.AssemblyInfoInputs.cache
+C:\Users\junan\source\repos\Matriz1\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.AssemblyInfo.cs
+C:\Users\junan\source\repos\Matriz1\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.csproj.CoreCompileInputs.cache
+C:\Users\junan\source\repos\Matriz1\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.dll
+C:\Users\junan\source\repos\Matriz1\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.pdb
+C:\Users\junan\source\repos\Matriz1\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.genruntimeconfig.cache
+C:\Users\luisg\OneDrive\Escritorio\SEGUNDO CORTE ESTRUCTURA\1.-_CLASE_1\3.- EJERCICIOS\Clase5 Oscar\Ejercicio1\Matriz1\bin\Debug\netcoreapp3.1\Matriz1.exe
+C:\Users\luisg\OneDrive\Escritorio\SEGUNDO CORTE ESTRUCTURA\1.-_CLASE_1\3.- EJERCICIOS\Clase5 Oscar\Ejercicio1\Matriz1\bin\Debug\netcoreapp3.1\Matriz1.deps.json
+C:\Users\luisg\OneDrive\Escritorio\SEGUNDO CORTE ESTRUCTURA\1.-_CLASE_1\3.- EJERCICIOS\Clase5 Oscar\Ejercicio1\Matriz1\bin\Debug\netcoreapp3.1\Matriz1.runtimeconfig.json
+C:\Users\luisg\OneDrive\Escritorio\SEGUNDO CORTE ESTRUCTURA\1.-_CLASE_1\3.- EJERCICIOS\Clase5 Oscar\Ejercicio1\Matriz1\bin\Debug\netcoreapp3.1\Matriz1.runtimeconfig.dev.json
+C:\Users\luisg\OneDrive\Escritorio\SEGUNDO CORTE ESTRUCTURA\1.-_CLASE_1\3.- EJERCICIOS\Clase5 Oscar\Ejercicio1\Matriz1\bin\Debug\netcoreapp3.1\Matriz1.dll
+C:\Users\luisg\OneDrive\Escritorio\SEGUNDO CORTE ESTRUCTURA\1.-_CLASE_1\3.- EJERCICIOS\Clase5 Oscar\Ejercicio1\Matriz1\bin\Debug\netcoreapp3.1\Matriz1.pdb
+C:\Users\luisg\OneDrive\Escritorio\SEGUNDO CORTE ESTRUCTURA\1.-_CLASE_1\3.- EJERCICIOS\Clase5 Oscar\Ejercicio1\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.csproj.AssemblyReference.cache
+C:\Users\luisg\OneDrive\Escritorio\SEGUNDO CORTE ESTRUCTURA\1.-_CLASE_1\3.- EJERCICIOS\Clase5 Oscar\Ejercicio1\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisg\OneDrive\Escritorio\SEGUNDO CORTE ESTRUCTURA\1.-_CLASE_1\3.- EJERCICIOS\Clase5 Oscar\Ejercicio1\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.AssemblyInfoInputs.cache
+C:\Users\luisg\OneDrive\Escritorio\SEGUNDO CORTE ESTRUCTURA\1.-_CLASE_1\3.- EJERCICIOS\Clase5 Oscar\Ejercicio1\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.AssemblyInfo.cs
+C:\Users\luisg\OneDrive\Escritorio\SEGUNDO CORTE ESTRUCTURA\1.-_CLASE_1\3.- EJERCICIOS\Clase5 Oscar\Ejercicio1\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.csproj.CoreCompileInputs.cache
+C:\Users\luisg\OneDrive\Escritorio\SEGUNDO CORTE ESTRUCTURA\1.-_CLASE_1\3.- EJERCICIOS\Clase5 Oscar\Ejercicio1\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.dll
+C:\Users\luisg\OneDrive\Escritorio\SEGUNDO CORTE ESTRUCTURA\1.-_CLASE_1\3.- EJERCICIOS\Clase5 Oscar\Ejercicio1\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.pdb
+C:\Users\luisg\OneDrive\Escritorio\SEGUNDO CORTE ESTRUCTURA\1.-_CLASE_1\3.- EJERCICIOS\Clase5 Oscar\Ejercicio1\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.genruntimeconfig.cache
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\01_Ejercicio\Matriz1\bin\Debug\netcoreapp3.1\Matriz1.exe
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\01_Ejercicio\Matriz1\bin\Debug\netcoreapp3.1\Matriz1.deps.json
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\01_Ejercicio\Matriz1\bin\Debug\netcoreapp3.1\Matriz1.runtimeconfig.json
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\01_Ejercicio\Matriz1\bin\Debug\netcoreapp3.1\Matriz1.runtimeconfig.dev.json
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\01_Ejercicio\Matriz1\bin\Debug\netcoreapp3.1\Matriz1.dll
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\01_Ejercicio\Matriz1\bin\Debug\netcoreapp3.1\Matriz1.pdb
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\01_Ejercicio\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.csproj.AssemblyReference.cache
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\01_Ejercicio\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\01_Ejercicio\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.AssemblyInfoInputs.cache
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\01_Ejercicio\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.AssemblyInfo.cs
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\01_Ejercicio\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.csproj.CoreCompileInputs.cache
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\01_Ejercicio\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.dll
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\01_Ejercicio\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.pdb
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\01_Ejercicio\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.genruntimeconfig.cache

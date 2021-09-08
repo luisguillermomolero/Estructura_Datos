@@ -1,0 +1,26 @@
+C:\Estructura de datos\Clase 5\ejercicio 10\bin\Debug\netcoreapp3.1\ejercicio 10.exe
+C:\Estructura de datos\Clase 5\ejercicio 10\bin\Debug\netcoreapp3.1\ejercicio 10.deps.json
+C:\Estructura de datos\Clase 5\ejercicio 10\bin\Debug\netcoreapp3.1\ejercicio 10.runtimeconfig.json
+C:\Estructura de datos\Clase 5\ejercicio 10\bin\Debug\netcoreapp3.1\ejercicio 10.runtimeconfig.dev.json
+C:\Estructura de datos\Clase 5\ejercicio 10\bin\Debug\netcoreapp3.1\ejercicio 10.dll
+C:\Estructura de datos\Clase 5\ejercicio 10\bin\Debug\netcoreapp3.1\ejercicio 10.pdb
+C:\Estructura de datos\Clase 5\ejercicio 10\obj\Debug\netcoreapp3.1\ejercicio 10.AssemblyInfoInputs.cache
+C:\Estructura de datos\Clase 5\ejercicio 10\obj\Debug\netcoreapp3.1\ejercicio 10.AssemblyInfo.cs
+C:\Estructura de datos\Clase 5\ejercicio 10\obj\Debug\netcoreapp3.1\ejercicio 10.csproj.CoreCompileInputs.cache
+C:\Estructura de datos\Clase 5\ejercicio 10\obj\Debug\netcoreapp3.1\ejercicio 10.dll
+C:\Estructura de datos\Clase 5\ejercicio 10\obj\Debug\netcoreapp3.1\ejercicio 10.pdb
+C:\Estructura de datos\Clase 5\ejercicio 10\obj\Debug\netcoreapp3.1\ejercicio 10.genruntimeconfig.cache
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\10_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio 10.csproj.AssemblyReference.cache
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\10_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio 10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\10_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio 10.AssemblyInfoInputs.cache
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\10_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio 10.AssemblyInfo.cs
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\10_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio 10.csproj.CoreCompileInputs.cache
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\10_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio 10.dll
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\10_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio 10.pdb
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\10_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio 10.exe
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\10_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio 10.deps.json
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\10_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio 10.runtimeconfig.json
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\10_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio 10.runtimeconfig.dev.json
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\10_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio 10.dll
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\10_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio 10.pdb
+D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\10_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio 10.genruntimeconfig.cache
