@@ -2,7 +2,7 @@
 
 namespace AplicacionBase
 {
-    /* Programa que permite ingresar el sueldo de 5 emplados en un trimestre, luego totalizar los sueldos de los empleados  y decir cual de los 5 gano mas en el trimestre */
+    /* Programa que permite ingresar el sueldo de 5 empleados en un trimestre, luego totalizar los sueldos de los empleados  y decir cual de los 5 gano durante el trimestre */
 
     class MatrizEmpleados
     {

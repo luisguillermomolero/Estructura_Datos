@@ -3,6 +3,7 @@
 namespace AplicacionBase
 {
     // Programa que permite llenar una matriz de "n" * "m", muestra la matriz completa y luego la última fila
+    
     class OperarMatriz
     {
         /* Para definir una matriz debemos disponer una coma dentro de los corchetes, de esta forma 
@@ -61,10 +62,10 @@ namespace AplicacionBase
 
         static void Main(string[] args)
         {
-            OperarMatriz OperarMatriz = new OperarMatriz();
-            OperarMatriz.CargarMatriz();
-            OperarMatriz.ImprimirMatriz();
-            OperarMatriz.ImprimirUltimaFila();
+            OperarMatriz operarMatriz = new OperarMatriz();
+            operarMatriz.CargarMatriz();
+            operarMatriz.ImprimirMatriz();
+            operarMatriz.ImprimirUltimaFila();
         }
     }
 }
