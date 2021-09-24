@@ -1,6 +1,6 @@
 ﻿using System;
 
-//Escribir un programa que copie todos los elementos de una tabla en otra tabla.
+//Escribir un programa que copie todos los elementos de una matriz en otra matriz.
 
 namespace AplicacionBase
 {
@@ -48,7 +48,7 @@ namespace AplicacionBase
 
                 for (int f = 0; f < MatrizB.GetLength(0); f++){
                     for (int c = 0; c < MatrizB.GetLength(1); c++){
-                        MatrizB[f,c]= MatrizA[f,c];
+                        MatrizB[f,c] = MatrizA[f,c];
                         Console.Write($" [{MatrizB[f, c]}] ");
                     }
                     Console.WriteLine("");

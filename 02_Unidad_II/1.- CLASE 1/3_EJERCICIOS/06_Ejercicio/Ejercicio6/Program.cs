@@ -12,11 +12,11 @@ namespace AplicacionBase
         {
             Matriz = new int[FILAS_MATRIZ, COLUMNAS_MATRIZ];
 
-            Console.WriteLine("Ejercicio que permite cargar una matriz 3x3 e imprimir cuantos numeros son ceros, cuantos positivos y cuantos negativos\n");
+            Console.WriteLine($"Ejercicio que permite cargar una matriz {FILAS_MATRIZ}x{COLUMNAS_MATRIZ} e imprimir cuantos numeros son ceros, cuantos positivos y cuantos negativos\n");
 
             for (int f = 0; f < FILAS_MATRIZ; f++){
                 for (int c = 0; c < COLUMNAS_MATRIZ; c++){
-                    Console.Write($"Digite el elemento de la posicion {f+1}:{c+1}: ");
+                    Console.Write($"Digite el elemento de la posicion {f}:{c}: ");
                     Matriz[f,c] = int.Parse(System.Console.ReadLine());
                 }
             }
