@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ejercicios listas Nu4/1.0.0": {
+        "runtime": {
+          "Ejercicios listas Nu4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicios listas Nu4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
