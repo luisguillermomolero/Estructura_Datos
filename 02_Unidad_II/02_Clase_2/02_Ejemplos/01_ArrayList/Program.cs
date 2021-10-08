@@ -11,7 +11,7 @@ namespace Aplicacionbase
 
         static void ImprimirArrayList(ArrayList arreglo){
             foreach (int n in arreglo)
-                Console.Write("  {0},",n);
+                Console.Write($"  {n} ");
 
             Console.WriteLine("\n—————————————");
         }
