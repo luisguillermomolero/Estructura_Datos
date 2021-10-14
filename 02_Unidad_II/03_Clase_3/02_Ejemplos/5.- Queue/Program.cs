@@ -2,10 +2,8 @@
 using System.Collections;
 public class SamplesQueue
 {
-
     public static void Main()
     {
-
         // Creates and initializes a new Queue.
         Queue myQ = new Queue();
         myQ.Enqueue("The");

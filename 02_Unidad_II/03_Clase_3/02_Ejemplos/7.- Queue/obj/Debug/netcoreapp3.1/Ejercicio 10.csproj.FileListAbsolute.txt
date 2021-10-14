@@ -1,0 +1,41 @@
+C:\Estructura de datos\Clase 7\Ejercicio 10\bin\Debug\netcoreapp3.1\Ejercicio 10.exe
+C:\Estructura de datos\Clase 7\Ejercicio 10\bin\Debug\netcoreapp3.1\Ejercicio 10.deps.json
+C:\Estructura de datos\Clase 7\Ejercicio 10\bin\Debug\netcoreapp3.1\Ejercicio 10.runtimeconfig.json
+C:\Estructura de datos\Clase 7\Ejercicio 10\bin\Debug\netcoreapp3.1\Ejercicio 10.runtimeconfig.dev.json
+C:\Estructura de datos\Clase 7\Ejercicio 10\bin\Debug\netcoreapp3.1\Ejercicio 10.dll
+C:\Estructura de datos\Clase 7\Ejercicio 10\bin\Debug\netcoreapp3.1\Ejercicio 10.pdb
+C:\Estructura de datos\Clase 7\Ejercicio 10\obj\Debug\netcoreapp3.1\Ejercicio 10.csprojAssemblyReference.cache
+C:\Estructura de datos\Clase 7\Ejercicio 10\obj\Debug\netcoreapp3.1\Ejercicio 10.AssemblyInfoInputs.cache
+C:\Estructura de datos\Clase 7\Ejercicio 10\obj\Debug\netcoreapp3.1\Ejercicio 10.AssemblyInfo.cs
+C:\Estructura de datos\Clase 7\Ejercicio 10\obj\Debug\netcoreapp3.1\Ejercicio 10.csproj.CoreCompileInputs.cache
+C:\Estructura de datos\Clase 7\Ejercicio 10\obj\Debug\netcoreapp3.1\Ejercicio 10.dll
+C:\Estructura de datos\Clase 7\Ejercicio 10\obj\Debug\netcoreapp3.1\Ejercicio 10.pdb
+C:\Estructura de datos\Clase 7\Ejercicio 10\obj\Debug\netcoreapp3.1\Ejercicio 10.genruntimeconfig.cache
+D:\OneDrive - Ucompensar\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD II\3.- CLASE 3\3.- EJERCICIOS\Clase 7 Giron\Ejercicio 10\bin\Debug\netcoreapp3.1\Ejercicio 10.exe
+D:\OneDrive - Ucompensar\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD II\3.- CLASE 3\3.- EJERCICIOS\Clase 7 Giron\Ejercicio 10\bin\Debug\netcoreapp3.1\Ejercicio 10.deps.json
+D:\OneDrive - Ucompensar\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD II\3.- CLASE 3\3.- EJERCICIOS\Clase 7 Giron\Ejercicio 10\bin\Debug\netcoreapp3.1\Ejercicio 10.runtimeconfig.json
+D:\OneDrive - Ucompensar\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD II\3.- CLASE 3\3.- EJERCICIOS\Clase 7 Giron\Ejercicio 10\bin\Debug\netcoreapp3.1\Ejercicio 10.runtimeconfig.dev.json
+D:\OneDrive - Ucompensar\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD II\3.- CLASE 3\3.- EJERCICIOS\Clase 7 Giron\Ejercicio 10\bin\Debug\netcoreapp3.1\Ejercicio 10.dll
+D:\OneDrive - Ucompensar\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD II\3.- CLASE 3\3.- EJERCICIOS\Clase 7 Giron\Ejercicio 10\bin\Debug\netcoreapp3.1\Ejercicio 10.pdb
+D:\OneDrive - Ucompensar\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD II\3.- CLASE 3\3.- EJERCICIOS\Clase 7 Giron\Ejercicio 10\obj\Debug\netcoreapp3.1\Ejercicio 10.csproj.AssemblyReference.cache
+D:\OneDrive - Ucompensar\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD II\3.- CLASE 3\3.- EJERCICIOS\Clase 7 Giron\Ejercicio 10\obj\Debug\netcoreapp3.1\Ejercicio 10.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Ucompensar\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD II\3.- CLASE 3\3.- EJERCICIOS\Clase 7 Giron\Ejercicio 10\obj\Debug\netcoreapp3.1\Ejercicio 10.AssemblyInfoInputs.cache
+D:\OneDrive - Ucompensar\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD II\3.- CLASE 3\3.- EJERCICIOS\Clase 7 Giron\Ejercicio 10\obj\Debug\netcoreapp3.1\Ejercicio 10.AssemblyInfo.cs
+D:\OneDrive - Ucompensar\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD II\3.- CLASE 3\3.- EJERCICIOS\Clase 7 Giron\Ejercicio 10\obj\Debug\netcoreapp3.1\Ejercicio 10.csproj.CoreCompileInputs.cache
+D:\OneDrive - Ucompensar\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD II\3.- CLASE 3\3.- EJERCICIOS\Clase 7 Giron\Ejercicio 10\obj\Debug\netcoreapp3.1\Ejercicio 10.dll
+D:\OneDrive - Ucompensar\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD II\3.- CLASE 3\3.- EJERCICIOS\Clase 7 Giron\Ejercicio 10\obj\Debug\netcoreapp3.1\Ejercicio 10.pdb
+D:\OneDrive - Ucompensar\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD II\3.- CLASE 3\3.- EJERCICIOS\Clase 7 Giron\Ejercicio 10\obj\Debug\netcoreapp3.1\Ejercicio 10.genruntimeconfig.cache
+D:\Estructura_Datos\02_Unidad_II\03_Clase_3\02_Ejemplos\7.- Queue\bin\Debug\netcoreapp3.1\Ejercicio 10.exe
+D:\Estructura_Datos\02_Unidad_II\03_Clase_3\02_Ejemplos\7.- Queue\bin\Debug\netcoreapp3.1\Ejercicio 10.deps.json
+D:\Estructura_Datos\02_Unidad_II\03_Clase_3\02_Ejemplos\7.- Queue\bin\Debug\netcoreapp3.1\Ejercicio 10.runtimeconfig.json
+D:\Estructura_Datos\02_Unidad_II\03_Clase_3\02_Ejemplos\7.- Queue\bin\Debug\netcoreapp3.1\Ejercicio 10.runtimeconfig.dev.json
+D:\Estructura_Datos\02_Unidad_II\03_Clase_3\02_Ejemplos\7.- Queue\bin\Debug\netcoreapp3.1\Ejercicio 10.dll
+D:\Estructura_Datos\02_Unidad_II\03_Clase_3\02_Ejemplos\7.- Queue\bin\Debug\netcoreapp3.1\Ejercicio 10.pdb
+D:\Estructura_Datos\02_Unidad_II\03_Clase_3\02_Ejemplos\7.- Queue\obj\Debug\netcoreapp3.1\Ejercicio 10.csproj.AssemblyReference.cache
+D:\Estructura_Datos\02_Unidad_II\03_Clase_3\02_Ejemplos\7.- Queue\obj\Debug\netcoreapp3.1\Ejercicio 10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estructura_Datos\02_Unidad_II\03_Clase_3\02_Ejemplos\7.- Queue\obj\Debug\netcoreapp3.1\Ejercicio 10.AssemblyInfoInputs.cache
+D:\Estructura_Datos\02_Unidad_II\03_Clase_3\02_Ejemplos\7.- Queue\obj\Debug\netcoreapp3.1\Ejercicio 10.AssemblyInfo.cs
+D:\Estructura_Datos\02_Unidad_II\03_Clase_3\02_Ejemplos\7.- Queue\obj\Debug\netcoreapp3.1\Ejercicio 10.csproj.CoreCompileInputs.cache
+D:\Estructura_Datos\02_Unidad_II\03_Clase_3\02_Ejemplos\7.- Queue\obj\Debug\netcoreapp3.1\Ejercicio 10.dll
+D:\Estructura_Datos\02_Unidad_II\03_Clase_3\02_Ejemplos\7.- Queue\obj\Debug\netcoreapp3.1\Ejercicio 10.pdb
+D:\Estructura_Datos\02_Unidad_II\03_Clase_3\02_Ejemplos\7.- Queue\obj\Debug\netcoreapp3.1\Ejercicio 10.genruntimeconfig.cache
