@@ -1,0 +1,4 @@
+Funciones/Métodos que ejecutan código: Main() pág. 150
+Funciones/Métodos que regresan un valor: return() pág. 156
+Funciones/Métodos que reciben valores: pág. 159
+Funciones/Métodos que reciben parámetros y regresan un valor: pág. 163

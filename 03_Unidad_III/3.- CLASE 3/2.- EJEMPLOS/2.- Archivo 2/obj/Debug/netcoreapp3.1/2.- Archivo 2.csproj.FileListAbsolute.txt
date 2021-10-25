@@ -1,0 +1,12 @@
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\3.- CLASE 3\2.- EJEMPLOS\2.- Archivo 2\bin\Debug\netcoreapp3.1\2.- Archivo 2.exe
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\3.- CLASE 3\2.- EJEMPLOS\2.- Archivo 2\bin\Debug\netcoreapp3.1\2.- Archivo 2.deps.json
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\3.- CLASE 3\2.- EJEMPLOS\2.- Archivo 2\bin\Debug\netcoreapp3.1\2.- Archivo 2.runtimeconfig.json
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\3.- CLASE 3\2.- EJEMPLOS\2.- Archivo 2\bin\Debug\netcoreapp3.1\2.- Archivo 2.runtimeconfig.dev.json
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\3.- CLASE 3\2.- EJEMPLOS\2.- Archivo 2\bin\Debug\netcoreapp3.1\2.- Archivo 2.dll
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\3.- CLASE 3\2.- EJEMPLOS\2.- Archivo 2\bin\Debug\netcoreapp3.1\2.- Archivo 2.pdb
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\3.- CLASE 3\2.- EJEMPLOS\2.- Archivo 2\obj\Debug\netcoreapp3.1\2.- Archivo 2.AssemblyInfoInputs.cache
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\3.- CLASE 3\2.- EJEMPLOS\2.- Archivo 2\obj\Debug\netcoreapp3.1\2.- Archivo 2.AssemblyInfo.cs
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\3.- CLASE 3\2.- EJEMPLOS\2.- Archivo 2\obj\Debug\netcoreapp3.1\2.- Archivo 2.csproj.CoreCompileInputs.cache
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\3.- CLASE 3\2.- EJEMPLOS\2.- Archivo 2\obj\Debug\netcoreapp3.1\2.- Archivo 2.dll
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\3.- CLASE 3\2.- EJEMPLOS\2.- Archivo 2\obj\Debug\netcoreapp3.1\2.- Archivo 2.pdb
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\3.- CLASE 3\2.- EJEMPLOS\2.- Archivo 2\obj\Debug\netcoreapp3.1\2.- Archivo 2.genruntimeconfig.cache

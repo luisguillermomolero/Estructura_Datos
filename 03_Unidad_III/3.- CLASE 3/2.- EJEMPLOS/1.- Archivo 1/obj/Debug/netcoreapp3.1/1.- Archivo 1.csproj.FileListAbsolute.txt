@@ -1,0 +1,13 @@
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\3.- CLASE 3\2.- EJEMPLOS\1.- Archivo 1\bin\Debug\netcoreapp3.1\1.- Archivo 1.exe
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\3.- CLASE 3\2.- EJEMPLOS\1.- Archivo 1\bin\Debug\netcoreapp3.1\1.- Archivo 1.deps.json
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\3.- CLASE 3\2.- EJEMPLOS\1.- Archivo 1\bin\Debug\netcoreapp3.1\1.- Archivo 1.runtimeconfig.json
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\3.- CLASE 3\2.- EJEMPLOS\1.- Archivo 1\bin\Debug\netcoreapp3.1\1.- Archivo 1.runtimeconfig.dev.json
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\3.- CLASE 3\2.- EJEMPLOS\1.- Archivo 1\bin\Debug\netcoreapp3.1\1.- Archivo 1.dll
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\3.- CLASE 3\2.- EJEMPLOS\1.- Archivo 1\bin\Debug\netcoreapp3.1\1.- Archivo 1.pdb
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\3.- CLASE 3\2.- EJEMPLOS\1.- Archivo 1\obj\Debug\netcoreapp3.1\1.- Archivo 1.csprojAssemblyReference.cache
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\3.- CLASE 3\2.- EJEMPLOS\1.- Archivo 1\obj\Debug\netcoreapp3.1\1.- Archivo 1.AssemblyInfoInputs.cache
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\3.- CLASE 3\2.- EJEMPLOS\1.- Archivo 1\obj\Debug\netcoreapp3.1\1.- Archivo 1.AssemblyInfo.cs
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\3.- CLASE 3\2.- EJEMPLOS\1.- Archivo 1\obj\Debug\netcoreapp3.1\1.- Archivo 1.csproj.CoreCompileInputs.cache
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\3.- CLASE 3\2.- EJEMPLOS\1.- Archivo 1\obj\Debug\netcoreapp3.1\1.- Archivo 1.dll
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\3.- CLASE 3\2.- EJEMPLOS\1.- Archivo 1\obj\Debug\netcoreapp3.1\1.- Archivo 1.pdb
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\3.- CLASE 3\2.- EJEMPLOS\1.- Archivo 1\obj\Debug\netcoreapp3.1\1.- Archivo 1.genruntimeconfig.cache

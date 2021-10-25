@@ -1,0 +1,26 @@
+C:\Users\DELL\Source\Repos\11.- ClaseParcial1\bin\Debug\netcoreapp3.1\11.- ClaseParcial1.exe
+C:\Users\DELL\Source\Repos\11.- ClaseParcial1\bin\Debug\netcoreapp3.1\11.- ClaseParcial1.deps.json
+C:\Users\DELL\Source\Repos\11.- ClaseParcial1\bin\Debug\netcoreapp3.1\11.- ClaseParcial1.runtimeconfig.json
+C:\Users\DELL\Source\Repos\11.- ClaseParcial1\bin\Debug\netcoreapp3.1\11.- ClaseParcial1.runtimeconfig.dev.json
+C:\Users\DELL\Source\Repos\11.- ClaseParcial1\bin\Debug\netcoreapp3.1\11.- ClaseParcial1.dll
+C:\Users\DELL\Source\Repos\11.- ClaseParcial1\bin\Debug\netcoreapp3.1\11.- ClaseParcial1.pdb
+C:\Users\DELL\Source\Repos\11.- ClaseParcial1\obj\Debug\netcoreapp3.1\11.- ClaseParcial1.csprojAssemblyReference.cache
+C:\Users\DELL\Source\Repos\11.- ClaseParcial1\obj\Debug\netcoreapp3.1\11.- ClaseParcial1.AssemblyInfoInputs.cache
+C:\Users\DELL\Source\Repos\11.- ClaseParcial1\obj\Debug\netcoreapp3.1\11.- ClaseParcial1.AssemblyInfo.cs
+C:\Users\DELL\Source\Repos\11.- ClaseParcial1\obj\Debug\netcoreapp3.1\11.- ClaseParcial1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Source\Repos\11.- ClaseParcial1\obj\Debug\netcoreapp3.1\11.- ClaseParcial1.dll
+C:\Users\DELL\Source\Repos\11.- ClaseParcial1\obj\Debug\netcoreapp3.1\11.- ClaseParcial1.pdb
+C:\Users\DELL\Source\Repos\11.- ClaseParcial1\obj\Debug\netcoreapp3.1\11.- ClaseParcial1.genruntimeconfig.cache
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\2.- CLASE 2\2.- EJEMPLOS\11.- ClaseParcial1\bin\Debug\netcoreapp3.1\11.- ClaseParcial1.exe
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\2.- CLASE 2\2.- EJEMPLOS\11.- ClaseParcial1\bin\Debug\netcoreapp3.1\11.- ClaseParcial1.deps.json
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\2.- CLASE 2\2.- EJEMPLOS\11.- ClaseParcial1\bin\Debug\netcoreapp3.1\11.- ClaseParcial1.runtimeconfig.json
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\2.- CLASE 2\2.- EJEMPLOS\11.- ClaseParcial1\bin\Debug\netcoreapp3.1\11.- ClaseParcial1.runtimeconfig.dev.json
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\2.- CLASE 2\2.- EJEMPLOS\11.- ClaseParcial1\bin\Debug\netcoreapp3.1\11.- ClaseParcial1.dll
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\2.- CLASE 2\2.- EJEMPLOS\11.- ClaseParcial1\bin\Debug\netcoreapp3.1\11.- ClaseParcial1.pdb
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\2.- CLASE 2\2.- EJEMPLOS\11.- ClaseParcial1\obj\Debug\netcoreapp3.1\11.- ClaseParcial1.csprojAssemblyReference.cache
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\2.- CLASE 2\2.- EJEMPLOS\11.- ClaseParcial1\obj\Debug\netcoreapp3.1\11.- ClaseParcial1.AssemblyInfoInputs.cache
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\2.- CLASE 2\2.- EJEMPLOS\11.- ClaseParcial1\obj\Debug\netcoreapp3.1\11.- ClaseParcial1.AssemblyInfo.cs
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\2.- CLASE 2\2.- EJEMPLOS\11.- ClaseParcial1\obj\Debug\netcoreapp3.1\11.- ClaseParcial1.csproj.CoreCompileInputs.cache
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\2.- CLASE 2\2.- EJEMPLOS\11.- ClaseParcial1\obj\Debug\netcoreapp3.1\11.- ClaseParcial1.dll
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\2.- CLASE 2\2.- EJEMPLOS\11.- ClaseParcial1\obj\Debug\netcoreapp3.1\11.- ClaseParcial1.pdb
+D:\OneDrive - Unipanamericana\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\2.- CLASE 2\2.- EJEMPLOS\11.- ClaseParcial1\obj\Debug\netcoreapp3.1\11.- ClaseParcial1.genruntimeconfig.cache

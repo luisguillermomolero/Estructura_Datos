@@ -7,10 +7,8 @@ namespace Aplicacionbase
     {
         public static void Main()
         {
-            /*El siguiente ejemplo define una matriz de palabras de cuatro letras y almacena 
-             * sus letras individuales en una matriz de cadenas para codificarlas. Luego llama 
-             * al método Concat (String, String, String, String) para volver a ensamblar las palabras codificadas.*/
-
+            /* El siguiente ejemplo define una matriz de palabras de cuatro letras y almacena sus letras individuales en una matriz de cadenas para codificarlas. Luego llama al método Concat (String, String, String, String) para volver a ensamblar las palabras codificadas.
+            */
 
             const int WORD_SIZE = 4;
 
