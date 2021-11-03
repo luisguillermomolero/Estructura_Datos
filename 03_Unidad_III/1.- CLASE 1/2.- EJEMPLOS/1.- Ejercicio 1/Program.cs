@@ -36,7 +36,10 @@ namespace Aplicacionbase
             // Llamada al método constructor Operarios
 
             Operarios op = new Operarios();
-            op.Imprimir();            
+            op.Imprimir();
+
+            Operarios segundoOperario = new Operarios();
+            segundoOperario.Imprimir();            
         }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace Aplicacionbase
 {
     // Definimos la clase "Cliente"

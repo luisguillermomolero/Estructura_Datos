@@ -24,3 +24,17 @@ C:\Users\DELL\Desktop\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\1.- CLASE 1\2
 C:\Users\DELL\Desktop\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\1.- CLASE 1\2.- EJEMPLOS\1.- Ejercicio 1\obj\Debug\netcoreapp3.1\1.- Ejercicio 1.dll
 C:\Users\DELL\Desktop\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\1.- CLASE 1\2.- EJEMPLOS\1.- Ejercicio 1\obj\Debug\netcoreapp3.1\1.- Ejercicio 1.pdb
 C:\Users\DELL\Desktop\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD III\1.- CLASE 1\2.- EJEMPLOS\1.- Ejercicio 1\obj\Debug\netcoreapp3.1\1.- Ejercicio 1.genruntimeconfig.cache
+D:\Estructura_Datos\03_Unidad_III\1.- CLASE 1\2.- EJEMPLOS\1.- Ejercicio 1\bin\Debug\netcoreapp3.1\1.- Ejercicio 1.exe
+D:\Estructura_Datos\03_Unidad_III\1.- CLASE 1\2.- EJEMPLOS\1.- Ejercicio 1\bin\Debug\netcoreapp3.1\1.- Ejercicio 1.deps.json
+D:\Estructura_Datos\03_Unidad_III\1.- CLASE 1\2.- EJEMPLOS\1.- Ejercicio 1\bin\Debug\netcoreapp3.1\1.- Ejercicio 1.runtimeconfig.json
+D:\Estructura_Datos\03_Unidad_III\1.- CLASE 1\2.- EJEMPLOS\1.- Ejercicio 1\bin\Debug\netcoreapp3.1\1.- Ejercicio 1.runtimeconfig.dev.json
+D:\Estructura_Datos\03_Unidad_III\1.- CLASE 1\2.- EJEMPLOS\1.- Ejercicio 1\bin\Debug\netcoreapp3.1\1.- Ejercicio 1.dll
+D:\Estructura_Datos\03_Unidad_III\1.- CLASE 1\2.- EJEMPLOS\1.- Ejercicio 1\bin\Debug\netcoreapp3.1\1.- Ejercicio 1.pdb
+D:\Estructura_Datos\03_Unidad_III\1.- CLASE 1\2.- EJEMPLOS\1.- Ejercicio 1\obj\Debug\netcoreapp3.1\1.- Ejercicio 1.csproj.AssemblyReference.cache
+D:\Estructura_Datos\03_Unidad_III\1.- CLASE 1\2.- EJEMPLOS\1.- Ejercicio 1\obj\Debug\netcoreapp3.1\1.- Ejercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estructura_Datos\03_Unidad_III\1.- CLASE 1\2.- EJEMPLOS\1.- Ejercicio 1\obj\Debug\netcoreapp3.1\1.- Ejercicio 1.AssemblyInfoInputs.cache
+D:\Estructura_Datos\03_Unidad_III\1.- CLASE 1\2.- EJEMPLOS\1.- Ejercicio 1\obj\Debug\netcoreapp3.1\1.- Ejercicio 1.AssemblyInfo.cs
+D:\Estructura_Datos\03_Unidad_III\1.- CLASE 1\2.- EJEMPLOS\1.- Ejercicio 1\obj\Debug\netcoreapp3.1\1.- Ejercicio 1.csproj.CoreCompileInputs.cache
+D:\Estructura_Datos\03_Unidad_III\1.- CLASE 1\2.- EJEMPLOS\1.- Ejercicio 1\obj\Debug\netcoreapp3.1\1.- Ejercicio 1.dll
+D:\Estructura_Datos\03_Unidad_III\1.- CLASE 1\2.- EJEMPLOS\1.- Ejercicio 1\obj\Debug\netcoreapp3.1\1.- Ejercicio 1.pdb
+D:\Estructura_Datos\03_Unidad_III\1.- CLASE 1\2.- EJEMPLOS\1.- Ejercicio 1\obj\Debug\netcoreapp3.1\1.- Ejercicio 1.genruntimeconfig.cache
