@@ -39,3 +39,17 @@ D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\01_Ejercicio\Matriz1\o
 D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\01_Ejercicio\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.dll
 D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\01_Ejercicio\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.pdb
 D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\01_Ejercicio\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.genruntimeconfig.cache
+D:\Estructura_Datos\02_Unidad_II\01_Clase_1\3_EJERCICIOS\01_Ejercicio\Matriz1\bin\Debug\netcoreapp3.1\Matriz1.exe
+D:\Estructura_Datos\02_Unidad_II\01_Clase_1\3_EJERCICIOS\01_Ejercicio\Matriz1\bin\Debug\netcoreapp3.1\Matriz1.deps.json
+D:\Estructura_Datos\02_Unidad_II\01_Clase_1\3_EJERCICIOS\01_Ejercicio\Matriz1\bin\Debug\netcoreapp3.1\Matriz1.runtimeconfig.json
+D:\Estructura_Datos\02_Unidad_II\01_Clase_1\3_EJERCICIOS\01_Ejercicio\Matriz1\bin\Debug\netcoreapp3.1\Matriz1.runtimeconfig.dev.json
+D:\Estructura_Datos\02_Unidad_II\01_Clase_1\3_EJERCICIOS\01_Ejercicio\Matriz1\bin\Debug\netcoreapp3.1\Matriz1.dll
+D:\Estructura_Datos\02_Unidad_II\01_Clase_1\3_EJERCICIOS\01_Ejercicio\Matriz1\bin\Debug\netcoreapp3.1\Matriz1.pdb
+D:\Estructura_Datos\02_Unidad_II\01_Clase_1\3_EJERCICIOS\01_Ejercicio\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.csproj.AssemblyReference.cache
+D:\Estructura_Datos\02_Unidad_II\01_Clase_1\3_EJERCICIOS\01_Ejercicio\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estructura_Datos\02_Unidad_II\01_Clase_1\3_EJERCICIOS\01_Ejercicio\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.AssemblyInfoInputs.cache
+D:\Estructura_Datos\02_Unidad_II\01_Clase_1\3_EJERCICIOS\01_Ejercicio\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.AssemblyInfo.cs
+D:\Estructura_Datos\02_Unidad_II\01_Clase_1\3_EJERCICIOS\01_Ejercicio\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.csproj.CoreCompileInputs.cache
+D:\Estructura_Datos\02_Unidad_II\01_Clase_1\3_EJERCICIOS\01_Ejercicio\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.dll
+D:\Estructura_Datos\02_Unidad_II\01_Clase_1\3_EJERCICIOS\01_Ejercicio\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.pdb
+D:\Estructura_Datos\02_Unidad_II\01_Clase_1\3_EJERCICIOS\01_Ejercicio\Matriz1\obj\Debug\netcoreapp3.1\Matriz1.genruntimeconfig.cache

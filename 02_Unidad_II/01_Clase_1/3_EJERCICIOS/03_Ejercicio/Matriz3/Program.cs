@@ -1,6 +1,9 @@
 ﻿using System;
 
+//Escribe un programa que llene una matriz de 5 x 5 y que almacene la diagonal principal en un vector. Imprimir el vector resultante.
+
 namespace AplicacionBase
+
 {
 	class Program
 	{

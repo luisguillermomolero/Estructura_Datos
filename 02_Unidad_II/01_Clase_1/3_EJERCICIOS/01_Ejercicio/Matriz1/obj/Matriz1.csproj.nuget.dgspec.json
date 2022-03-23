@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Estructura_Datos\\02_Unidad_II\\1.- CLASE 1\\3_EJERCICIOS\\01_Ejercicio\\Matriz1\\Matriz1.csproj": {}
+    "D:\\Estructura_Datos\\02_Unidad_II\\01_Clase_1\\3_EJERCICIOS\\01_Ejercicio\\Matriz1\\Matriz1.csproj": {}
   },
   "projects": {
-    "D:\\Estructura_Datos\\02_Unidad_II\\1.- CLASE 1\\3_EJERCICIOS\\01_Ejercicio\\Matriz1\\Matriz1.csproj": {
+    "D:\\Estructura_Datos\\02_Unidad_II\\01_Clase_1\\3_EJERCICIOS\\01_Ejercicio\\Matriz1\\Matriz1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estructura_Datos\\02_Unidad_II\\1.- CLASE 1\\3_EJERCICIOS\\01_Ejercicio\\Matriz1\\Matriz1.csproj",
+        "projectUniqueName": "D:\\Estructura_Datos\\02_Unidad_II\\01_Clase_1\\3_EJERCICIOS\\01_Ejercicio\\Matriz1\\Matriz1.csproj",
         "projectName": "Matriz1",
-        "projectPath": "D:\\Estructura_Datos\\02_Unidad_II\\1.- CLASE 1\\3_EJERCICIOS\\01_Ejercicio\\Matriz1\\Matriz1.csproj",
+        "projectPath": "D:\\Estructura_Datos\\02_Unidad_II\\01_Clase_1\\3_EJERCICIOS\\01_Ejercicio\\Matriz1\\Matriz1.csproj",
         "packagesPath": "C:\\Users\\luisg\\.nuget\\packages\\",
-        "outputPath": "D:\\Estructura_Datos\\02_Unidad_II\\1.- CLASE 1\\3_EJERCICIOS\\01_Ejercicio\\Matriz1\\obj\\",
+        "outputPath": "D:\\Estructura_Datos\\02_Unidad_II\\01_Clase_1\\3_EJERCICIOS\\01_Ejercicio\\Matriz1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luisg\\AppData\\Roaming\\NuGet\\NuGet.Config",

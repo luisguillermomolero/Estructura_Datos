@@ -25,3 +25,17 @@ D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\09_Ejercicio\obj\Debug
 D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\09_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio 9.dll
 D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\09_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio 9.pdb
 D:\Estructura_Datos\02_Unidad_II\1.- CLASE 1\3_EJERCICIOS\09_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio 9.genruntimeconfig.cache
+D:\Estructura_Datos\02_Unidad_II\01_Clase_1\3_EJERCICIOS\09_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio 9.exe
+D:\Estructura_Datos\02_Unidad_II\01_Clase_1\3_EJERCICIOS\09_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio 9.deps.json
+D:\Estructura_Datos\02_Unidad_II\01_Clase_1\3_EJERCICIOS\09_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio 9.runtimeconfig.json
+D:\Estructura_Datos\02_Unidad_II\01_Clase_1\3_EJERCICIOS\09_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio 9.runtimeconfig.dev.json
+D:\Estructura_Datos\02_Unidad_II\01_Clase_1\3_EJERCICIOS\09_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio 9.dll
+D:\Estructura_Datos\02_Unidad_II\01_Clase_1\3_EJERCICIOS\09_Ejercicio\bin\Debug\netcoreapp3.1\ejercicio 9.pdb
+D:\Estructura_Datos\02_Unidad_II\01_Clase_1\3_EJERCICIOS\09_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio 9.csproj.AssemblyReference.cache
+D:\Estructura_Datos\02_Unidad_II\01_Clase_1\3_EJERCICIOS\09_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio 9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estructura_Datos\02_Unidad_II\01_Clase_1\3_EJERCICIOS\09_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio 9.AssemblyInfoInputs.cache
+D:\Estructura_Datos\02_Unidad_II\01_Clase_1\3_EJERCICIOS\09_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio 9.AssemblyInfo.cs
+D:\Estructura_Datos\02_Unidad_II\01_Clase_1\3_EJERCICIOS\09_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio 9.csproj.CoreCompileInputs.cache
+D:\Estructura_Datos\02_Unidad_II\01_Clase_1\3_EJERCICIOS\09_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio 9.dll
+D:\Estructura_Datos\02_Unidad_II\01_Clase_1\3_EJERCICIOS\09_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio 9.pdb
+D:\Estructura_Datos\02_Unidad_II\01_Clase_1\3_EJERCICIOS\09_Ejercicio\obj\Debug\netcoreapp3.1\ejercicio 9.genruntimeconfig.cache

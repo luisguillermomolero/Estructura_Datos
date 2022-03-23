@@ -1,5 +1,7 @@
 ﻿using System;
 
+//Escribe un programa que llene una matriz de 5 x 6 y que imprima cuantos de los números almacenados son ceros, cuantos son positivos y cuantos son negativos
+
 namespace AplicacionBase
 {
     class EvaluacionMatriz

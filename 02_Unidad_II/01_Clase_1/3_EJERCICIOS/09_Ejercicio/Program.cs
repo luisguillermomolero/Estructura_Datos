@@ -1,6 +1,6 @@
 ﻿using System;
 
-//Escribir un programa que copie todos los elementos de una matriz en otra matriz.
+// Programa que copia todos los elementos de una matriz "A" en otra matriz "B".
 
 namespace AplicacionBase
 {
@@ -17,7 +17,7 @@ namespace AplicacionBase
 
                 // Cargar la matriz
 
-                Console.WriteLine("Programa que copie todos los elementos de una matriz en otra matriz.\n");
+                Console.WriteLine("Programa que copia todos los elementos de una matriz \"A\" en otra matriz \"B\"\n");
 
                 Console.Write("Cuantas filas tienen las Matrices: ");
                 filasMatriz = int.Parse(System.Console.ReadLine());

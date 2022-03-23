@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Estructura_Datos\\02_Unidad_II\\1.- CLASE 1\\3_EJERCICIOS\\03_Ejercicio\\Matriz3\\Matriz3.csproj",
+      "projectUniqueName": "D:\\Estructura_Datos\\02_Unidad_II\\01_Clase_1\\3_EJERCICIOS\\03_Ejercicio\\Matriz3\\Matriz3.csproj",
       "projectName": "Matriz3",
-      "projectPath": "D:\\Estructura_Datos\\02_Unidad_II\\1.- CLASE 1\\3_EJERCICIOS\\03_Ejercicio\\Matriz3\\Matriz3.csproj",
+      "projectPath": "D:\\Estructura_Datos\\02_Unidad_II\\01_Clase_1\\3_EJERCICIOS\\03_Ejercicio\\Matriz3\\Matriz3.csproj",
       "packagesPath": "C:\\Users\\luisg\\.nuget\\packages\\",
-      "outputPath": "D:\\Estructura_Datos\\02_Unidad_II\\1.- CLASE 1\\3_EJERCICIOS\\03_Ejercicio\\Matriz3\\obj\\",
+      "outputPath": "D:\\Estructura_Datos\\02_Unidad_II\\01_Clase_1\\3_EJERCICIOS\\03_Ejercicio\\Matriz3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luisg\\AppData\\Roaming\\NuGet\\NuGet.Config",
