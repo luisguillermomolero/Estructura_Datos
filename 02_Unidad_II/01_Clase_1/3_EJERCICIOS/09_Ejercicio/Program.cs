@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 // Programa que copia todos los elementos de una matriz "A" en otra matriz "B".
 

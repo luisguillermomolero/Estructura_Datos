@@ -31,11 +31,11 @@ namespace AplicacionBase
             for (int f = 0; f < FILAS_MATRIZ; f++){
                 for (int c = 0; c < COLUMNAS_MATRIZ; c++){
                     if (Matriz[f,c] == 0)
-                        contadorCeros = contadorCeros + 1;
+                        contadorCeros += 1;
                     else if (Matriz[f, c] > 0)
-                        contadorPositivos = contadorPositivos + 1; 
+                        contadorPositivos += 1;
                     else
-                        contadorNegativos = contadorNegativos + 1;
+                        contadorNegativos += 1;
                 }
             }
             Console.WriteLine($"Usted dijito {contadorCeros} ceros, {contadorPositivos} numeros positivos y {contadorNegativos} numeros negativos");

@@ -1,4 +1,4 @@
-﻿using System;|
+﻿using System;
 using System.Collections;
 
 namespace Aplicacionbase
@@ -95,9 +95,9 @@ namespace Aplicacionbase
             int posicion = miLista.BinarySearch("Hasta Luego");
 
             if (posicion >= 0)
-                Console.WriteLine("Está en la posición {0}", posicion);
+                Console.WriteLine($"Está en la posición {posicion}");
             else
-                Console.WriteLine("No está. El dato inmediatamente mayor " + "es el {0}: {1}", ~posicion, miLista[~posicion]);
+                Console.WriteLine($"No está. El dato inmediatamente mayor es el {~posicion}: {miLista[~posicion]}");
         }
     }
 }

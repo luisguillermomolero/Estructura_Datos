@@ -38,3 +38,17 @@ D:\Estructura_Datos\02_Unidad_II\2.- CLASE 2\2.- EJEMPLOS\03_ArrayList\obj\Debug
 D:\Estructura_Datos\02_Unidad_II\2.- CLASE 2\2.- EJEMPLOS\03_ArrayList\obj\Debug\netcoreapp3.1\Ejercicios listas Nu2.dll
 D:\Estructura_Datos\02_Unidad_II\2.- CLASE 2\2.- EJEMPLOS\03_ArrayList\obj\Debug\netcoreapp3.1\Ejercicios listas Nu2.pdb
 D:\Estructura_Datos\02_Unidad_II\2.- CLASE 2\2.- EJEMPLOS\03_ArrayList\obj\Debug\netcoreapp3.1\Ejercicios listas Nu2.genruntimeconfig.cache
+D:\Estructura_Datos\02_Unidad_II\02_Clase_2\02_Ejemplos\03_ArrayList\bin\Debug\netcoreapp3.1\Ejercicios listas Nu2.exe
+D:\Estructura_Datos\02_Unidad_II\02_Clase_2\02_Ejemplos\03_ArrayList\bin\Debug\netcoreapp3.1\Ejercicios listas Nu2.deps.json
+D:\Estructura_Datos\02_Unidad_II\02_Clase_2\02_Ejemplos\03_ArrayList\bin\Debug\netcoreapp3.1\Ejercicios listas Nu2.runtimeconfig.json
+D:\Estructura_Datos\02_Unidad_II\02_Clase_2\02_Ejemplos\03_ArrayList\bin\Debug\netcoreapp3.1\Ejercicios listas Nu2.runtimeconfig.dev.json
+D:\Estructura_Datos\02_Unidad_II\02_Clase_2\02_Ejemplos\03_ArrayList\bin\Debug\netcoreapp3.1\Ejercicios listas Nu2.dll
+D:\Estructura_Datos\02_Unidad_II\02_Clase_2\02_Ejemplos\03_ArrayList\bin\Debug\netcoreapp3.1\Ejercicios listas Nu2.pdb
+D:\Estructura_Datos\02_Unidad_II\02_Clase_2\02_Ejemplos\03_ArrayList\obj\Debug\netcoreapp3.1\Ejercicios listas Nu2.csproj.AssemblyReference.cache
+D:\Estructura_Datos\02_Unidad_II\02_Clase_2\02_Ejemplos\03_ArrayList\obj\Debug\netcoreapp3.1\Ejercicios listas Nu2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estructura_Datos\02_Unidad_II\02_Clase_2\02_Ejemplos\03_ArrayList\obj\Debug\netcoreapp3.1\Ejercicios listas Nu2.AssemblyInfoInputs.cache
+D:\Estructura_Datos\02_Unidad_II\02_Clase_2\02_Ejemplos\03_ArrayList\obj\Debug\netcoreapp3.1\Ejercicios listas Nu2.AssemblyInfo.cs
+D:\Estructura_Datos\02_Unidad_II\02_Clase_2\02_Ejemplos\03_ArrayList\obj\Debug\netcoreapp3.1\Ejercicios listas Nu2.csproj.CoreCompileInputs.cache
+D:\Estructura_Datos\02_Unidad_II\02_Clase_2\02_Ejemplos\03_ArrayList\obj\Debug\netcoreapp3.1\Ejercicios listas Nu2.dll
+D:\Estructura_Datos\02_Unidad_II\02_Clase_2\02_Ejemplos\03_ArrayList\obj\Debug\netcoreapp3.1\Ejercicios listas Nu2.pdb
+D:\Estructura_Datos\02_Unidad_II\02_Clase_2\02_Ejemplos\03_ArrayList\obj\Debug\netcoreapp3.1\Ejercicios listas Nu2.genruntimeconfig.cache

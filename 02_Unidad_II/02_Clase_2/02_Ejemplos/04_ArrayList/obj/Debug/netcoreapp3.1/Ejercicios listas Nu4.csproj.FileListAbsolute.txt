@@ -25,3 +25,17 @@ D:\OneDrive - Ucompensar\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD II\2.
 D:\OneDrive - Ucompensar\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD II\2.- CLASE 2\3.- EJERCICIOS\Clase 6 Giron\Ejercicios listas Nu4\obj\Debug\netcoreapp3.1\Ejercicios listas Nu4.dll
 D:\OneDrive - Ucompensar\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD II\2.- CLASE 2\3.- EJERCICIOS\Clase 6 Giron\Ejercicios listas Nu4\obj\Debug\netcoreapp3.1\Ejercicios listas Nu4.pdb
 D:\OneDrive - Ucompensar\DOCENCIA\ESTRUCTURA DE DATOS\2.- CONTENIDO\UNIDAD II\2.- CLASE 2\3.- EJERCICIOS\Clase 6 Giron\Ejercicios listas Nu4\obj\Debug\netcoreapp3.1\Ejercicios listas Nu4.genruntimeconfig.cache
+D:\Estructura_Datos\02_Unidad_II\02_Clase_2\02_Ejemplos\04_ArrayList\bin\Debug\netcoreapp3.1\Ejercicios listas Nu4.exe
+D:\Estructura_Datos\02_Unidad_II\02_Clase_2\02_Ejemplos\04_ArrayList\bin\Debug\netcoreapp3.1\Ejercicios listas Nu4.deps.json
+D:\Estructura_Datos\02_Unidad_II\02_Clase_2\02_Ejemplos\04_ArrayList\bin\Debug\netcoreapp3.1\Ejercicios listas Nu4.runtimeconfig.json
+D:\Estructura_Datos\02_Unidad_II\02_Clase_2\02_Ejemplos\04_ArrayList\bin\Debug\netcoreapp3.1\Ejercicios listas Nu4.runtimeconfig.dev.json
+D:\Estructura_Datos\02_Unidad_II\02_Clase_2\02_Ejemplos\04_ArrayList\bin\Debug\netcoreapp3.1\Ejercicios listas Nu4.dll
+D:\Estructura_Datos\02_Unidad_II\02_Clase_2\02_Ejemplos\04_ArrayList\bin\Debug\netcoreapp3.1\Ejercicios listas Nu4.pdb
+D:\Estructura_Datos\02_Unidad_II\02_Clase_2\02_Ejemplos\04_ArrayList\obj\Debug\netcoreapp3.1\Ejercicios listas Nu4.csproj.AssemblyReference.cache
+D:\Estructura_Datos\02_Unidad_II\02_Clase_2\02_Ejemplos\04_ArrayList\obj\Debug\netcoreapp3.1\Ejercicios listas Nu4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estructura_Datos\02_Unidad_II\02_Clase_2\02_Ejemplos\04_ArrayList\obj\Debug\netcoreapp3.1\Ejercicios listas Nu4.AssemblyInfoInputs.cache
+D:\Estructura_Datos\02_Unidad_II\02_Clase_2\02_Ejemplos\04_ArrayList\obj\Debug\netcoreapp3.1\Ejercicios listas Nu4.AssemblyInfo.cs
+D:\Estructura_Datos\02_Unidad_II\02_Clase_2\02_Ejemplos\04_ArrayList\obj\Debug\netcoreapp3.1\Ejercicios listas Nu4.csproj.CoreCompileInputs.cache
+D:\Estructura_Datos\02_Unidad_II\02_Clase_2\02_Ejemplos\04_ArrayList\obj\Debug\netcoreapp3.1\Ejercicios listas Nu4.dll
+D:\Estructura_Datos\02_Unidad_II\02_Clase_2\02_Ejemplos\04_ArrayList\obj\Debug\netcoreapp3.1\Ejercicios listas Nu4.pdb
+D:\Estructura_Datos\02_Unidad_II\02_Clase_2\02_Ejemplos\04_ArrayList\obj\Debug\netcoreapp3.1\Ejercicios listas Nu4.genruntimeconfig.cache

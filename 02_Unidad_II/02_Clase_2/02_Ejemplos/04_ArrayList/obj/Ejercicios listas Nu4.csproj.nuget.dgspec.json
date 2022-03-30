@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OneDrive - Ucompensar\\DOCENCIA\\ESTRUCTURA DE DATOS\\2.- CONTENIDO\\UNIDAD II\\2.- CLASE 2\\3.- EJERCICIOS\\Clase 6 Giron\\Ejercicios listas Nu4\\Ejercicios listas Nu4.csproj": {}
+    "D:\\Estructura_Datos\\02_Unidad_II\\02_Clase_2\\02_Ejemplos\\04_ArrayList\\Ejercicios listas Nu4.csproj": {}
   },
   "projects": {
-    "D:\\OneDrive - Ucompensar\\DOCENCIA\\ESTRUCTURA DE DATOS\\2.- CONTENIDO\\UNIDAD II\\2.- CLASE 2\\3.- EJERCICIOS\\Clase 6 Giron\\Ejercicios listas Nu4\\Ejercicios listas Nu4.csproj": {
+    "D:\\Estructura_Datos\\02_Unidad_II\\02_Clase_2\\02_Ejemplos\\04_ArrayList\\Ejercicios listas Nu4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive - Ucompensar\\DOCENCIA\\ESTRUCTURA DE DATOS\\2.- CONTENIDO\\UNIDAD II\\2.- CLASE 2\\3.- EJERCICIOS\\Clase 6 Giron\\Ejercicios listas Nu4\\Ejercicios listas Nu4.csproj",
+        "projectUniqueName": "D:\\Estructura_Datos\\02_Unidad_II\\02_Clase_2\\02_Ejemplos\\04_ArrayList\\Ejercicios listas Nu4.csproj",
         "projectName": "Ejercicios listas Nu4",
-        "projectPath": "D:\\OneDrive - Ucompensar\\DOCENCIA\\ESTRUCTURA DE DATOS\\2.- CONTENIDO\\UNIDAD II\\2.- CLASE 2\\3.- EJERCICIOS\\Clase 6 Giron\\Ejercicios listas Nu4\\Ejercicios listas Nu4.csproj",
+        "projectPath": "D:\\Estructura_Datos\\02_Unidad_II\\02_Clase_2\\02_Ejemplos\\04_ArrayList\\Ejercicios listas Nu4.csproj",
         "packagesPath": "C:\\Users\\luisg\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive - Ucompensar\\DOCENCIA\\ESTRUCTURA DE DATOS\\2.- CONTENIDO\\UNIDAD II\\2.- CLASE 2\\3.- EJERCICIOS\\Clase 6 Giron\\Ejercicios listas Nu4\\obj\\",
+        "outputPath": "D:\\Estructura_Datos\\02_Unidad_II\\02_Clase_2\\02_Ejemplos\\04_ArrayList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luisg\\AppData\\Roaming\\NuGet\\NuGet.Config",

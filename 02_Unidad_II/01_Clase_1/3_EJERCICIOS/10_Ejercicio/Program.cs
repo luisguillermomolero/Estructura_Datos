@@ -84,8 +84,6 @@ namespace AplicacionBase
                 }
                 Console.WriteLine("");
             }
-
-
         }
     }
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Estructura_Datos\\02_Unidad_II\\2.- CLASE 2\\2.- EJEMPLOS\\02_ArrayList\\2.- ArrayList2.csproj",
+      "projectUniqueName": "D:\\Estructura_Datos\\02_Unidad_II\\02_Clase_2\\02_Ejemplos\\02_ArrayList\\2.- ArrayList2.csproj",
       "projectName": "2.- ArrayList2",
-      "projectPath": "D:\\Estructura_Datos\\02_Unidad_II\\2.- CLASE 2\\2.- EJEMPLOS\\02_ArrayList\\2.- ArrayList2.csproj",
+      "projectPath": "D:\\Estructura_Datos\\02_Unidad_II\\02_Clase_2\\02_Ejemplos\\02_ArrayList\\2.- ArrayList2.csproj",
       "packagesPath": "C:\\Users\\luisg\\.nuget\\packages\\",
-      "outputPath": "D:\\Estructura_Datos\\02_Unidad_II\\2.- CLASE 2\\2.- EJEMPLOS\\02_ArrayList\\obj\\",
+      "outputPath": "D:\\Estructura_Datos\\02_Unidad_II\\02_Clase_2\\02_Ejemplos\\02_ArrayList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luisg\\AppData\\Roaming\\NuGet\\NuGet.Config",
