@@ -1,10 +1,14 @@
-﻿using System; //https://docs.microsoft.com/es-es/dotnet/api/system?view=dotnet-plat-ext-3.1
-using System.Linq; //https://docs.microsoft.com/es-es/dotnet/api/system.linq?view=netcore-3.1
-using System.Text;  //https://docs.microsoft.com/es-es/dotnet/api/system.text?view=netcore-3.1
-using System.Collections;  //https://docs.microsoft.com/es-es/dotnet/api/system.collections?view=netcore-3.1
-using System.Collections.Generic;  //https://docs.microsoft.com/es-es/dotnet/api/system.collections.generic?view=dotnet-plat-ext-3.1
+﻿using System;
 
 //El "namespace" organiza las clases y evitar duplicidad dentro de un entorno, agrupándo las clases de un modo más lógico y jerárquico.
+
+// ********* Para crear el entorno del programa, abra una consola en la carpeta donde se encuentra el
+// archivo .cs y escriba lo siguiente:
+// dotnet new console -o Program 
+// (donde Program será el nombre de la carpeta donde se guarde todo el proyecto), finalmente, borre el archivo .cs
+
+// Video del SDK:
+// https://www.youtube.com/watch?v=FfZu7jNk-2I
 
 // *********  Para ejecutar: dotnet run *********
 

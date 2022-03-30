@@ -1,21 +1,17 @@
 ﻿using System;
 using System.Collections;
-
 namespace Aplicacionbase
 {
     /* Programa que permite utilizar los métodos iniciales para crear un
      * ArrayList, agregar datos e imprimirlos a traves del Foreach desde el método "imprime"*/
-
     class Program
     {
-
         static void ImprimirArrayList(ArrayList arreglo){
             foreach (int n in arreglo)
                 Console.Write($"  {n} ");
 
             Console.WriteLine("\n—————————————");
         }
-
         static void Main(string[] args)
         {
             ArrayList datos = new ArrayList();

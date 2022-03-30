@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections;
-
 namespace Aplicacionbase
 {
     public class Program
