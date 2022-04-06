@@ -14,8 +14,7 @@ namespace AplicacionBase
         static void Main(string[] args)
         {
 
-            int opcion = 0;
-            string valor = "";
+            int Opcion = 0;
             int numero = 0;
             bool encontrado = false;
 
@@ -33,26 +32,23 @@ namespace AplicacionBase
                 Console.WriteLine("5- Salir");
 
                 Console.Write("Dime una opcion del menú: ");
-                
-                valor = Console.ReadLine();
-                opcion = Convert.ToInt32(valor);
+                Opcion = int.Parse(System.Console.ReadLine());
 
 
-                if (opcion == 1)
+                if (Opcion == 1)
                 {
                     // Agregar un valor al Queue
 
                     Console.WriteLine("");
                     Console.Write("Introduce un número para la cola:  ");
-                    valor = Console.ReadLine();
-                    numero = Convert.ToInt32(valor);
+                    numero = int.Parse(System.Console.ReadLine());
 
                     // Adicionamos  el  valor en  el queue
                     miCola.Enqueue(numero);
 
                 }
 
-                if (opcion == 2)
+                if (Opcion == 2)
                 {
                     // Mostrar y extraer un elemento del Queue
 
@@ -65,7 +61,7 @@ namespace AplicacionBase
 
                 }
 
-                if (opcion == 3)
+                if (Opcion == 3)
                 {
 
                     // Limpiamos todos los contenidos del Queue
@@ -74,14 +70,13 @@ namespace AplicacionBase
                     Console.WriteLine("La cola ha sido limpiada");
                 }
 
-                if (opcion == 4)
+                if (Opcion == 4)
                 {
 
                     // Pedimos  el  valor a  encontrar
                     Console.WriteLine("");
                     Console.Write("Dame el valor a encontrar:  ");
-                    valor = Console.ReadLine();
-                    numero = Convert.ToInt32(valor);
+                    numero = int.Parse(System.Console.ReadLine());
 
                     // Vemos si el elemento se encuentra
                     encontrado = miCola.Contains(numero);
@@ -99,7 +94,7 @@ namespace AplicacionBase
                 Console.WriteLine("");
 
 
-            } while (opcion != 5);
+            } while (Opcion != 5);
 
             foreach (int n in miCola)
                 Console.Write("  {0} ", n);

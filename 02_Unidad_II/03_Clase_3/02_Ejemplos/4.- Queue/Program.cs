@@ -31,21 +31,22 @@ namespace AplicacionBase
 
             // Muestra y elimina el primer valor de la cola
 
-            Console.WriteLine("\n   Mostrar y eliminar el '{0}' de la cola con \"Dequeuing\" ", numbers.Dequeue());
+            Console.WriteLine($"\n   Mostrar y eliminar el \"{numbers.Dequeue()}\" de la cola con \"Dequeuing\" ");
             
             // Muestra el siguiente valor de la cola
 
-            Console.WriteLine("\n   El siguiente elemento a mostrar y eliminar de la cola es el '{0}' ", numbers.Peek());
+            Console.WriteLine($"\n   El siguiente elemento a mostrar y eliminar de la cola es el \"{numbers.Peek()}\" ");
             
             // Muestra y elimina el segundo valor de la cola
             
-            Console.WriteLine("\n   Ahora mostrar y eliminar el '{0}' de la cola con \"Dequeuing\" ", numbers.Dequeue());
+            Console.WriteLine($"\n   Ahora mostrar y eliminar el \"{numbers.Dequeue()}\" de la cola con \"Dequeuing\" ");
 
             // Crea una copia de la cola, usando el método "ToArray"
 
            Queue<string> queueCopy = new Queue<string>(numbers.ToArray());
 
-            Console.WriteLine("\n    El contenido de la primera copia con los valores restantes:");
+            Console.Write("\n    *** La cola se ha copiado en un nuevo arreglo ***");
+            Console.WriteLine("\n        El contenido del arreglo es:");
 
             foreach (string number in queueCopy)
             {
@@ -70,9 +71,11 @@ namespace AplicacionBase
 
             Console.WriteLine("\n   Se encuentra el valor \"Cuatro\" en la cola \"queueCopy\" ?: {0}", queueCopy.Contains("Cuatro"));
 
-            Console.WriteLine("\n   *** Ahora se borrara toda la cola \"queueCopy\" con \"queueCopy.Clear()\" ***");
+            Console.WriteLine("\n   *** Ahora se borrara toda la cola \"queueCopy\" ***");
+            
             queueCopy.Clear();
-            Console.WriteLine("\n   Cuantos valores tiene la cola \"queueCopy\" ahora : {0}", queueCopy.Count);
+
+            Console.WriteLine($"\n   Cuantos valores tiene la cola \"queueCopy\" ahora : {queueCopy.Count}");
             
             Console.ReadKey();
         }

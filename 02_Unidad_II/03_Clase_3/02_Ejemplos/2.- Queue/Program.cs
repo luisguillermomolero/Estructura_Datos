@@ -30,7 +30,6 @@ namespace AplicacionBase
                 //.count cuenta la cantidad de elementos en la cola
 
                 Console.WriteLine("Elementos totales que se encuentran en la cola: " + cola.Count);
-                Console.WriteLine("");
 
                 //.dequeue() retira un elemento de la cola
 
@@ -39,8 +38,6 @@ namespace AplicacionBase
                 //.peek() muestra el proximo elemento de la cola, sin retirarlo
 
                 Console.WriteLine("el proximo elemento que queda en la cola es: " + cola.Peek());
-                Console.WriteLine("");
-                Console.WriteLine("");
             }
 
             Console.WriteLine("Elementos totales que se encuentran en la cola: " + cola.Count);
