@@ -33,7 +33,7 @@ namespace AplicacionBase
 
                 //.dequeue() retira un elemento de la cola
 
-                Console.WriteLine("Elemento retirado de la cola: " + cola.Dequeue());
+                Console.WriteLine($"El elemento retirado de la cola es {cola.Dequeue()}: ");
 
                 //.peek() muestra el proximo elemento de la cola, sin retirarlo
 

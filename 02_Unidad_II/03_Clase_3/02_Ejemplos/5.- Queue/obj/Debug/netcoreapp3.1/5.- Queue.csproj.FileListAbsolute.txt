@@ -1,0 +1,14 @@
+D:\Estructura_Datos\02_Unidad_II\03_Clase_3\02_Ejemplos\5.- Queue\bin\Debug\netcoreapp3.1\5.- Queue.exe
+D:\Estructura_Datos\02_Unidad_II\03_Clase_3\02_Ejemplos\5.- Queue\bin\Debug\netcoreapp3.1\5.- Queue.deps.json
+D:\Estructura_Datos\02_Unidad_II\03_Clase_3\02_Ejemplos\5.- Queue\bin\Debug\netcoreapp3.1\5.- Queue.runtimeconfig.json
+D:\Estructura_Datos\02_Unidad_II\03_Clase_3\02_Ejemplos\5.- Queue\bin\Debug\netcoreapp3.1\5.- Queue.runtimeconfig.dev.json
+D:\Estructura_Datos\02_Unidad_II\03_Clase_3\02_Ejemplos\5.- Queue\bin\Debug\netcoreapp3.1\5.- Queue.dll
+D:\Estructura_Datos\02_Unidad_II\03_Clase_3\02_Ejemplos\5.- Queue\bin\Debug\netcoreapp3.1\5.- Queue.pdb
+D:\Estructura_Datos\02_Unidad_II\03_Clase_3\02_Ejemplos\5.- Queue\obj\Debug\netcoreapp3.1\5.- Queue.csproj.AssemblyReference.cache
+D:\Estructura_Datos\02_Unidad_II\03_Clase_3\02_Ejemplos\5.- Queue\obj\Debug\netcoreapp3.1\5.- Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estructura_Datos\02_Unidad_II\03_Clase_3\02_Ejemplos\5.- Queue\obj\Debug\netcoreapp3.1\5.- Queue.AssemblyInfoInputs.cache
+D:\Estructura_Datos\02_Unidad_II\03_Clase_3\02_Ejemplos\5.- Queue\obj\Debug\netcoreapp3.1\5.- Queue.AssemblyInfo.cs
+D:\Estructura_Datos\02_Unidad_II\03_Clase_3\02_Ejemplos\5.- Queue\obj\Debug\netcoreapp3.1\5.- Queue.csproj.CoreCompileInputs.cache
+D:\Estructura_Datos\02_Unidad_II\03_Clase_3\02_Ejemplos\5.- Queue\obj\Debug\netcoreapp3.1\5.- Queue.dll
+D:\Estructura_Datos\02_Unidad_II\03_Clase_3\02_Ejemplos\5.- Queue\obj\Debug\netcoreapp3.1\5.- Queue.pdb
+D:\Estructura_Datos\02_Unidad_II\03_Clase_3\02_Ejemplos\5.- Queue\obj\Debug\netcoreapp3.1\5.- Queue.genruntimeconfig.cache

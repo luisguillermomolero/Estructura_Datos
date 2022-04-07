@@ -32,13 +32,13 @@ namespace AplicacionBase
                 int Co = 0;
                 Co = (int)ColaC.Dequeue();
                 Console.WriteLine($"  Cola: {Co}");
-                Pila.Push(Co);
+                Pila.Push(Co); //Carga la pila con cada elemento "Co" de la cola
             }
             //aqui mostramos por pantalla la pila
             Console.WriteLine("La pila creada: ");
             while (Pila.Count > 0)
             {
-                Console.WriteLine($"  Pila: {Pila.Pop()}");
+                Console.WriteLine($"  Pila: {Pila.Pop()}"); //Muestra el último elemento de la pila y borra
             }
             Console.WriteLine("ya no existe elementos en la cola.");
         }
